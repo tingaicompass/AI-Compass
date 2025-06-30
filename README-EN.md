@@ -6,6 +6,9 @@
   <a href="https://github.com/tingaicompass/AI-Compass/stargazers">
     <img src="https://img.shields.io/github/stars/tingaicompass/AI-Compass?style=social" >
   </a>
+  <a href="https://gitee.com/tingaicompass/ai-compass">
+    <img src="https://img.shields.io/badge/Gitee-E52E4D.svg?style=plastic&logo=Gitee">
+  </a>
   <a href="./picture/main/wx.png">
     <img src="https://img.shields.io/badge/汀丶人工智能-1AAD19.svg?style=plastic&logo=wechat&logoColor=white" >
   </a>
@@ -368,6 +371,12 @@ Please feel free to submit Issues or Pull Requests to help us build a better AI 
 ## 🙏 Acknowledgments
 
 Thanks to all contributors and the open-source community for their support and contributions to AI-Compass. Together, we are building a bridge to the future of artificial intelligence.
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tingaicompass/AI-Compass&type=Date)](https://www.star-history.com/#tingaicompass/AI-Compass&Date)
+
 
 ---
 

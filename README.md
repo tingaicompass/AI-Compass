@@ -6,6 +6,9 @@
   <a href="https://github.com/tingaicompass/AI-Compass/stargazers">
     <img src="https://img.shields.io/github/stars/tingaicompass/AI-Compass?style=social" >
   </a>
+  <a href="https://gitee.com/tingaicompass/ai-compass">
+    <img src="https://img.shields.io/badge/Gitee-E52E4D.svg?style=plastic&logo=Gitee">
+  </a>
   <a href="./picture/main/wx.png">
     <img src="https://img.shields.io/badge/汀丶人工智能-1AAD19.svg?style=plastic&logo=wechat&logoColor=white" >
   </a>
@@ -22,6 +25,9 @@
     <img src="https://img.shields.io/badge/汀丶人工智能-305590.svg?style=plastic&logo=juejin">
   </a>
 </p>
+
+
+
 
 [[中文](./README.md)]丨[[English](./README-EN.md)]
 
@@ -356,7 +362,7 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
 
 ## Star History
 
-[![Star History Chart]()]()
+[![Star History Chart](https://api.star-history.com/svg?repos=tingaicompass/AI-Compass&type=Date)](https://www.star-history.com/#tingaicompass/AI-Compass&Date)
 
 
 <div align="center">
