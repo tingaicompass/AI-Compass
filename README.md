@@ -356,8 +356,8 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
 ⚡ **更高的更新频率** - 高频资讯推送、专家答疑、技术交流  
 🎁 **限时优惠** - 与数千名AI学习者一起成长！
   * [🎫 AI Compass知识星球优惠券](https://t.zsxq.com/Tj1eS)
-  * [🎫 AI Compass知识星球](./picture/minor/KnowledgePlanet.md)
-
+  * [🎫 AI Compass知识星球优惠](./picture/minor/KnowledgePlanet.md)
+>星球支持三天内免费退款，请放心订阅。
 
 ## Star History
 
