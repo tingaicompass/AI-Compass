@@ -359,6 +359,31 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
   * [🎫 AI Compass知识星球优惠](./picture/minor/KnowledgePlanet.md)
 >星球支持三天内免费退款，请放心订阅。
 
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+
+## 💬 技术博客
+* [CSDN](https://blog.csdn.net/sinat_39620217?type=blog)  
+* [掘金](https://juejin.cn/user/4020284493662029)
+* [知乎](https://www.zhihu.com/people/tingaicompass)
+* [公众号](https://github.com/tingaicompass/AI-Compass/blob/main/picture/main/wx.png)
+* [知识星球](https://github.com/tingaicompass/AI-Compass/blob/main/picture/minor/KnowledgePlanet.md)
+
+</td>
+<td width="50%" valign="top">
+
+## 📍社交媒体
+* [头条📬](https://profile.zjurl.cn/rogue/ugc/profile/?active_tab=dongtai&app_name=news_article&device_id=65&media_id=1719833587832835&request_source=1&share_token=b744b824-20ff-420e-b4f7-6080ad127720&tt_from=copy_link&user_id=3287673762&utm_campaign=client_share&utm_medium=toutiao_android&utm_source=copy_link&version_code=120900&version_name=0)
+* [抖音🎶](https://v.douyin.com/ZbvqNyHo61I/)
+* [小红书📕](https://www.xiaohongshu.com/user/profile/605c395e000000000100108b?xsec_token=YBq0UxPBd23DZ-rGp87wTY2qVctMuK7wWKQU9LsMEaGnw%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=605c395e000000000100108b&apptime=1752306657&share_id=38c139d8155e4692b37a6316559ae8b3&share_channel=copy_link)
+
+</td>
+</tr>
+</table>
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tingaicompass/AI-Compass&type=Date)](https://www.star-history.com/#tingaicompass/AI-Compass&Date)
@@ -368,3 +393,6 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
   <p><strong>🧭 AI-Compass - Your AI Navigation Compass</strong></p>
   <p>🌟 如果本项目对您有所帮助，请为我们点亮一颗星！🌟</p>
 </div>
+
+
+--------------------------------------
