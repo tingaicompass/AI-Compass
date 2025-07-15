@@ -71,6 +71,10 @@
 - **企业团队**：完整的AI技术选型和落地方案，加速企业AI转型进程
 - **求职者**：全面的面试准备资源和项目实战经验，提升AI领域竞争力
 
+## 📅每周精选
+
+1.[AI-Compass前沿速览：NativeMind本地AI助手、Gen-CLI、千音漫语智能配音等AI工具深度解析](./weeklyHighlights/1.md)
+
 ## 🧩 模块介绍
 
 ### 📚 基础知识模块
@@ -365,7 +369,7 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
 <td width="50%" valign="top">
 
 
-## 💬 技术博客
+## 💬技术博客
 * [CSDN](https://blog.csdn.net/sinat_39620217?type=blog)  
 * [掘金](https://juejin.cn/user/4020284493662029)
 * [知乎](https://www.zhihu.com/people/tingaicompass)
