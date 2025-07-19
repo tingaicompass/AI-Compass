@@ -1,6 +1,8 @@
 # 0.蘑菇书&猫书-强化学习书籍
 
-强化学习模块构建了从理论学习到项目实战的完整RL技术生态，为强化学习研究者和工程师提供系统化的智能决策解决方案。该模块系统性地整理了蘑菇书、深度强化学习原理与实践等经典理论教材，以及Google Dopamine、Facebook ReAgent、Ray、DI-ENGINE、ElegantRL、MARL库、SLM Lab、Spinning Up in Deep RL、Stable Baselines3、Tianshou等10+个主流强化学习框架和工具库。技术栈涵盖了Unity ML-Agents强化学习环境、Gymnasium案例合集等实验平台，深入介绍了Rainbow、SAC、TD3、DDPG、A2C、PPO等单智能体算法，以及MADDPG、QMIX等多智能体算法的实现原理和应用场景。模块详细解析了价值函数逼近、策略梯度方法、深度强化学习、多智能体协作等核心技术，以及探索与利用平衡、样本效率优化、训练稳定性等关键技术挑战的解决方案。内容包括环境建模、奖励设计、网络架构、超参数调优等完整的RL开发流程，以及分布式训练、模型部署、性能评估等工程化实践技术。此外，还提供了斗地主AI、王者荣耀AI、股票量化交易、五子棋AI、扑克AI等丰富的项目案例，涵盖游戏AI、金融量化、策略博弈等多个应用领域，帮助开发者掌握从算法研究到产业应用的完整强化学习技术栈，实现复杂决策问题的智能化解决方案。
+强化学习模块构建了从理论学习到项目实战的完整RL技术生态，为强化学习研究者和工程师提供系统化的智能决策解决方案。该模块系统性地整理了蘑菇书、深度强化学习原理与实践等经典理论教材，以及Google Dopamine、Facebook ReAgent、Ray、DI-ENGINE、ElegantRL、MARL库、SLM Lab、Spinning Up in Deep RL、Stable Baselines3、Tianshou等10+个主流强化学习框架和工具库。技术栈涵盖了Unity ML-Agents强化学习环境、Gymnasium案例合集等实验平台，深入介绍了Rainbow、SAC、TD3、DDPG、A2C、PPO等单智能体算法，以及MADDPG、QMIX等多智能体算法的实现原理和应用场景。
+
+模块详细解析了价值函数逼近、策略梯度方法、深度强化学习、多智能体协作等核心技术，以及探索与利用平衡、样本效率优化、训练稳定性等关键技术挑战的解决方案。内容包括环境建模、奖励设计、网络架构、超参数调优等完整的RL开发流程，以及分布式训练、模型部署、性能评估等工程化实践技术。此外，还提供了斗地主AI、王者荣耀AI、股票量化交易、五子棋AI、扑克AI等丰富的项目案例，涵盖游戏AI、金融量化、策略博弈等多个应用领域，帮助开发者掌握从算法研究到产业应用的完整强化学习技术栈，实现复杂决策问题的智能化解决方案。
 
 - [强化学习蘑菇书](https://datawhalechina.github.io/easy-rl/#/chapter1/chapter1)
 - [深度强化学习：原理与实践](https://github.com/chenzomi12/Deep-Reinforcement-Learning)

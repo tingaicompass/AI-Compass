@@ -1,7 +1,9 @@
 # Python
 
 
-Python模块构建了面向AI开发的完整Python技术栈，涵盖了从基础编程到高级AI应用的系统化学习路径。该模块整理了华为云、阿里云天池、飞桨AI Studio等主流平台的Python学习课程，以及DevOps开发路线图、数据竞赛实战教程等专业内容。技术栈包括DearPyGui界面开发、PrettyErrors错误美化、Diagrams架构图绘制、Scalene性能分析等实用Python库，深入介绍了修饰器（Decorator）设计模式、Schedule任务调度、多进程并发编程等高级编程技巧。模块系统性地梳理了Python在数据科学、机器学习、深度学习领域的核心库使用方法，包括NumPy数值计算、Pandas数据处理、Matplotlib可视化、Scikit-learn机器学习等基础工具，以及TensorFlow、PyTorch等深度学习框架的实战应用。内容涵盖了虚拟环境配置、包依赖管理、代码调试技巧、性能优化策略等开发环境最佳实践，以及Jupyter Notebook交互式开发、Git版本控制、单元测试、文档编写等软件工程技能。此外，还提供了Python在AI项目中的架构设计、代码规范、部署方案、监控运维等工程化实践指导，帮助开发者建立扎实的Python编程基础，掌握AI项目开发的核心技能。
+Python模块构建了面向AI开发的完整Python技术栈，涵盖了从基础编程到高级AI应用的系统化学习路径。该模块整理了华为云、阿里云天池、飞桨AI Studio等主流平台的Python学习课程，以及DevOps开发路线图、数据竞赛实战教程等专业内容。技术栈包括DearPyGui界面开发、PrettyErrors错误美化、Diagrams架构图绘制、Scalene性能分析等实用Python库，深入介绍了修饰器（Decorator）设计模式、Schedule任务调度、多进程并发编程等高级编程技巧。
+
+模块系统性地梳理了Python在数据科学、机器学习、深度学习领域的核心库使用方法，包括NumPy数值计算、Pandas数据处理、Matplotlib可视化、Scikit-learn机器学习等基础工具，以及TensorFlow、PyTorch等深度学习框架的实战应用。内容涵盖了虚拟环境配置、包依赖管理、代码调试技巧、性能优化策略等开发环境最佳实践，以及Jupyter Notebook交互式开发、Git版本控制、单元测试、文档编写等软件工程技能。此外，还提供了Python在AI项目中的架构设计、代码规范、部署方案、监控运维等工程化实践指导，帮助开发者建立扎实的Python编程基础，掌握AI项目开发的核心技能。
 
 
 - [DevOps-Roadmap：2022 年 DevOps 路线图。带有学习资源](https://github.com/milanm/DevOps-Roadmap)
