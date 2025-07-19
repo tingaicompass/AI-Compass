@@ -74,6 +74,7 @@
 ## 📅每周精选
 
 1.[AI-Compass前沿速览：NativeMind本地AI助手、Gen-CLI、千音漫语智能配音等AI工具深度解析](./weeklyHighlights/1.md)
+2.[🆕AI-Compass前沿速览：ChatGPT Agent、Kimi2、Mistral语音模型、Grok AI情感陪伴、百度Tizzy、有言数字人](./weeklyHighlights/2.md)
 
 ## 🧩 模块介绍
 

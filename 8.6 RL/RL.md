@@ -7,6 +7,7 @@
 
 # 强化学习库推荐
 
+![Snipaste_2025-07-19_15-14-55.png](https://free.picui.cn/free/2025/07/19/687b460b76d0e.png)
 
 - [强化学习库合集](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)
 - [google/dopamine: Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.](https://github.com/google/dopamine/)
@@ -23,6 +24,8 @@
 
 #### 简介
 Pearl是Meta（原Facebook Research）开源的一个生产就绪的强化学习（RL）AI代理库，旨在帮助研究人员和开发者构建强化学习AI代理。它专注于长期累积反馈而非短期反馈，并能适应数据有限的环境，强调其在实际生产环境中的可用性和高效性。
+
+![Snipaste_2025-07-19_15-15-12.png](https://free.picui.cn/free/2025/07/19/687b460b4437f.png)
 
 #### 核心功能
 *   **强化学习AI代理开发与部署：** 提供构建和在生产环境中部署强化学习AI代理的能力。
@@ -129,6 +132,9 @@ DI-engine可广泛应用于多种决策智能和强化学习相关的场景，�
 
 #### 简介
 ElegantRL是一个基于PyTorch实现的开源深度强化学习（DRL）库，旨在提供一个轻量级、高效且稳定的下一代DRL框架。它通过整合大规模并行模拟、集成方法和基于种群的训练等前沿技术，致力于推动DRL领域的研究与应用，并具备强大的可扩展性。
+![Snipaste_2025-07-19_15-13-19.png](https://free.picui.cn/free/2025/07/19/687b460b7adb4.png)
+
+![Snipaste_2025-07-19_15-13-05.png](https://free.picui.cn/free/2025/07/19/687b460b3fae7.png)
 
 #### 核心功能
 *   **大规模并行训练**：支持对DRL算法进行高效、大规模的并行模拟与训练。
