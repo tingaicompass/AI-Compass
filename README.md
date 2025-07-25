@@ -75,9 +75,11 @@
 
 ## 📅每周精选
 
-1.[AI-Compass前沿速览：NativeMind本地AI助手、Gen-CLI、千音漫语智能配音等AI工具深度解析](./weeklyHighlights/1.md)
-2.[AI-Compass前沿速览：ChatGPT Agent、Kimi2、Mistral语音模型、Grok AI情感陪伴、百度Tizzy、有言数字人](./weeklyHighlights/2.md)
-3.[🆕AI-Compass前沿速览：Qwen3模型升级、字节GR-3机器人、TRAE SOLO、JoyAgent OxyGent京东智能体框架、智谱Z.ai炫酷PPT制作](./weeklyHighlights/3.md)
+1. [AI-Compass前沿速览：NativeMind本地AI助手、Gen-CLI、千音漫语智能配音等AI工具深度解析](./weeklyHighlights/1.md)
+
+2. [AI-Compass前沿速览：ChatGPT Agent、Kimi2、Mistral语音模型、Grok AI情感陪伴、百度Tizzy、有言数字人](./weeklyHighlights/2.md)
+
+3. [🆕AI-Compass前沿速览：Qwen3模型升级、字节GR-3机器人、TRAE SOLO、JoyAgent OxyGent京东智能体框架、智谱Z.ai炫酷PPT制作](./weeklyHighlights/3.md)
 
 ## 🧩 模块介绍
 
