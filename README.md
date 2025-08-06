@@ -78,13 +78,28 @@
 
 ## 📅每周精选
 
+### 📡往期
+
 1. [AI-Compass前沿速览：NativeMind本地AI助手、Gen-CLI、千音漫语智能配音等AI工具深度解析](./weeklyHighlights/1.md)
 
 2. [AI-Compass前沿速览：ChatGPT Agent、Kimi2、Mistral语音模型、Grok AI情感陪伴、百度Tizzy、有言数字人](./weeklyHighlights/2.md)
 
 3. [AI-Compass前沿速览：Qwen3模型升级、字节GR-3机器人、TRAE SOLO、JoyAgent OxyGent京东智能体框架、智谱Z.ai炫酷PPT制作](./weeklyHighlights/3.md)
 
-4. [🆕AI-Compass前沿速览：可灵创意工坊、字节Coze Studio&Coze Loop、通义万相2.2 、智谱GLM-4.5、腾讯混元3D世界模型开源](./weeklyHighlights/4.md)
+4. [AI-Compass前沿速览：可灵创意工坊、字节Coze Studio&Coze Loop、通义万相2.2 、智谱GLM-4.5、腾讯混元3D世界模型开源](./weeklyHighlights/4.md)
+
+### 🔭本期
+
+5. [🆕AI Compass前沿速览：gemini-StorybookAI故事、gpt-oss推理模型开源、Qwen-Image文生图、RedOne社交大模型、小米MiDashengLM](./weeklyHighlights/5.md)
+
+5. [🆕AI Compass趣味AI应用分享：Quin-AI塔罗占卜、FateTellAI命理分析、爱宠信箱宠物情绪陪伴应用](./weeklyHighlights/5.趣味应用.md)
+
+>* **仓库内的搜索功能**：
+>在仓库页面的右上角有一个搜索框，你可以在这里输入关键字来搜索仓库中的文件名或内容。这个搜索功能支持模糊匹配，可以帮助你快速定位到相关的文件。
+>* **浏览文件目录结构**：
+>通过左侧的文件目录树，你可以手动浏览和展开不同的文件夹来查找你需要的文件。这对于了解项目结构非常有帮助。
+
+![内容搜索](./picture/main/github11.png)
 
 ## 🧩 模块介绍
 
@@ -107,6 +122,7 @@ AI导航工具集模块构建了全方位的AI工具发现生态系统，精心�
 - [未来百科-AI合集](https://www.huntagi.com/)
 - [文武科技柜 - 文武科技社的后花园，免费软件、教程资源、NAS、黑苹果全面收录](https://www.wangdu.site/)
 - [边界AI - 智能AI对话、写作与画图生成工具的领先方案](https://ai1foo.com/)
+- [AI导航](https://ai-nav.net/)
 
 #### [1.1 Prompt工程👈](./1.1%20Prompt工程/2.Prompt工程.md)
 
