@@ -88,11 +88,15 @@
 
 4. [AI-Compass前沿速览：可灵创意工坊、字节Coze Studio&Coze Loop、通义万相2.2 、智谱GLM-4.5、腾讯混元3D世界模型开源](./weeklyHighlights/4.md)
 
+5. [AI Compass趣味AI应用分享：Quin-AI塔罗占卜、FateTellAI命理分析、爱宠信箱宠物情绪陪伴应用](./weeklyHighlights/5.趣味应用.md)
+
 ### 🔭本期👇👇
 
 5. [🆕AI Compass前沿速览：gemini-StorybookAI故事、gpt-oss推理模型开源、Qwen-Image文生图、RedOne社交大模型、小米MiDashengLM](./weeklyHighlights/5.md)
 
-5. [🆕AI Compass趣味AI应用分享：Quin-AI塔罗占卜、FateTellAI命理分析、爱宠信箱宠物情绪陪伴应用](./weeklyHighlights/5.趣味应用.md)
+6. [🆕AI Compass前沿速览：Qwen3-Coder、Ollama 桌面版、Kimi K2高速版、FLUX.1 Krea 文生图、小星绪漫画生成、氢离子医学AI助手](./weeklyHighlights/6.md)
+
+7. [🆕AI Compass前沿速览：Claude Opus 4.1、MiniMax-Speech 2.5、Qwen-Flash、Jules – 谷歌AI编程智能体](./weeklyHighlights/7.md)
 
 
 -----------------------
