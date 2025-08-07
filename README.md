@@ -76,7 +76,7 @@
 - **企业团队**：完整的AI技术选型和落地方案，加速企业AI转型进程
 - **求职者**：全面的面试准备资源和项目实战经验，提升AI领域竞争力
 
-## 📅每周精选
+## 📅每周精选👇👇👇
 
 ### 📡往期
 
@@ -88,12 +88,14 @@
 
 4. [AI-Compass前沿速览：可灵创意工坊、字节Coze Studio&Coze Loop、通义万相2.2 、智谱GLM-4.5、腾讯混元3D世界模型开源](./weeklyHighlights/4.md)
 
-### 🔭本期
+### 🔭本期👇👇
 
 5. [🆕AI Compass前沿速览：gemini-StorybookAI故事、gpt-oss推理模型开源、Qwen-Image文生图、RedOne社交大模型、小米MiDashengLM](./weeklyHighlights/5.md)
 
 5. [🆕AI Compass趣味AI应用分享：Quin-AI塔罗占卜、FateTellAI命理分析、爱宠信箱宠物情绪陪伴应用](./weeklyHighlights/5.趣味应用.md)
 
+
+-----------------------
 >* **仓库内的搜索功能**：
 >在仓库页面的右上角有一个搜索框，你可以在这里输入关键字来搜索仓库中的文件名或内容。这个搜索功能支持模糊匹配，可以帮助你快速定位到相关的文件。
 >* **浏览文件目录结构**：
