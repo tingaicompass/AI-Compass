@@ -78,7 +78,8 @@
 
 ## 📅每周精选👇👇👇
 
-### 📡往期
+<details>
+<summary>📡往期</summary>
 
 1. [AI-Compass前沿速览：NativeMind本地AI助手、Gen-CLI、千音漫语智能配音等AI工具深度解析](./weeklyHighlights/1.md)
 
@@ -96,9 +97,13 @@
 
 7. [AI Compass前沿速览：Claude Opus 4.1、MiniMax-Speech 2.5、Qwen-Flash、Jules – 谷歌AI编程智能体](./weeklyHighlights/7.md)
 
+8.  [AI Compass前沿速览：RynnVLA视觉-语言-动作模型、GLM-4.5V 、DreamVVT虚拟换衣、 WeKnora框架、GitMCP、NeuralAgent桌面AI助手](./weeklyHighlights/8.md)
+
+</details>
+
 ### 🔭本期👇👇
 
-8.  [🆕AI Compass前沿速览：RynnVLA视觉-语言-动作模型、GLM-4.5V 、DreamVVT虚拟换衣、 WeKnora框架、GitMCP、NeuralAgent桌面AI助手](./weeklyHighlights/8.md)
+[🆕AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架](./weeklyHighlights/9.md)
 
 
 -----------------------
