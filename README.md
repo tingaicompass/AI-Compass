@@ -105,6 +105,8 @@
 
 [🆕AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架](./weeklyHighlights/9.md)
 
+[🆕AI Compass前沿速览：Qoder Agentic编程、vivo Vision头显、AIRI桌面伴侣、RM-Gallery奖励模型平台、Sim-Agent工作流](./weeklyHighlights/10.md)
+
 
 -----------------------
 >* **仓库内的搜索功能**：
