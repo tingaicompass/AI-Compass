@@ -103,9 +103,11 @@
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架](./weeklyHighlights/9.md)
+[AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架](./weeklyHighlights/9.md)
 
-[🆕AI Compass前沿速览：Qoder Agentic编程、vivo Vision头显、AIRI桌面伴侣、RM-Gallery奖励模型平台、Sim-Agent工作流](./weeklyHighlights/10.md)
+[AI Compass前沿速览：Qoder Agentic编程、vivo Vision头显、AIRI桌面伴侣、RM-Gallery奖励模型平台、Sim-Agent工作流](./weeklyHighlights/10.md)
+
+[🆕AI Compass前沿速览：Jetson Thor英伟达AI计算、Gemini 2.5 Flash Image、Youtu腾讯智能体框架、Wan2.2-S2V多模态视频生成、SpatialGen 3D场景生成模型](./weeklyHighlights/11.md)
 
 
 -----------------------
@@ -492,7 +494,7 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
 ### 📱 关注微信公众号「汀丶人工智能」
 🔥 精选AI前沿资讯 | 📚 深度技术解读 | 💡 实战案例分享
 
-### 🤝 欢迎AI Compass知识星球
+### 🤝 欢迎加入AI Compass知识星球
 🎯 **更深入的内容** - 独家教程、项目实战、面试指导  
 ⚡ **更高的更新频率** - 高频资讯推送、专家答疑、技术交流  
 🎁 **限时优惠** - 与数千名AI学习者一起成长！
