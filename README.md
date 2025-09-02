@@ -99,15 +99,19 @@
 
 8.  [AI Compass前沿速览：RynnVLA视觉-语言-动作模型、GLM-4.5V 、DreamVVT虚拟换衣、 WeKnora框架、GitMCP、NeuralAgent桌面AI助手](./weeklyHighlights/8.md)
 
+9. [AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架](./weeklyHighlights/9.md)
+
+10. [AI Compass前沿速览：Qoder Agentic编程、vivo Vision头显、AIRI桌面伴侣、RM-Gallery奖励模型平台、Sim-Agent工作流](./weeklyHighlights/10.md)
+
+11. [AI Compass前沿速览：Jetson Thor英伟达AI计算、Gemini 2.5 Flash Image、Youtu腾讯智能体框架、Wan2.2-S2V多模态视频生成、SpatialGen 3D场景生成模型](./weeklyHighlights/11.md)
+
 </details>
 
 ### 🔭本期👇👇
 
-[AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架](./weeklyHighlights/9.md)
+[🆕AI Compass前沿速览：PixVerse V5、gpt-realtime、Grok Code Fast、HunyuanVideo、OmniHuman-1.5、字节WaverAI视频、MiniCPM 4.5等](./weeklyHighlights/12.md)
 
-[AI Compass前沿速览：Qoder Agentic编程、vivo Vision头显、AIRI桌面伴侣、RM-Gallery奖励模型平台、Sim-Agent工作流](./weeklyHighlights/10.md)
 
-[🆕AI Compass前沿速览：Jetson Thor英伟达AI计算、Gemini 2.5 Flash Image、Youtu腾讯智能体框架、Wan2.2-S2V多模态视频生成、SpatialGen 3D场景生成模型](./weeklyHighlights/11.md)
 
 
 -----------------------
