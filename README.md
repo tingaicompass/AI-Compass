@@ -111,7 +111,7 @@
 
 [🆕AI Compass前沿速览：PixVerse V5、gpt-realtime、Grok Code Fast、HunyuanVideo、OmniHuman-1.5、字节WaverAI视频、MiniCPM 4.5等](./weeklyHighlights/12.md)
 
-
+[🆕AI Compass前沿速览：Nano Banana玩法教学、AgentScope、Hunyuan-MT-7B、HunyuanWorld-Voyager、AudioStory](./weeklyHighlights/13.md)
 
 
 -----------------------
