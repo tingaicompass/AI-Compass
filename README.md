@@ -111,8 +111,17 @@
 
 [🆕AI Compass前沿速览：PixVerse V5、gpt-realtime、Grok Code Fast、HunyuanVideo、OmniHuman-1.5、字节WaverAI视频、MiniCPM 4.5等](./weeklyHighlights/12.md)
 
+![wave.png](https://free-img.mofashi.ltd/5/2025/09/01/68b53a70209a7.png)
+
+![wave-model.png](https://free-img.mofashi.ltd/5/2025/09/01/68b53a719e6ba.png)
+
 [🆕AI Compass前沿速览：Nano Banana玩法教学、AgentScope、Hunyuan-MT-7B、HunyuanWorld-Voyager、AudioStory](./weeklyHighlights/13.md)
 
+![nano-banana-32-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e20d35513.png)
+
+![nano-banana-7-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e20b0cf94.png)
+
+![nano-banana-46-1-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e206b8df6.png)
 
 -----------------------
 >* **仓库内的搜索功能**：
