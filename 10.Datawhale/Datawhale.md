@@ -52,8 +52,21 @@ Datawhale模块汇聚了国内领先的开源学习社区的优质教育资源�
 
 - [datawhalechina/happy-llm: 📚 从零开始的大语言模型原理与实践教程](https://github.com/datawhalechina/happy-llm/tree/main)
 - [！self-llm: 《开源大模型食用指南》含训练](https://github.com/datawhalechina/self-llm)
-- [datawhalechina/hugging-llm: HuggingLLM, Hugging Future.](https://github.com/datawhalechina/hugging-llm)
+- [蝴蝶🦋书datawhalechina/hugging-llm: HuggingLLM, Hugging Future.](https://github.com/datawhalechina/hugging-llm)
 - [datawhalechina/llm-cookbook: 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版](https://github.com/datawhalechina/llm-cookbook)
+
+
+* [开源大模型食用指南](https://github.com/datawhalechina/self-llm)需要先学习环境配置，然后再学习模型的部署使用，最后再学习微调。因为环境配置是基础，模型的部署使用是基础，微调是进阶。初学者可以选择Qwen3，InternLM3，MiniCPM4等模型优先学习。
+
+* 如果有同学在学习本课程之后，想要自己动手开发大模型应用。同学们可以参考 Datawhale 的 动手学大模型应用开发 课程，该项目是一个面向小白开发者的大模型应用开发教程[LLM Universe](https://github.com/datawhalechina/llm-universe)，旨在基于阿里云服务器，结合个人知识库助手项目，向同学们完整的呈现大模型应用开发流程。
+
+* 希望了解大模型的模型构成，以及从零手写RAG、Agent和Eval等任务，可以学习Datawhale的另一个项目[Tiny-Universe](https://github.com/datawhalechina/tiny-universe/tree/main)，大模型是当下深度学习领域的热点，但现有的大部分大模型教程只在于教给大家如何调用api完成大模型的应用，而很少有人能够从原理层面讲清楚模型结构、RAG、Agent 以及 Eval。所以该仓库会提供全部手写，不采用调用api的形式，完成大模型的 RAG 、 Agent 、Eval 任务。
+
+* 进阶学习推荐 ：如果您在学习完本项目后，希望更深入地理解大语言模型的核心原理，并渴望亲手从零开始训练属于自己的大模型，强烈推荐关注 Datawhale 的另一个开源项目—— [Happy-LLM 从零开始的大语言模型原理与实践教程](https://github.com/datawhalechina/happy-llm/tree/main) 。该项目将带您深入探索大模型的底层机制，掌握完整的训练流程。
+
+* 考虑到有同学希望在学习本项目之前，希望学习大模型的理论部分，如果想要进一步深入学习 LLM 的理论基础，并在理论的基础上进一步认识、应用 LLM，可以参考 Datawhale 的 [so-large-llm](https://github.com/datawhalechina/so-large-lm/tree/main)课程。
+
+
 
 # 0.Multi-Agent
 
