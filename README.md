@@ -123,6 +123,12 @@
 
 ![nano-banana-46-1-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e206b8df6.png)
 
+[🆕AI Compass前沿速览：Kimi K2、InfinityHuman-AI数字人、3D-AI桌面伴侣、叠叠社–AI虚拟陪伴](./weeklyHighlights/14.md)
+
+![叠叠社.png](https://free-img.mofashi.ltd/5/2025/09/05/68ba4ee7cd9e1.png)
+
+![infinityhuman-pipeline.png](https://free-img.mofashi.ltd/5/2025/09/05/68ba4ee62e6bd.png)
+
 -----------------------
 >* **仓库内的搜索功能**：
 >在仓库页面的右上角有一个搜索框，你可以在这里输入关键字来搜索仓库中的文件名或内容。这个搜索功能支持模糊匹配，可以帮助你快速定位到相关的文件。
