@@ -105,15 +105,13 @@
 
 11. [AI Compass前沿速览：Jetson Thor英伟达AI计算、Gemini 2.5 Flash Image、Youtu腾讯智能体框架、Wan2.2-S2V多模态视频生成、SpatialGen 3D场景生成模型](./weeklyHighlights/11.md)
 
+12. [AI Compass前沿速览：PixVerse V5、gpt-realtime、Grok Code Fast、HunyuanVideo、OmniHuman-1.5、字节WaverAI视频、MiniCPM 4.5等](./weeklyHighlights/12.md)
+
+13. [AI Compass前沿速览：Kimi K2、InfinityHuman-AI数字人、3D-AI桌面伴侣、叠叠社–AI虚拟陪伴](./weeklyHighlights/14.md)
+
 </details>
 
 ### 🔭本期👇👇
-
-[🆕AI Compass前沿速览：PixVerse V5、gpt-realtime、Grok Code Fast、HunyuanVideo、OmniHuman-1.5、字节WaverAI视频、MiniCPM 4.5等](./weeklyHighlights/12.md)
-
-![wave.png](https://free-img.mofashi.ltd/5/2025/09/01/68b53a70209a7.png)
-
-![wave-model.png](https://free-img.mofashi.ltd/5/2025/09/01/68b53a719e6ba.png)
 
 [🆕AI Compass前沿速览：Nano Banana玩法教学、AgentScope、Hunyuan-MT-7B、HunyuanWorld-Voyager、AudioStory](./weeklyHighlights/13.md)
 
@@ -123,11 +121,17 @@
 
 ![nano-banana-46-1-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e206b8df6.png)
 
-[🆕AI Compass前沿速览：Kimi K2、InfinityHuman-AI数字人、3D-AI桌面伴侣、叠叠社–AI虚拟陪伴](./weeklyHighlights/14.md)
 
-![叠叠社.png](https://free-img.mofashi.ltd/5/2025/09/05/68ba4ee7cd9e1.png)
+[🆕字节Seedream4.0、Qwen3-Max、EmbeddingGemma、OneCAT多模态、rStar2-Agent](./weeklyHighlights/15.md)
 
-![infinityhuman-pipeline.png](https://free-img.mofashi.ltd/5/2025/09/05/68ba4ee62e6bd.png)
+![gemma.png](https://free-img.mofashi.ltd/5/2025/09/08/68be7402796dc.png)
+
+
+[🆕AI Compass前沿速览：CodeBuddy Code、即梦4.0、MiniCPM 4.1 、Hunyuan2.1、Qwen3-ASR、SpikingBrain脑脉冲大模型](./weeklyHighlights/16.md)
+
+![vidu.png](https://free-img.mofashi.ltd/5/2025/09/11/68c248097cb39.png)
+
+![hunyuan2.1.png](https://free-img.mofashi.ltd/5/2025/09/11/68c246ed574a6.png)
 
 -----------------------
 >* **仓库内的搜索功能**：
