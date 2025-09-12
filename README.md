@@ -30,15 +30,16 @@
 </p>
 
 
+
 [[中文](./README.md)]丨[[English](./README-EN.md)丨[[官网](https://space.coze.cn/coding-expert-runtime/276757782274?task_id=7532330670594277651)]
-
-
 
 # AI-Compass     
 
 **AI-Compass**将为你和社区提供在AI技术海洋中航行的方向与指引。无论你是刚踏入AI领域的初学者，还是寻求技术突破的进阶开发者，都能在这里找到通往AI各大技术方向的清晰路径和实践指南。作为一个全面覆盖人工智能技术栈的综合性开源项目，AI-Compass 不仅仅是一个简单的资源收集库，更是一个经过精心策划和系统化组织的AI学习生态系统。
 
 我们深度整合了从基础理论到前沿应用的完整知识体系，涵盖大语言模型、多模态AI、机器学习、深度学习、计算机视觉、自然语言处理、推荐系统、强化学习等核心技术领域，以及RAG、Agent、GraphRAG等前沿应用架构。项目还包含了丰富的工程实践资源，从模型训练、推理部署到产品化落地的全流程技术指南，帮助开发者构建从概念验证到商业化应用的完整技术能力。
+
+[🎫 AI Compass知识星球优惠券](./picture/minor/KnowledgePlanet.md)
 
 ## 目录
 
@@ -51,7 +52,7 @@
   - [📖 学习资源模块](#-学习资源模块)
   - [🌐 社区与平台模块](#-社区与平台模块)
   - [🏢 企业开源模块](#-企业开源模块)
-- [🌐 未来愿景](#-未来愿景)
+- [🌐 未来愿景(含星球优惠券)](#-未来愿景)
 - [Star History](#star-history)
 
 >链接🔗：均支持跳转👈
@@ -132,6 +133,13 @@
 ![vidu.png](https://free-img.mofashi.ltd/5/2025/09/11/68c248097cb39.png)
 
 ![hunyuan2.1.png](https://free-img.mofashi.ltd/5/2025/09/11/68c246ed574a6.png)
+
+
+[🆕AI Compass前沿速览：Qwen3-Next、Seedream 4.0玩法教程、FireRedTTS-2、SRPO文生图模型、MiniMax Music 1.5 ](./weeklyHighlights/17.md)
+
+[![](https://ai-bot.cn/wp-content/uploads/2025/09/Seedream-4.0-4-1.png)](https://ai-bot.cn/wp-content/uploads/2025/09/Seedream-4.0-4-1.png)
+
+![srpo1.png](https://free-img.mofashi.ltd/5/2025/09/12/68c3c9e29d8a5.png)
 
 -----------------------
 >* **仓库内的搜索功能**：
@@ -354,7 +362,6 @@ AI数据库模块专注于新一代智能数据存储与管理技术，汇聚了
 
 模块深入介绍了这些AI数据库在RAG检索增强、推荐系统、知识图谱、实时风控、IoT数据分析等典型应用场景中的架构设计和性能优势，以及与主流AI框架的集成方案、数据迁移策略、运维监控体系等工程化实践。此外，还提供了AI数据库选型对比、性能基准测试、成本效益分析、扩展性评估等实用指南，以及数据安全、隐私计算、合规管理等企业级部署的关键考量，帮助开发者构建高效、可靠、智能的AI数据基础设施。
 
- 
 
 #### [8.2 AI可视化👈](./8.2%20AI可视化/8.AI可视.md)
 AI可视化模块专注于AI模型和数据的直观呈现技术，构建了从模型调试到业务展示的完整可视化解决方案。该模块系统性地整理了Gradio快速原型构建、Streamlit交互式应用开发、微软NNI神经网络可视化调参等3个核心AI可视化工具，涵盖了模型演示、参数调优、实验管理等关键应用场景。技术特色包括零代码模型部署、拖拽式界面构建、实时参数调节、自动化超参数搜索、可视化实验对比等实用功能，详细介绍了Gradio的组件系统、Streamlit的响应式布局、NNI的AutoML能力等核心技术特性。
@@ -521,7 +528,7 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
 ⚡ **更高的更新频率** - 高频资讯推送、专家答疑、技术交流  
 🎁 **限时优惠** - 与数千名AI学习者一起成长！
   * [AI Compass知识星球](https://t.zsxq.com/Tj1eS)
-  * [🎫 AI Compass知识星球优惠](./picture/minor/KnowledgePlanet.md)
+  * [🎫 AI Compass知识星球优惠券](./picture/minor/KnowledgePlanet.md)
 >星球支持三天内免费退款，请放心订阅。
 
 
