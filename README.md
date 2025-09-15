@@ -110,36 +110,30 @@
 
 13. [AI Compass前沿速览：Kimi K2、InfinityHuman-AI数字人、3D-AI桌面伴侣、叠叠社–AI虚拟陪伴](./weeklyHighlights/14.md)
 
+14. [AI Compass前沿速览：Nano Banana玩法教学、AgentScope、Hunyuan-MT-7B、HunyuanWorld-Voyager、AudioStory](./weeklyHighlights/13.md)
+
+15. [字节Seedream4.0、Qwen3-Max、EmbeddingGemma、OneCAT多模态、rStar2-Agent](./weeklyHighlights/15.md)
+
+
+
+16. [AI Compass前沿速览：CodeBuddy Code、即梦4.0、MiniCPM 4.1 、Hunyuan2.1、Qwen3-ASR、SpikingBrain脑脉冲大模型](./weeklyHighlights/16.md)
+
+
 </details>
 
 ### 🔭本期👇👇
-
-[🆕AI Compass前沿速览：Nano Banana玩法教学、AgentScope、Hunyuan-MT-7B、HunyuanWorld-Voyager、AudioStory](./weeklyHighlights/13.md)
-
-![nano-banana-32-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e20d35513.png)
-
-![nano-banana-7-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e20b0cf94.png)
-
-![nano-banana-46-1-1.png](https://free-img.mofashi.ltd/5/2025/09/03/68b7e206b8df6.png)
-
-
-[🆕字节Seedream4.0、Qwen3-Max、EmbeddingGemma、OneCAT多模态、rStar2-Agent](./weeklyHighlights/15.md)
-
-![gemma.png](https://free-img.mofashi.ltd/5/2025/09/08/68be7402796dc.png)
-
-
-[🆕AI Compass前沿速览：CodeBuddy Code、即梦4.0、MiniCPM 4.1 、Hunyuan2.1、Qwen3-ASR、SpikingBrain脑脉冲大模型](./weeklyHighlights/16.md)
-
-![vidu.png](https://free-img.mofashi.ltd/5/2025/09/11/68c248097cb39.png)
-
-![hunyuan2.1.png](https://free-img.mofashi.ltd/5/2025/09/11/68c246ed574a6.png)
-
 
 [🆕AI Compass前沿速览：Qwen3-Next、Seedream 4.0玩法教程、FireRedTTS-2、SRPO文生图模型、MiniMax Music 1.5 ](./weeklyHighlights/17.md)
 
 [![](https://ai-bot.cn/wp-content/uploads/2025/09/Seedream-4.0-4-1.png)](https://ai-bot.cn/wp-content/uploads/2025/09/Seedream-4.0-4-1.png)
 
 ![srpo1.png](https://free-img.mofashi.ltd/5/2025/09/12/68c3c9e29d8a5.png)
+
+[🆕AI Compass前沿速览：IndexTTS2–B站、HuMo、Stand-In视觉生成框架、Youtu-GraphRAG、MobileLLM-R1–Meta、PP-OCRv5](./weeklyHighlights/18.md)
+
+![stand-in1.png](https://free-img.mofashi.ltd/5/2025/09/15/68c8019d59222.png)
+
+![youtu-graphrag1.png](https://free-img.mofashi.ltd/5/2025/09/15/68c8018ea6031.png)
 
 -----------------------
 >* **仓库内的搜索功能**：
