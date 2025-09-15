@@ -20,7 +20,7 @@
 - [pfnet/pfrl: PFRL: a PyTorch-based deep reinforcement learning library](https://github.com/pfnet/pfrl/)
 - [rail-berkeley/rlkit: Collection of reinforcement learning algorithms](https://github.com/rail-berkeley/rlkit/)
 
-------------------------------------------------------------
+-----------------------------------------------------------
 
 ## 0.Pearl
 

@@ -46,7 +46,7 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
 - [客户案例、行业应用](https://ai.baidu.com/customer)
 - [飞桨产业实践范例库](https://github.com/PaddlePaddle/awesome-DeepLearning/blob/master/Paddle_Industry_Practice_Sample_Library/README.md)
 
-------------------------------------------------------------
+-----------------------------------------------------------
 
 ## NLP课程：范例库
 

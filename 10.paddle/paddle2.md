@@ -41,7 +41,7 @@ PaddleFleetX基于飞桨深度学习框架，其核心技术原理主要体现�
 - [启动分布式任务 — FleetX 0.1.0.beta documentation](https://fleet-x.readthedocs.io/en/latest/paddle_fleet_rst/launch.html)
 - [7. 分布式预测 — PaddleFleetX 0.1.0.beta documentation](https://fleet-x.readthedocs.io/en/latest/paddle_fleet_rst/parameter_server/ps_distributed_evaluation.html)
 
-------------------------------------------------------------
+-----------------------------------------------------------
 
 
 # 0.PaddleX图形化客户端2.0
