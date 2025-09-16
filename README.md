@@ -135,6 +135,13 @@
 
 ![youtu-graphrag1.png](https://free-img.mofashi.ltd/5/2025/09/15/68c8018ea6031.png)
 
+
+[🆕AI Compass前沿速览：GPT-5-Codex 、宇树科技世界模型、InfiniteTalk美团数字人、ROMA多智能体框架、混元3D 3.0](./weeklyHighlights/19.md)
+
+![infinite.png](https://free-img.mofashi.ltd/5/2025/09/16/68c964d6b4e1d.png)
+
+![宇树.png](https://free-img.mofashi.ltd/5/2025/09/16/68c964d6275e6.png)
+
 -----------------------
 >* **仓库内的搜索功能**：
 >在仓库页面的右上角有一个搜索框，你可以在这里输入关键字来搜索仓库中的文件名或内容。这个搜索功能支持模糊匹配，可以帮助你快速定位到相关的文件。
