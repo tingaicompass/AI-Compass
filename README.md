@@ -142,6 +142,12 @@
 
 ![宇树.png](https://free-img.mofashi.ltd/5/2025/09/16/68c964d6275e6.png)
 
+[🆕AI Compass前沿速览：Nano Bananary、MCP Registry、通义DeepResearch 、VoxCPM、InternVLA·M1具身机器人](./weeklyHighlights/20.md))
+
+![nana-banana.png](https://free-img.mofashi.ltd/5/2025/09/18/68cbee1dc6a07.png)
+
+![internvla_model.png](https://free-img.mofashi.ltd/5/2025/09/18/68cbee1c840d9.png)
+
 -----------------------
 >* **仓库内的搜索功能**：
 >在仓库页面的右上角有一个搜索框，你可以在这里输入关键字来搜索仓库中的文件名或内容。这个搜索功能支持模糊匹配，可以帮助你快速定位到相关的文件。
