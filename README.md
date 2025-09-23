@@ -118,35 +118,28 @@
 
 16. [AI Compass前沿速览：CodeBuddy Code、即梦4.0、MiniCPM 4.1 、Hunyuan2.1、Qwen3-ASR、SpikingBrain脑脉冲大模型](./weeklyHighlights/16.md)
 
+17. [AI Compass前沿速览：Qwen3-Next、Seedream 4.0玩法教程、FireRedTTS-2、SRPO文生图模型、MiniMax Music 1.5 ](./weeklyHighlights/17.md)
+
+
+18. [AI Compass前沿速览：IndexTTS2–B站、HuMo、Stand-In视觉生成框架、Youtu-GraphRAG、MobileLLM-R1–Meta、PP-OCRv5](./weeklyHighlights/18.md)
+
+
+19. [AI Compass前沿速览：GPT-5-Codex 、宇树科技世界模型、InfiniteTalk美团数字人、ROMA多智能体框架、混元3D 3.0](./weeklyHighlights/19.md)
+
+
+20. [AI Compass前沿速览：Nano Bananary、MCP Registry、通义DeepResearch 、VoxCPM、InternVLA·M1具身机器人](./weeklyHighlights/20.md)
+
 
 </details>
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：Qwen3-Next、Seedream 4.0玩法教程、FireRedTTS-2、SRPO文生图模型、MiniMax Music 1.5 ](./weeklyHighlights/17.md)
+[🆕AI Compass前沿速览：TrafficVLM、DeepSeek-Terminus、Qwen3-Omni、蚂蚁百灵、Wan2.2-Animate、Qianfan-VL](./weeklyHighlights/21.md)
 
-[![](https://ai-bot.cn/wp-content/uploads/2025/09/Seedream-4.0-4-1.png)](https://ai-bot.cn/wp-content/uploads/2025/09/Seedream-4.0-4-1.png)
+[![pV4ja9K.md.png](https://s21.ax1x.com/2025/09/22/pV4ja9K.md.png)](https://imgse.com/i/pV4ja9K)
 
-![srpo1.png](https://free-img.mofashi.ltd/5/2025/09/12/68c3c9e29d8a5.png)
+![q3o.png](https://free-img.mofashi.ltd/5/2025/09/23/68d2a16d58bab.png)
 
-[🆕AI Compass前沿速览：IndexTTS2–B站、HuMo、Stand-In视觉生成框架、Youtu-GraphRAG、MobileLLM-R1–Meta、PP-OCRv5](./weeklyHighlights/18.md)
-
-![stand-in1.png](https://free-img.mofashi.ltd/5/2025/09/15/68c8019d59222.png)
-
-![youtu-graphrag1.png](https://free-img.mofashi.ltd/5/2025/09/15/68c8018ea6031.png)
-
-
-[🆕AI Compass前沿速览：GPT-5-Codex 、宇树科技世界模型、InfiniteTalk美团数字人、ROMA多智能体框架、混元3D 3.0](./weeklyHighlights/19.md)
-
-![infinite.png](https://free-img.mofashi.ltd/5/2025/09/16/68c964d6b4e1d.png)
-
-![宇树.png](https://free-img.mofashi.ltd/5/2025/09/16/68c964d6275e6.png)
-
-[🆕AI Compass前沿速览：Nano Bananary、MCP Registry、通义DeepResearch 、VoxCPM、InternVLA·M1具身机器人](./weeklyHighlights/20.md))
-
-![nana-banana.png](https://free-img.mofashi.ltd/5/2025/09/18/68cbee1dc6a07.png)
-
-![internvla_model.png](https://free-img.mofashi.ltd/5/2025/09/18/68cbee1c840d9.png)
 
 -----------------------
 >* **仓库内的搜索功能**：
