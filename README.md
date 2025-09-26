@@ -141,6 +141,12 @@
 ![q3o.png](https://free-img.mofashi.ltd/5/2025/09/23/68d2a16d58bab.png)
 
 
+[🆕AI Compass前沿速览：Qwen3-Max、Mixboard、Qwen3-VL、Audio2Face、Vidu Q2 AI视频生成模型、Qwen3-LiveTranslate-全模态同传大模型](./weeklyHighlights/22.md)
+
+[![pVIJdUg.png](https://s21.ax1x.com/2025/09/26/pVIJdUg.png)](https://imgse.com/i/pVIJdUg)
+
+[![pVIJNb8.png](https://s21.ax1x.com/2025/09/26/pVIJNb8.png)](https://imgse.com/i/pVIJNb8)
+
 -----------------------
 >* **仓库内的搜索功能**：
 >在仓库页面的右上角有一个搜索框，你可以在这里输入关键字来搜索仓库中的文件名或内容。这个搜索功能支持模糊匹配，可以帮助你快速定位到相关的文件。
