@@ -129,23 +129,22 @@
 
 20. [AI Compass前沿速览：Nano Bananary、MCP Registry、通义DeepResearch 、VoxCPM、InternVLA·M1具身机器人](./weeklyHighlights/20.md)
 
+21. [AI Compass前沿速览：TrafficVLM、DeepSeek-Terminus、Qwen3-Omni、蚂蚁百灵、Wan2.2-Animate、Qianfan-VL](./weeklyHighlights/21.md)
+
+22. [AI Compass前沿速览：Qwen3-Max、Mixboard、Qwen3-VL、Audio2Face、Vidu Q2 AI视频生成模型、Qwen3-LiveTranslate-全模态同传大模型](./weeklyHighlights/22.md)
+
 
 </details>
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：TrafficVLM、DeepSeek-Terminus、Qwen3-Omni、蚂蚁百灵、Wan2.2-Animate、Qianfan-VL](./weeklyHighlights/21.md)
+[🆕AI Compass前沿速览：DeepSeek-V3.2、Sora 2、Imagine v0.9、LONGLIVE–英伟达、xLLM、OpenAgents](./weeklyHighlights/23.md)
 
-[![pV4ja9K.md.png](https://s21.ax1x.com/2025/09/22/pV4ja9K.md.png)](https://imgse.com/i/pV4ja9K)
+![](https://pic1.imgdb.cn/item/68e907e9c5157e1a8862a8d1.jpg)
 
-![q3o.png](https://free-img.mofashi.ltd/5/2025/09/23/68d2a16d58bab.png)
+![](https://pic1.imgdb.cn/item/68e908a7c5157e1a8862abf4.jpg)
 
-
-[🆕AI Compass前沿速览：Qwen3-Max、Mixboard、Qwen3-VL、Audio2Face、Vidu Q2 AI视频生成模型、Qwen3-LiveTranslate-全模态同传大模型](./weeklyHighlights/22.md)
-
-[![pVIJdUg.png](https://s21.ax1x.com/2025/09/26/pVIJdUg.png)](https://imgse.com/i/pVIJdUg)
-
-[![pVIJNb8.png](https://s21.ax1x.com/2025/09/26/pVIJNb8.png)](https://imgse.com/i/pVIJNb8)
+![](https://pic1.imgdb.cn/item/68e90894c5157e1a8862ab67.png)
 
 -----------------------
 >* **仓库内的搜索功能**：
