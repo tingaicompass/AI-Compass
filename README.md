@@ -142,7 +142,7 @@
 
 ![](https://pic1.imgdb.cn/item/68f8944e3203f7be008d86b0.png)
 
-![](https://pic1.imgdb.cn/item/68f8944e3203f7be008d86b0.png)
+![](https://pic1.imgdb.cn/item/68f894513203f7be008d86bd.png)
 
 -----------------------
 >* **仓库内的搜索功能**：
