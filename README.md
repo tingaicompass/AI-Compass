@@ -134,15 +134,18 @@
 22. [AI Compass前沿速览：Qwen3-Max、Mixboard、Qwen3-VL、Audio2Face、Vidu Q2 AI视频生成模型、Qwen3-LiveTranslate-全模态同传大模型](./weeklyHighlights/22.md)
 23. [AI Compass前沿速览：DeepSeek-V3.2、Sora 2、Imagine v0.9、LONGLIVE–英伟达、xLLM、OpenAgents](./weeklyHighlights/23.md)
 
+24. [AI Compass前沿速览：ChatGPT Atlas、Claude Code、Haiku 4.5、Veo 3.1、nanochat、DeepSeek-OCR](./weeklyHighlights/24.md)
+
 </details>
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：ChatGPT Atlas、Claude Code、Haiku 4.5、Veo 3.1、nanochat、DeepSeek-OCR](./weeklyHighlights/24.md)
+[🆕AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、豆包1.0-pro-fast](./weeklyHighlights/25.md)
 
-![](https://pic1.imgdb.cn/item/68f8944e3203f7be008d86b0.png)
+![](https://pic1.imgdb.cn/item/6905c3f53203f7be00bf51ce.png)
 
-![](https://pic1.imgdb.cn/item/68f894513203f7be008d86bd.png)
+![](https://pic1.imgdb.cn/item/6905c3f63203f7be00bf51d9.png)
+
 
 -----------------------
 >* **仓库内的搜索功能**：
