@@ -140,7 +140,7 @@
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、豆包1.0-pro-fast](./weeklyHighlights/25.md)
+[🆕AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、Kimi-k2 Thinking](./weeklyHighlights/25.md)
 
 ![](https://pic1.imgdb.cn/item/6905c3f53203f7be00bf51ce.png)
 
