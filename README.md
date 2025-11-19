@@ -136,15 +136,20 @@
 
 24. [AI Compass前沿速览：ChatGPT Atlas、Claude Code、Haiku 4.5、Veo 3.1、nanochat、DeepSeek-OCR](./weeklyHighlights/24.md)
 
+25. [AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、Kimi-k2 Thinking](./weeklyHighlights/25.md)
+
 </details>
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、Kimi-k2 Thinking](./weeklyHighlights/25.md)
+[🆕AI Compass前沿速览：Gemini 3、Grok 4.1、GPT-5.1、千问、Lumine-3D开世界AI智能体](./weeklyHighlights/26.md)
 
-![](https://pic1.imgdb.cn/item/6905c3f53203f7be00bf51ce.png)
+![gemini3.png](https://free-img.mofashi.ltd/5/2025/11/19/691d84caf1332.png)
 
-![](https://pic1.imgdb.cn/item/6905c3f63203f7be00bf51d9.png)
+![lumine.png](https://free-img.mofashi.ltd/5/2025/11/18/691c61f029cde.png)
+
+![lumine1.png](https://free-img.mofashi.ltd/5/2025/11/18/691c61f319752.png)
+
 
 
 -----------------------
