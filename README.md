@@ -138,17 +138,19 @@
 
 25. [AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、Kimi-k2 Thinking](./weeklyHighlights/25.md)
 
+26. [AI Compass前沿速览：Gemini 3、Grok 4.1、GPT-5.1、千问、Lumine-3D开世界AI智能体](./weeklyHighlights/26.md)
+
 </details>
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：Gemini 3、Grok 4.1、GPT-5.1、千问、Lumine-3D开世界AI智能体](./weeklyHighlights/26.md)
+[🆕AI Compass前沿速览：Nano Banana Pro、Gemini 3 、 HunyuanVideo 1.5 、Meta SAM 3D生成](./weeklyHighlights/27.md)
 
-![gemini3.png](https://free-img.mofashi.ltd/5/2025/11/19/691d84caf1332.png)
+![banana-1.png](https://free-img.mofashi.ltd/5/2025/11/22/6921622da2d3c.png)
 
-![lumine.png](https://free-img.mofashi.ltd/5/2025/11/18/691c61f029cde.png)
+![sam3d.png](https://free-img.mofashi.ltd/5/2025/11/22/6921622debbe8.png)
 
-![lumine1.png](https://free-img.mofashi.ltd/5/2025/11/18/691c61f319752.png)
+![sam3d-intro.png](https://free-img.mofashi.ltd/5/2025/11/22/6921622d0c92e.png)
 
 
 
