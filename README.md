@@ -140,19 +140,19 @@
 
 26. [AI Compass前沿速览：Gemini 3、Grok 4.1、GPT-5.1、千问、Lumine-3D开世界AI智能体](./weeklyHighlights/26.md)
 
+27. [AI Compass前沿速览：Nano Banana Pro、Gemini 3 、 HunyuanVideo 1.5 、Meta SAM 3D生成](./weeklyHighlights/27.md)
+
 </details>
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：Nano Banana Pro、Gemini 3 、 HunyuanVideo 1.5 、Meta SAM 3D生成](./weeklyHighlights/27.md)
+[🆕AI Compass前沿速览：Open-AutoGLM智能体框架、Z-Image图像生成、GLM-4.6V多模态理解与可灵2.6音画同步技术](./weeklyHighlights/28.md)
 
-![banana-1.png](https://free-img.mofashi.ltd/5/2025/11/22/6921622da2d3c.png)
+![](https://i.postimg.cc/cHBcykv1/Long-Cat-Image.jpg)
 
-![sam3d.png](https://free-img.mofashi.ltd/5/2025/11/22/6921622debbe8.png)
+![](https://i.postimg.cc/ZnYxTPNP/z-image.png)
 
-![sam3d-intro.png](https://free-img.mofashi.ltd/5/2025/11/22/6921622d0c92e.png)
-
-
+![](https://i.postimg.cc/vBtvF249/Z-Image-architecture.webp)
 
 -----------------------
 >* **仓库内的搜索功能**：
