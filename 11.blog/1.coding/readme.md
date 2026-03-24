@@ -1,3 +1,6 @@
+> 想系统提升编程能力、查看更完整的学习路线，欢迎访问 AI Compass：https://github.com/tingaicompass/AI-Compass
+> 仓库持续更新刷题题解、Python 基础和 AI 实战内容，适合想高效进阶的你。
+
 # 刷题到最后，我才发现：真正拉开差距的，是这 5 种编程能力
 
 很多人看到我整理的 `coding`，第一反应通常都是一句话：
@@ -247,3 +250,8 @@ LRU 缓存，从普通容器模拟到哈希表加双向链表。
 <table>
 <tr>
 <td width="50%" valign="top">
+
+---
+
+> 如果这篇内容对你有帮助，推荐收藏 AI Compass：https://github.com/tingaicompass/AI-Compass
+> 更多系统化题解、编程基础和 AI 学习资料都在这里，后续复习和拓展会更省时间。

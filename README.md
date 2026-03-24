@@ -41,11 +41,14 @@
 
 除了作为资料库阅读，**这个仓库也适合作为 `AI 编程助手的本地知识库`**。你只需要 `fork` 或下载整个仓库到本地，就可以直接结合 `Claude Code`、`Codex` 等工具，对仓库内容进行**智能问答、专题检索、项目结构拆解和学习路线梳理**；无论是快速理解某个目录、追问某个技术点，还是让 AI 深入拆解一个完整项目，这个仓库都能直接提供高质量上下文。
 
+如果你准备把它长期作为本地知识库使用，建议把 [`weeklyHighlights/latest.md`](./weeklyHighlights/latest.md)、[`weeklyHighlights/INDEX.md`](./weeklyHighlights/INDEX.md) 和 [`weeklyHighlights/README.md`](./weeklyHighlights/README.md) 一起交给 AI 阅读。这样 AI 更容易区分**长期沉淀内容**与**周度增量更新**，回答“最近有什么变化”“过去几周提到过哪些产品/模型”这类问题时会更稳定。
+
 [🎫 AI Compass知识星球优惠券](./picture/minor/KnowledgePlanet.md)
 
 ## 目录
 
 - [🎯 项目定位](#-项目定位)
+- [🤖 作为知识库使用](#-作为知识库使用)
 - [🧩 模块介绍](#-模块介绍)
   - [✍️ 博客模块](#-博客模块)
   - [💻 Code模块](#-code模块)
@@ -84,7 +87,24 @@
 - **企业团队**：完整的AI技术选型和落地方案，加速企业AI转型进程
 - **求职者**：全面的面试准备资源和项目实战经验，提升AI领域竞争力
 
+## 🤖 作为知识库使用
+
+如果你想把整个仓库交给 `Claude Code`、`Codex` 等 AI 工具做长期问答，推荐优先从下面几个入口建立上下文：
+
+1. [`README.md`](./README.md)：理解仓库总览与模块边界
+2. [`weeklyHighlights/latest.md`](./weeklyHighlights/latest.md)：定位最近一期增量内容
+3. [`weeklyHighlights/INDEX.md`](./weeklyHighlights/INDEX.md)：按时间线回看历史周报
+4. [`weeklyHighlights/README.md`](./weeklyHighlights/README.md)：理解这个目录的维护约定
+
+推荐提问方式：
+
+- “请优先区分 `weeklyHighlights` 里的增量周报，与其他目录中的长期知识沉淀，再回答。”
+- “如果涉及最近更新，请先检查 `weeklyHighlights/latest.md` 和对应周报正文。”
+- “回答时请引用具体文件路径，并说明结论来自周报增量还是专题沉淀。”
+
 ## 📅每周精选👇👇👇
+
+> 如果你是把仓库当知识库来用，建议优先查看 [`latest.md`](./weeklyHighlights/latest.md) 和 [`INDEX.md`](./weeklyHighlights/INDEX.md)；后续新增周报时请同步更新这两个文件，并参考 [`TEMPLATE.md`](./weeklyHighlights/TEMPLATE.md) 补齐元数据。
 
 <details>
 <summary>📡往期</summary>
@@ -115,9 +135,9 @@
 
 12. [AI Compass前沿速览：PixVerse V5、gpt-realtime、Grok Code Fast、HunyuanVideo、OmniHuman-1.5、字节WaverAI视频、MiniCPM 4.5等](./weeklyHighlights/12.md)
 
-13. [AI Compass前沿速览：Kimi K2、InfinityHuman-AI数字人、3D-AI桌面伴侣、叠叠社–AI虚拟陪伴](./weeklyHighlights/14.md)
+13. [AI Compass前沿速览：Nano Banana玩法教学、AgentScope、Hunyuan-MT-7B、HunyuanWorld-Voyager、AudioStory](./weeklyHighlights/13.md)
 
-14. [AI Compass前沿速览：Nano Banana玩法教学、AgentScope、Hunyuan-MT-7B、HunyuanWorld-Voyager、AudioStory](./weeklyHighlights/13.md)
+14. [AI Compass前沿速览：Kimi K2、InfinityHuman-AI数字人、3D-AI桌面伴侣、叠叠社–AI虚拟陪伴](./weeklyHighlights/14.md)
 
 15. [字节Seedream4.0、Qwen3-Max、EmbeddingGemma、OneCAT多模态、rStar2-Agent](./weeklyHighlights/15.md)
 

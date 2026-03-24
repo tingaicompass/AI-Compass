@@ -1,3 +1,6 @@
+> 想系统提升编程能力、查看更完整的学习路线，欢迎访问 AI Compass：https://github.com/tingaicompass/AI-Compass
+> 仓库持续更新刷题题解、Python 基础和 AI 实战内容，适合想高效进阶的你。
+
 # 📖 第49课:二叉树的最近公共祖先
 
 > **模块**:二叉树 | **难度**:Medium ⭐⭐⭐
@@ -638,3 +641,8 @@ def lowestCommonAncestor_BST(root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNo
 </td>
 </tr>
 </table>
+
+---
+
+> 如果这篇内容对你有帮助，推荐收藏 AI Compass：https://github.com/tingaicompass/AI-Compass
+> 更多系统化题解、编程基础和 AI 学习资料都在这里，后续复习和拓展会更省时间。
