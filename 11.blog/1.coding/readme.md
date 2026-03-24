@@ -138,8 +138,8 @@
 3. 判断瓶颈属于查找、重复计算、状态维护，还是搜索空间过大
 4. 再选择合适的工具去优化
 
-比如两数之和，从双循环到一遍哈希表；  
-零钱兑换，从递归爆搜到记忆化搜索或 DP；  
+比如两数之和，从双循环到一遍哈希表；
+零钱兑换，从递归爆搜到记忆化搜索或 DP；
 LRU 缓存，从普通容器模拟到哈希表加双向链表。
 
 这条“从直觉到最优”的链路，我认为比最后那几行代码更有价值。
@@ -191,8 +191,8 @@ LRU 缓存，从普通容器模拟到哈希表加双向链表。
 
 这也是我觉得这套内容相对普通题解更有优势的地方。
 
-它更强调方法，不只是结果；  
-更强调链路，不只是结论；  
+它更强调方法，不只是结果；
+更强调链路，不只是结论；
 更强调迁移，不只是记忆。
 
 ## 四、如果只用一句话总结这 107 道编程题的作用
@@ -232,35 +232,18 @@ LRU 缓存，从普通容器模拟到哈希表加双向链表。
 而这，可能才是刷题这件事最值得投入的地方。
 
 ### 📱 关注微信公众号「汀丶人工智能」
+
 🔥 精选AI前沿资讯 | 📚 深度技术解读 | 💡 实战案例分享
 
 ### 🤝 欢迎加入AI Compass知识星球
-🎯 **更深入的内容** - 独家教程、项目实战、面试指导  
-⚡ **更高的更新频率** - 高频资讯推送、专家答疑、技术交流  
-🎁 **限时优惠** - 与数千名AI学习者一起成长！
-  * [AI Compass知识星球](https://t.zsxq.com/Tj1eS)
-  * [🎫 AI Compass知识星球优惠券](https://github.com/tingaicompass/AI-Compass/blob/main/picture/minor/KnowledgePlanet.md)
->星球支持三天内免费退款，请放心订阅。
+
+🎯 **更深入的内容** - 独家教程、项目实战、面试指导⚡ **更高的更新频率** - 高频资讯推送、专家答疑、技术交流🎁 **限时优惠** - 与数千名AI学习者一起成长！
+
+* [AI Compass知识星球](https://t.zsxq.com/Tj1eS)
+* [🎫 AI Compass知识星球优惠券](https://github.com/tingaicompass/AI-Compass/blob/main/picture/minor/KnowledgePlanet.md)
+
+> 星球支持三天内免费退款，请放心订阅。
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-## 💬技术博客
-* [CSDN](https://blog.csdn.net/sinat_39620217?type=blog)  
-* [掘金](https://juejin.cn/user/4020284493662029)
-* [知乎](https://www.zhihu.com/people/tingaicompass)
-* [公众号](https://github.com/tingaicompass/AI-Compass/blob/main/picture/main/wx.png)
-* [知识星球](https://github.com/tingaicompass/AI-Compass/blob/main/picture/minor/KnowledgePlanet.md)
-
-</td>
-<td width="50%" valign="top">
-
-## 📍社交媒体
-* [头条📬](https://profile.zjurl.cn/rogue/ugc/profile/?active_tab=dongtai&app_name=news_article&device_id=65&media_id=1719833587832835&request_source=1&share_token=b744b824-20ff-420e-b4f7-6080ad127720&tt_from=copy_link&user_id=3287673762&utm_campaign=client_share&utm_medium=toutiao_android&utm_source=copy_link&version_code=120900&version_name=0)
-* [抖音🎶](https://v.douyin.com/ZbvqNyHo61I/)
-* [小红书📕](https://www.xiaohongshu.com/user/profile/605c395e000000000100108b?xsec_token=YBq0UxPBd23DZ-rGp87wTY2qVctMuK7wWKQU9LsMEaGnw%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=605c395e000000000100108b&apptime=1752306657&share_id=38c139d8155e4692b37a6316559ae8b3&share_channel=copy_link)
-
-</td>
-</tr>
-</table>

@@ -148,18 +148,25 @@
 26. [AI Compass前沿速览：Gemini 3、Grok 4.1、GPT-5.1、千问、Lumine-3D开世界AI智能体](./weeklyHighlights/26.md)
 
 27. [AI Compass前沿速览：Nano Banana Pro、Gemini 3 、 HunyuanVideo 1.5 、Meta SAM 3D生成](./weeklyHighlights/27.md)
+28. [AI Compass前沿速览：Open-AutoGLM智能体框架、Z-Image图像生成、GLM-4.6V多模态理解与可灵2.6音画同步技术](./weeklyHighlights/28.md)
+    ![](https://i.postimg.cc/ZnYxTPNP/z-image.png)
+29. [AI Compass前沿速览：GPT-5.2发布 | Qwen3全模态升级 | Runway世界模型 | 智谱视频生成双子星](./weeklyHighlights/29.md)
 
 </details>
 
 ### 🔭本期👇👇
 
-[🆕AI Compass前沿速览：Open-AutoGLM智能体框架、Z-Image图像生成、GLM-4.6V多模态理解与可灵2.6音画同步技术](./weeklyHighlights/28.md)
+[🆕刷题到最后，我才发现：真正拉开差距的，是这 5 种编程能力](./11.blog/1.coding/readme.md)
 
-![](https://i.postimg.cc/cHBcykv1/Long-Cat-Image.jpg)
+很多人看到我整理的 `coding`，第一反应通常都是一句话：“你这不就是在刷题吗？”如果只看目录，这么理解也不奇怪。毕竟后面确实是一道道编程题，从两数之和、滑动窗口、链表、二叉树，到动态规划、图论、Trie、LRU 缓存，一路排到了 107 题。
 
-![](https://i.postimg.cc/ZnYxTPNP/z-image.png)
+但把这件事从头到尾做完之后，我越来越确定一件事：**真正拉开编程能力差距的，从来不是你刷了多少题，而是你有没有借这些题，把一套稳定的问题解决能力练出来** ，这也是我后来重新看待这 107 道题的原因。
 
-![](https://i.postimg.cc/vBtvF249/Z-Image-architecture.webp)
+它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力。
+
+
+[🆕AI Compass前沿速览：GLM-Claw | EdgeClaw Box体验 | 新LongCat-Flash-Prover | 智象未来「帧赞」内测](./weeklyHighlights/30.md)
+
 
 -----------------------
 >* **仓库内的搜索功能**：
