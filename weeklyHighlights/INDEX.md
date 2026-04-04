@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-04-01
+last_updated: 2026-04-04
 ---
 
 # weeklyHighlights 索引
@@ -51,6 +51,7 @@ last_updated: 2026-04-01
 | 29 | 前沿速览 | [29.md](./29.md) | AI Compass前沿速览：GPT-5.2发布、Qwen3全模态升级、Runway世界模型、智谱视频生成双子星 |
 | 30 | 前沿速览 | [30.md](./30.md) | AI Compass前沿速览：GLM-Claw、EdgeClaw Box体验、新LongCat-Flash-Prover、智象未来「帧赞」内测 |
 | 31 | 前沿速览 | [31.md](./31.md) | AI Compass前沿速览：Veo 3.1 Lite、Qwen3.5-Omni、DeerFlow 2.0领衔本周AI热点 |
+| 32 | 前沿速览 | [32.md](./32.md) | AI Compass前沿速览：Qwen3.6-Plus、Wan2.7-Video、Gemma 4领衔本周AI热点 |
 
 ## 给 AI 的使用约定
 
