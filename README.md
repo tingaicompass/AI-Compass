@@ -176,9 +176,12 @@
 
 31. [AI Compass前沿速览：Veo 3.1 Lite、Qwen3.5-Omni、DeerFlow 2.0领衔本周AI热点](./weeklyHighlights/31.md)
 
+32. [AI Compass前沿速览：Qwen3.6-Plus、Wan2.7-Video、Gemma 4领衔本周AI热点](./weeklyHighlights/32.md)
+
 </details>
 
 ### 🔭本期👇👇
+
 
 
 
@@ -190,9 +193,9 @@
 
 它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：**抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力**。
 
-[🆕AI Compass前沿速览：Qwen3.6-Plus、Wan2.7-Video、Gemma 4领衔本周AI热点](./weeklyHighlights/32.md)
+[🆕AI Compass前沿速览：Claude Mythos、GLM-5.1、LifeSim领衔本周AI热点](./weeklyHighlights/33.md)
 
-本期前沿速览聚焦 Qwen3.6-Plus、Wan2.7-Video、Gemma 4 等热点，覆盖视频生成、多模态交互、Agent 工作流和开发效率等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
+本期前沿速览聚焦 Claude Mythos、GLM-5.1、LifeSim 等热点，覆盖视频生成、多模态交互、Agent 工作流和开发效率等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
 >* **仓库内的搜索功能**：

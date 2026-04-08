@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 32
-latest_file: ./32.md
-latest_title: AI Compass前沿速览：Qwen3.6-Plus、Wan2.7-Video、Gemma 4领衔本周AI热点
-published_at: 2026-04-04
-last_updated: 2026-04-04
+latest_issue: 33
+latest_file: ./33.md
+latest_title: AI Compass前沿速览：Claude Mythos、GLM-5.1、LifeSim领衔本周AI热点
+published_at: 2026-04-08
+last_updated: 2026-04-08
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：32
-- 发布时间：2026-04-04
-- 文件入口：[32.md](./32.md)
-- 标题：AI Compass前沿速览：Qwen3.6-Plus、Wan2.7-Video、Gemma 4领衔本周AI热点
+- 最新期数：33
+- 发布时间：2026-04-08
+- 文件入口：[33.md](./33.md)
+- 标题：AI Compass前沿速览：Claude Mythos、GLM-5.1、LifeSim领衔本周AI热点
 
 ## AI 使用建议
 
