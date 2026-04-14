@@ -182,7 +182,24 @@
 
 ### 🔭本期👇👇
 
+[项目文章点击跳转：今天不想硬撑？来领一张《摆烂许可证》](./11.blog/2.ai-project/摆烂许可证.md)
 
+![](https://pic1.imgdb.cn/item/69ddd193f76f4dd14b45db76.png)
+
+总有一些时刻，你不是不想努力，你只是想先缓一缓。
+
+这时候，如果有一个系统一本正经地告诉你：
+
+**“经检测，你今天可以合法摆烂。”**
+
+那种感觉，真的会让人瞬间想笑。
+
+这就是 **摆烂许可证** 最有意思的地方。
+
+* **访问链接**：[https://yn7w763h6t.coze.site](https://yn7w763h6t.coze.site)
+* B站链接：[https://www.bilibili.com/video/BV1H1QvBcE35/?vd_source=8b49296a88726fc4482af0f68854e4b2](https://www.bilibili.com/video/BV1H1QvBcE35/?vd_source=8b49296a88726fc4482af0f68854e4b2)
+
+![](https://pic1.imgdb.cn/item/69ddd19cf76f4dd14b45db81.png)
 
 
 [🆕刷题到最后，我才发现：真正拉开差距的，是这 5 种编程能力](./11.blog/1.coding/readme.md)
