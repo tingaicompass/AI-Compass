@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 33
-latest_file: ./33.md
-latest_title: AI Compass前沿速览：Claude Mythos、GLM-5.1、LifeSim领衔本周AI热点
-published_at: 2026-04-08
-last_updated: 2026-04-08
+latest_issue: 34
+latest_file: ./34.md
+latest_title: AI Compass前沿速览：聚焦 OmniShow、Gemini 3.1 Flash TTS 与 新混元3D世界模型 2.0
+published_at: 2026-04-16
+last_updated: 2026-04-16
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：33
-- 发布时间：2026-04-08
-- 文件入口：[33.md](./33.md)
-- 标题：AI Compass前沿速览：Claude Mythos、GLM-5.1、LifeSim领衔本周AI热点
+- 最新期数：34
+- 发布时间：2026-04-16
+- 文件入口：[34.md](./34.md)
+- 标题：AI Compass前沿速览：聚焦 OmniShow、Gemini 3.1 Flash TTS 与 新混元3D世界模型 2.0
 
 ## AI 使用建议
 
