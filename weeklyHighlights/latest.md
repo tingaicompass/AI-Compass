@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 34
-latest_file: ./34.md
-latest_title: AI Compass前沿速览：聚焦 OmniShow、Gemini 3.1 Flash TTS 与 新混元3D世界模型 2.0
-published_at: 2026-04-16
-last_updated: 2026-04-16
+latest_issue: 35
+latest_file: ./35.md
+latest_title: AI Compass前沿速览：聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7
+published_at: 2026-04-19
+last_updated: 2026-04-19
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：34
-- 发布时间：2026-04-16
-- 文件入口：[34.md](./34.md)
-- 标题：AI Compass前沿速览：聚焦 OmniShow、Gemini 3.1 Flash TTS 与 新混元3D世界模型 2.0
+- 最新期数：35
+- 发布时间：2026-04-19
+- 文件入口：[35.md](./35.md)
+- 标题：AI Compass前沿速览：聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7
 
 ## AI 使用建议
 

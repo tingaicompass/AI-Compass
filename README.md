@@ -180,9 +180,12 @@
 
 33. [AI Compass前沿速览：Claude Mythos、GLM-5.1、LifeSim领衔本周AI热点](./weeklyHighlights/33.md)
 
+34. [AI Compass前沿速览：聚焦 OmniShow、Gemini 3.1 Flash TTS 与 新混元3D世界模型 2.0](./weeklyHighlights/34.md)
+
 </details>
 
 ### 🔭本期👇👇
+
 
 
 [项目文章点击跳转：今天不想硬撑？来领一张《摆烂许可证》](./11.blog/2.ai-project/摆烂许可证.md)
@@ -202,9 +205,6 @@
 * **访问链接**：[https://yn7w763h6t.coze.site](https://yn7w763h6t.coze.site)
 * B站链接：[https://www.bilibili.com/video/BV1H1QvBcE35/?vd_source=8b49296a88726fc4482af0f68854e4b2](https://www.bilibili.com/video/BV1H1QvBcE35/?vd_source=8b49296a88726fc4482af0f68854e4b2)
 
-![](https://pic1.imgdb.cn/item/69ddd19cf76f4dd14b45db81.png)
-
-
 [🆕刷题到最后，我才发现：真正拉开差距的，是这 5 种编程能力](./11.blog/1.coding/readme.md)
 
 很多人看到我整理的 `coding`，第一反应通常都是一句话：“你这不就是在刷题吗？”如果只看目录，这么理解也不奇怪。毕竟后面确实是一道道编程题，从两数之和、滑动窗口、链表、二叉树，到动态规划、图论、Trie、LRU 缓存，一路排到了 107 题。
@@ -213,9 +213,9 @@
 
 它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：**抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力**。
 
-[🆕AI Compass前沿速览：聚焦 OmniShow、Gemini 3.1 Flash TTS 与 新混元3D世界模型 2.0](./weeklyHighlights/34.md)
+[🆕AI Compass前沿速览：聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7](./weeklyHighlights/35.md)
 
-本期前沿速览聚焦 OmniShow、Gemini 3.1 Flash TTS 与新混元3D世界模型 2.0 等热点，覆盖视频生成、语音交互、世界模型、Agent 工作流和开源工程等方向。这一期既能看到多模态内容生成持续升级，也能看到训练、部署与应用侧工具链同步推进。
+本期前沿速览聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7 等热点，覆盖世界模型、多模态交互、Agent 工作流和开发效率等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
 >* **仓库内的搜索功能**：
