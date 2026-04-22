@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 35
-latest_file: ./35.md
-latest_title: AI Compass前沿速览：聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7
-published_at: 2026-04-19
-last_updated: 2026-04-19
+latest_issue: 36
+latest_file: ./36.md
+latest_title: AI Compass前沿速览：聚焦 Qwen3.6-Max-Preview、ClawLess 与 AgentScope Tuner
+published_at: 2026-04-22
+last_updated: 2026-04-22
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：35
-- 发布时间：2026-04-19
-- 文件入口：[35.md](./35.md)
-- 标题：AI Compass前沿速览：聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7
+- 最新期数：36
+- 发布时间：2026-04-22
+- 文件入口：[36.md](./36.md)
+- 标题：AI Compass前沿速览：聚焦 Qwen3.6-Max-Preview、ClawLess 与 AgentScope Tuner
 
 ## AI 使用建议
 
