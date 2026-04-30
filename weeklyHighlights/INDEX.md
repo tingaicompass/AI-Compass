@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-04-22
+last_updated: 2026-04-30
 ---
 
 # weeklyHighlights 索引
@@ -56,6 +56,7 @@ last_updated: 2026-04-22
 | 34 | 前沿速览 | [34.md](./34.md) | AI Compass前沿速览：聚焦 OmniShow、Gemini 3.1 Flash TTS 与 新混元3D世界模型 2.0 |
 | 35 | 前沿速览 | [35.md](./35.md) | AI Compass前沿速览：聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7 |
 | 36 | 前沿速览 | [36.md](./36.md) | AI Compass前沿速览：聚焦 Qwen3.6-Max-Preview、ClawLess 与 AgentScope Tuner |
+| 37 | 前沿速览 | [37.md](./37.md) | AI Compass前沿速览：GPT-5.5 与 DeepSeek-V4 同周登场，星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 推动 AI 智能体与开源生态再升级 |
 
 ## 给 AI 的使用约定
 

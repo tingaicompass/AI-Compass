@@ -184,6 +184,8 @@
 
 35. [AI Compass前沿速览：聚焦 HappyOyster、Qwen3.6-35B-A3B 与 Claude Opus 4.7](./weeklyHighlights/35.md)
 
+36. [AI Compass前沿速览：聚焦 Qwen3.6-Max-Preview、ClawLess 与 AgentScope Tuner](./weeklyHighlights/36.md)
+
 </details>
 
 ### 🔭本期👇👇
@@ -216,11 +218,9 @@
 
 它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：**抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力**。
 
-[🆕AI Compass前沿速览：聚焦 Qwen3.6-Max-Preview、ClawLess 与 AgentScope Tuner](./weeklyHighlights/36.md)
+[🆕AI Compass前沿速览：GPT-5.5 与 DeepSeek-V4 同周登场，星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 推动 AI 智能体与开源生态再升级](./weeklyHighlights/37.md)
 
-本期前沿速览聚焦 ChatGPT Images 2.0、Qwen3.6-Max-Preview、ClawLess 与 AgentScope Tuner 等热点，覆盖大模型升级、Agent 安全与自动优化、多模态音视频生成等方向。这一期既能看到开发效率工具继续增强，也能看到语音、视频和智能体生态的同步演进。
-
-![](https://pic1.imgdb.cn/item/69e87d87361615f002f65987.png)
+本期前沿速览聚焦 GPT-5.5、DeepSeek-V4、星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 等热点，覆盖多模态交互、Agent 工作流、端侧模型、推理加速和开发效率等方向。这一期既能看到旗舰模型继续升级，也能看到开源算子、评测框架和行业 Agent 的同步演进。
 
 -----------------------
 >* **仓库内的搜索功能**：
