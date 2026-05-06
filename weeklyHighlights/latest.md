@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 37
-latest_file: ./37.md
-latest_title: AI Compass前沿速览：GPT-5.5 与 DeepSeek-V4 同周登场，星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 推动 AI 智能体与开源生态再升级
-published_at: 2026-04-30
-last_updated: 2026-04-30
+latest_issue: 38
+latest_file: ./38.md
+latest_title: AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级
+published_at: 2026-05-06
+last_updated: 2026-05-06
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：37
-- 发布时间：2026-04-30
-- 文件入口：[37.md](./37.md)
-- 标题：AI Compass前沿速览：GPT-5.5 与 DeepSeek-V4 同周登场，星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 推动 AI 智能体与开源生态再升级
+- 最新期数：38
+- 发布时间：2026-05-06
+- 文件入口：[38.md](./38.md)
+- 标题：AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级
 
 ## AI 使用建议
 
