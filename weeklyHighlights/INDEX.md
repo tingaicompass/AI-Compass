@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-05-06
+last_updated: 2026-05-16
 ---
 
 # weeklyHighlights 索引
@@ -58,6 +58,7 @@ last_updated: 2026-05-06
 | 36 | 前沿速览 | [36.md](./36.md) | AI Compass前沿速览：聚焦 Qwen3.6-Max-Preview、ClawLess 与 AgentScope Tuner |
 | 37 | 前沿速览 | [37.md](./37.md) | AI Compass前沿速览：GPT-5.5 与 DeepSeek-V4 同周登场，星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 推动 AI 智能体与开源生态再升级 |
 | 38 | 前沿速览 | [38.md](./38.md) | AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级 |
+| 39 | 前沿速览 | [39.md](./39.md) | AI Compass前沿速览：Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级 |
 
 ## 给 AI 的使用约定
 

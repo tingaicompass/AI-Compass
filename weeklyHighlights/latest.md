@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 38
-latest_file: ./38.md
-latest_title: AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级
-published_at: 2026-05-06
-last_updated: 2026-05-06
+latest_issue: 39
+latest_file: ./39.md
+latest_title: AI Compass前沿速览：Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级
+published_at: 2026-05-16
+last_updated: 2026-05-16
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：38
-- 发布时间：2026-05-06
-- 文件入口：[38.md](./38.md)
-- 标题：AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级
+- 最新期数：39
+- 发布时间：2026-05-16
+- 文件入口：[39.md](./39.md)
+- 标题：AI Compass前沿速览：Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级
 
 ## AI 使用建议
 

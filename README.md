@@ -188,50 +188,27 @@
 
 37. [AI Compass前沿速览：GPT-5.5 与 DeepSeek-V4 同周登场，星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 推动 AI 智能体与开源生态再升级](./weeklyHighlights/37.md)
 
+38. [AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级](./weeklyHighlights/38.md)
+
 </details>
 
 ### 🔭本期👇👇
 
+1. [🆕刷题到最后，我才发现：真正拉开差距的，是这 5 种编程能力](./11.blog/1.coding/readme.md)
 
-
-
-
-[项目文章点击跳转：今天不想硬撑？来领一张《摆烂许可证》](./11.blog/2.ai-project/摆烂许可证.md)
-
-![](https://pic1.imgdb.cn/item/69ddd193f76f4dd14b45db76.png)
-
-总有一些时刻，你不是不想努力，你只是想先缓一缓。
-
-这时候，如果有一个系统一本正经地告诉你：
-
-**“经检测，你今天可以合法摆烂。”**
-
-那种感觉，真的会让人瞬间想笑。
-
-这就是 **摆烂许可证** 最有意思的地方。
-
-* **访问链接**：[https://yn7w763h6t.coze.site](https://yn7w763h6t.coze.site)
-* B站链接：[https://www.bilibili.com/video/BV1H1QvBcE35/?vd_source=8b49296a88726fc4482af0f68854e4b2](https://www.bilibili.com/video/BV1H1QvBcE35/?vd_source=8b49296a88726fc4482af0f68854e4b2)
-
-[🆕刷题到最后，我才发现：真正拉开差距的，是这 5 种编程能力](./11.blog/1.coding/readme.md)
-
-很多人看到我整理的 `coding`，第一反应通常都是一句话：“你这不就是在刷题吗？”如果只看目录，这么理解也不奇怪。毕竟后面确实是一道道编程题，从两数之和、滑动窗口、链表、二叉树，到动态规划、图论、Trie、LRU 缓存，一路排到了 107 题。
-
-但把这件事从头到尾做完之后，我越来越确定一件事：**真正拉开编程能力差距的，从来不是你刷了多少题，而是你有没有借这些题，把一套稳定的问题解决能力练出来** ，这也是我后来重新看待这 107 道题的原因。
+很多人看到我整理的 `coding`，第一反应通常都是一句话：“你这不就是在刷题吗？”如果只看目录，这么理解也不奇怪。但把这件事从头到尾做完之后，我越来越确定一件事：**真正拉开编程能力差距的，从来不是你刷了多少题，而是你有没有借这些题，把一套稳定的问题解决能力练出来** ，这也是我后来重新看待这 107 道题的原因。
 
 它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：**抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力**。
 
-[🆕AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级](./weeklyHighlights/38.md)
+2. [LLM 相关指南&面试题](./11.blog/3.LLM_Interview/11.LLM指南与面试题专栏订阅.md)
 
-本期前沿速览聚焦 Grok 4.3、Flipbook、OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 等热点，覆盖视频生成、智能体工作流、语音输入、办公自动化与推理加速等方向。这一期既能看到内容生成能力继续升级，也能看到开源工具链、评测框架和行业 Agent 的同步演进。
+如果你正在系统学习大语言模型，或者准备大模型、NLP、算法、AI应用开发相关面试，这个系列会围绕“原理能讲清、代码能落地、面试能表达”三个目标，系统梳理 Tokenizer、词向量、位置编码、Attention、预训练、SFT、RAG、Agent、模型评估和推理部署等核心内容。当前 `11.blog/3.LLM_Interview` 已开放一批 LLM 基础与训练相关**试读内容**，适合先了解专栏写作风格；更完整的面试题、项目实战、复习路线和持续更新内容，推荐订阅 [知识星球（内容更全面）](./picture/minor/KnowledgePlanet.md)，也可以通过 [公众号专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzNDI1Mzc1Nw==&action=getalbum&album_id=4481317948334538752#wechat_redirect)、[知乎专栏](https://www.zhihu.com/column/c_1964419775628312859)、[CSDN专栏](https://blog.csdn.net/sinat_39620217/category_12620122.html) 阅读。
+
+3. [🆕AI Compass前沿速览：Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级](./weeklyHighlights/39.md)
+
+本期前沿速览聚焦 Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级 等热点，覆盖视频生成和Agent 工作流等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
->* **仓库内的搜索功能**：
->在仓库页面的右上角有一个搜索框，你可以在这里输入关键字来搜索仓库中的文件名或内容。这个搜索功能支持模糊匹配，可以帮助你快速定位到相关的文件。
->* **浏览文件目录结构**：
->通过左侧的文件目录树，你可以手动浏览和展开不同的文件夹来查找你需要的文件。这对于了解项目结构非常有帮助。
-
-![内容搜索](./picture/main/github11.png)
 
 >👍推荐把项目拉到本地，直接在IDE中搜索，并结合 Claude Code、Codex 等工具做智能问答和项目拆解，会非常方便。
 
@@ -242,6 +219,11 @@
 #### [11.blog / 1.coding 编程博客合集👈](./11.blog/1.coding/)
 
 博客模块聚焦编程能力建设与技术能力提升，当前 `11.blog/1.coding` 已沉淀出一套“Python基础 + LeetCode高频题”的成体系内容。目录中包含 19 篇面向刷题场景的 Python 语法速成教程，以及 107 道热门题的逐题讲解，覆盖数组、哈希、双指针、滑动窗口、链表、栈、二叉树、二分、回溯、动态规划、图论、Trie、堆等核心专题。**后续博客模块还会持续更新 `LLM 相关指南`、`面试技巧`与`面试题`、`企业级逻辑项目`讲解等内容，逐步形成兼顾基础学习、求职准备和项目理解的内容体系**。它既适合初学者按路径系统学习，也适合直接交给 `Claude Code`、`Codex` 等工具做题解问答、知识归纳、专题总结和学习路线拆解。
+
+* [LLM 相关指南&面试题](./11.blog/3.LLM_Interview/11.LLM指南与面试题专栏订阅.md)
+
+* [Python基础+107高频题体系内容](./11.blog/1.coding/readme.md)
+
 
 ### 💻 Code模块
 
