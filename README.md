@@ -190,6 +190,8 @@
 
 38. [AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级](./weeklyHighlights/38.md)
 
+39. [AI Compass前沿速览：Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级](./weeklyHighlights/39.md)
+
 </details>
 
 ### 🔭本期👇👇
@@ -204,9 +206,9 @@
 
 如果你正在系统学习大语言模型，或者准备大模型、NLP、算法、AI应用开发相关面试，这个系列会围绕“原理能讲清、代码能落地、面试能表达”三个目标，系统梳理 Tokenizer、词向量、位置编码、Attention、预训练、SFT、RAG、Agent、模型评估和推理部署等核心内容。当前 `11.blog/3.LLM_Interview` 已开放一批 LLM 基础与训练相关**试读内容**，适合先了解专栏写作风格；更完整的面试题、项目实战、复习路线和持续更新内容，推荐订阅 [知识星球（内容更全面）](./picture/minor/KnowledgePlanet.md)，也可以通过 [公众号专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzNDI1Mzc1Nw==&action=getalbum&album_id=4481317948334538752#wechat_redirect)、[知乎专栏](https://www.zhihu.com/column/c_1964419775628312859)、[CSDN专栏](https://blog.csdn.net/sinat_39620217/category_12620122.html) 阅读。
 
-3. [🆕AI Compass前沿速览：Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级](./weeklyHighlights/39.md)
+3. [🆕AI Compass前沿速览：Gemini Omni Flash 与 Hy 翻译 同周登场，Gemini Spark、Violin、LongCat-Video-Avatar 1.5 与 GLM-5.1-highspeed 推动 AI 智能体与开源生态再升级](./weeklyHighlights/40.md)
 
-本期前沿速览聚焦 Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级 等热点，覆盖视频生成和Agent 工作流等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
+本期前沿速览聚焦 Gemini Omni Flash 与 Hy 翻译 同周登场，Gemini Spark、Violin、LongCat-Video-Avatar 1.5 与 GLM-5.1-highspeed 推动 AI 智能体与开源生态再升级 等热点，覆盖视频生成、多模态交互和Agent 工作流等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
 
