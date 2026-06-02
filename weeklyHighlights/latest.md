@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 40
-latest_file: ./40.md
-latest_title: AI Compass前沿速览：Gemini Omni Flash 与 Hy 翻译 同周登场，Gemini Spark、Violin、LongCat-Video-Avatar 1.5 与 GLM-5.1-highspeed 推动 AI 智能体与开源生态再升级
-published_at: 2026-05-22
-last_updated: 2026-05-22
+latest_issue: 41
+latest_file: ./41.md
+latest_title: AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级
+published_at: 2026-06-02
+last_updated: 2026-06-02
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：40
-- 发布时间：2026-05-22
-- 文件入口：[40.md](./40.md)
-- 标题：AI Compass前沿速览：Gemini Omni Flash 与 Hy 翻译 同周登场，Gemini Spark、Violin、LongCat-Video-Avatar 1.5 与 GLM-5.1-highspeed 推动 AI 智能体与开源生态再升级
+- 最新期数：41
+- 发布时间：2026-06-02
+- 文件入口：[41.md](./41.md)
+- 标题：AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级
 
 ## AI 使用建议
 
