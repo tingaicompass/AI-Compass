@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 41
-latest_file: ./41.md
-latest_title: AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级
-published_at: 2026-06-02
-last_updated: 2026-06-02
+latest_issue: 42
+latest_file: ./42.md
+latest_title: AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级
+published_at: 2026-06-08
+last_updated: 2026-06-08
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：41
-- 发布时间：2026-06-02
-- 文件入口：[41.md](./41.md)
-- 标题：AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级
+- 最新期数：42
+- 发布时间：2026-06-08
+- 文件入口：[42.md](./42.md)
+- 标题：AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级
 
 ## AI 使用建议
 

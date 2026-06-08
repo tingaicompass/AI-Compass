@@ -194,9 +194,12 @@
 
 40. [AI Compass前沿速览：Gemini Omni Flash 与 Hy 翻译 同周登场，Gemini Spark、Violin、LongCat-Video-Avatar 1.5 与 GLM-5.1-highspeed 推动 AI 智能体与开源生态再升级](./weeklyHighlights/40.md)
 
+41. [AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级](./weeklyHighlights/41.md)
+
 </details>
 
 ### 🔭本期👇👇
+
 
 
 1. [🆕刷题到最后，我才发现：真正拉开差距的，是这 5 种编程能力](./11.blog/1.coding/readme.md)
@@ -209,9 +212,9 @@
 
 如果你正在系统学习大语言模型，或者准备大模型、NLP、算法、AI应用开发相关面试，这个系列会围绕“原理能讲清、代码能落地、面试能表达”三个目标，系统梳理 Tokenizer、词向量、位置编码、Attention、预训练、SFT、RAG、Agent、模型评估和推理部署等核心内容。当前 `11.blog/3.LLM_Interview` 已开放一批 LLM 基础与训练相关**试读内容**，适合先了解专栏写作风格；更完整的面试题、项目实战、复习路线和持续更新内容，推荐订阅 [知识星球（内容更全面）](./picture/minor/KnowledgePlanet.md)，也可以通过 [公众号专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzNDI1Mzc1Nw==&action=getalbum&album_id=4481317948334538752#wechat_redirect)、[知乎专栏](https://www.zhihu.com/column/c_1964419775628312859)、[CSDN专栏](https://blog.csdn.net/sinat_39620217/category_12620122.html) 阅读。
 
-[🆕AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级](./weeklyHighlights/41.md)
+[🆕AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级](./weeklyHighlights/42.md)
 
-本期前沿速览聚焦多智能体世界模型、旗舰级大模型、桌面 Agent 与多模态生成工具的集中更新：Gamma-World、Claude Opus 4.8、Qwen-VLA、MiniMax M3、Hermes Desktop、OmniVoice Studio 等共同勾勒出 AI 从内容生成走向可执行工作流、可交互世界模型和开源 Agent 生态的最新进展。
+本期前沿速览聚焦 PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级 等热点，覆盖多模态交互和Agent 工作流等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
 
