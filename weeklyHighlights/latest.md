@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 42
-latest_file: ./42.md
-latest_title: AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级
-published_at: 2026-06-08
-last_updated: 2026-06-08
+latest_issue: 43
+latest_file: ./43.md
+latest_title: AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级
+published_at: 2026-06-14
+last_updated: 2026-06-14
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：42
-- 发布时间：2026-06-08
-- 文件入口：[42.md](./42.md)
-- 标题：AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级
+- 最新期数：43
+- 发布时间：2026-06-14
+- 文件入口：[43.md](./43.md)
+- 标题：AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级
 
 ## AI 使用建议
 

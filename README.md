@@ -196,9 +196,12 @@
 
 41. [AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级](./weeklyHighlights/41.md)
 
+42. [AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级](./weeklyHighlights/42.md)
+
 </details>
 
 ### 🔭本期👇👇
+
 
 
 
@@ -212,9 +215,9 @@
 
 如果你正在系统学习大语言模型，或者准备大模型、NLP、算法、AI应用开发相关面试，这个系列会围绕“原理能讲清、代码能落地、面试能表达”三个目标，系统梳理 Tokenizer、词向量、位置编码、Attention、预训练、SFT、RAG、Agent、模型评估和推理部署等核心内容。当前 `11.blog/3.LLM_Interview` 已开放一批 LLM 基础与训练相关**试读内容**，适合先了解专栏写作风格；更完整的面试题、项目实战、复习路线和持续更新内容，推荐订阅 [知识星球（内容更全面）](./picture/minor/KnowledgePlanet.md)，也可以通过 [公众号专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzNDI1Mzc1Nw==&action=getalbum&album_id=4481317948334538752#wechat_redirect)、[知乎专栏](https://www.zhihu.com/column/c_1964419775628312859)、[CSDN专栏](https://blog.csdn.net/sinat_39620217/category_12620122.html) 阅读。
 
-[🆕AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级](./weeklyHighlights/42.md)
+[🆕AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级](./weeklyHighlights/43.md)
 
-本期前沿速览聚焦 PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级 等热点，覆盖多模态交互和Agent 工作流等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
+本期前沿速览聚焦 Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级 等热点，覆盖视频生成、多模态交互、Agent 工作流和AIGC 内容生产等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
 

@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # weeklyHighlights 索引
@@ -62,6 +62,7 @@ last_updated: 2026-06-08
 | 40 | 前沿速览 | [40.md](./40.md) | AI Compass前沿速览：Gemini Omni Flash 与 Hy 翻译 同周登场，Gemini Spark、Violin、LongCat-Video-Avatar 1.5 与 GLM-5.1-highspeed 推动 AI 智能体与开源生态再升级 |
 | 41 | 前沿速览 | [41.md](./41.md) | AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级 |
 | 42 | 前沿速览 | [42.md](./42.md) | AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级 |
+| 43 | 前沿速览 | [43.md](./43.md) | AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级 |
 
 ## 给 AI 的使用约定
 
