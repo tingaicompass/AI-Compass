@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-06-14
+last_updated: 2026-06-29
 ---
 
 # weeklyHighlights 索引
@@ -63,6 +63,8 @@ last_updated: 2026-06-14
 | 41 | 前沿速览 | [41.md](./41.md) | AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级 |
 | 42 | 前沿速览 | [42.md](./42.md) | AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级 |
 | 43 | 前沿速览 | [43.md](./43.md) | AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级 |
+| 44 | 前沿速览 | [44.md](./44.md) | AI Compass前沿速览：GPT-5.6、Qwen-AgentWorld 与 DSpark，以及 BrowserBC 与 Ornith-1.0 |
+| 45 | 前沿速览 | [45.md](./45.md) | AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级 |
 
 ## 给 AI 的使用约定
 

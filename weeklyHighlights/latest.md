@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 43
-latest_file: ./43.md
-latest_title: AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级
-published_at: 2026-06-14
-last_updated: 2026-06-14
+latest_issue: 45
+latest_file: ./45.md
+latest_title: AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级
+published_at: 2026-06-29
+last_updated: 2026-06-29
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：43
-- 发布时间：2026-06-14
-- 文件入口：[43.md](./43.md)
-- 标题：AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级
+- 最新期数：45
+- 发布时间：2026-06-29
+- 文件入口：[45.md](./45.md)
+- 标题：AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级
 
 ## AI 使用建议
 
