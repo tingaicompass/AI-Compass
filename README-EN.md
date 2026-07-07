@@ -36,10 +36,7 @@
 
 ```
 AI-Compass
-├── 🧭 AI Navigation Toolset          # Comprehensive AI tool collection
-├── 📝 Prompt Engineering             # Prompt design and optimization
-├── 📊 LLM Evaluation Leaderboard     # Large model performance benchmarks
-├── 🤖 LLM Collection                 # Language and multimodal models
+├── 📚 Basic Knowledge Module         # AI navigation, prompts, evaluation, language and multimodal models
 ├── 🔧 Technical Framework Module     # Training/inference/evaluation frameworks
 ├── 💼 Application Practice Module    # MCP+A2A, RAG, Agent, etc.
 ├── 🌟 AI Applications               # AI programming and multimedia creation
@@ -59,12 +56,10 @@ AI-Compass
 
 ## Contents
 
-### 🧭 AI Navigation & Tools Module
+### 📚 Basic Knowledge Module
 - [1. AI Navigation Toolset](#1-ai-navigation-toolset)
 - [2. Prompt Engineering](#2-prompt-engineering)
 - [3. LLM Evaluation Leaderboard](#3-llm-evaluation-leaderboard)
-
-### 🤖 LLM Core Module
 - [4.1 LLM Collection (Language)](#41-llm-collection-language)
 - [4.2 LLM Collection (Multimodal)](#42-llm-collection-multimodal)
 
@@ -117,71 +112,81 @@ AI-Compass
 - [10. Paddle](#10-paddle)
 ---
 
-## 🧭 AI Navigation & Tools Module
+## 📚 Basic Knowledge Module
 
-### [1. AI Navigation Toolset](./0.AI导航工具集/AI导航工具集.md)
+The Basic Knowledge Module is the entry layer of AI-Compass. It is organized around five practical questions: where to discover AI tools, how to write better prompts, how to compare models, which language models matter, and which multimodal models are worth tracking. New learners can use it to build a first map of the AI landscape; developers can use it as a starting point for model selection, tool research, and project planning.
+
+Use this section together with [`weeklyHighlights`](./weeklyHighlights/INDEX.md): the module directories provide long-term categories, while the weekly highlights capture high-value updates from the past months. Each subsection below now includes representative weekly-highlight trails so the basic module can point directly to recent, useful material.
+
+### [1. AI Navigation Toolset](./0.AI导航工具集/0.AI导航工具集.md)
 ![](./picture/main/AI_tool.png)
 
-The AI Navigation Toolset module builds a comprehensive AI tool ecosystem covering the entire lifecycle from model development to application deployment. This module systematically organizes 200+ mainstream AI tools and platforms, including OpenAI GPT series, Anthropic Claude, Google Gemini, and other leading large language models, as well as Midjourney, DALL-E, Stable Diffusion and other top AI image generation tools. The technical stack covers AI programming assistants like GitHub Copilot, Cursor, Replit, and CodeWhisperer, AI search engines like Perplexity, You.com, and Phind, as well as comprehensive AI platforms like Poe, Character.AI, and Hugging Face. 
+The AI Navigation Toolset is best used as a discovery entry point. It collects platforms such as Yilis, OpenI, WaytoAGI, Heima Nebula AI Assistant, the Juejin LLM sub-site, Lenovo AI Navigation, HuntAGI, Border AI, and other tool directories or developer-oriented navigation sites. The goal is to help you quickly discover whether mature tools already exist for a scenario, compare how different navigation sites classify AI products, and collect candidates for writing, coding, image generation, video generation, audio, search, automation, and other workflows.
 
-The content includes AI video generation tools like Runway, Luma AI, and Kling, AI audio processing tools like ElevenLabs, Murf, and Speechify, as well as AI design tools like Canva, Figma AI, and Framer. 
+This directory does not try to replace every product website. Its value is that it gives you a first tool map before you dive into individual vendors. For project work, start here to narrow the tool direction, then check [`weeklyHighlights`](./weeklyHighlights/INDEX.md) for recently added products, models, and ecosystem updates. Recent high-value trails include:
 
-The module also provides detailed introductions to AI workflow automation tools like Zapier, Make, and n8n, AI data analysis tools like Julius AI, DataRobot, and H2O.ai, as well as AI writing assistants like Jasper, Copy.ai, and Writesonic. 
-
-Additionally, it covers AI code review tools, AI testing frameworks, AI monitoring platforms, and other development support tools, helping developers quickly locate the most suitable AI tools for their specific needs and build efficient AI application development workflows.
+- **AI coding and local agent tools**: [Gen CLI](./weeklyHighlights/1.md), [Jules](./weeklyHighlights/7.md), [ChatGPT Atlas and Claude Code](./weeklyHighlights/24.md), [Cursor 2.0 and Agent HQ](./weeklyHighlights/25.md), [Open Code Review](./weeklyHighlights/42.md), and [MiMo Code](./weeklyHighlights/43.md) show how coding tools are moving from completion to local execution and multi-agent workflows.
+- **Browser and office automation**: [Kimi WebBridge](./weeklyHighlights/39.md), [WorkBuddy Enterprise](./weeklyHighlights/42.md), [Microsoft Scout](./weeklyHighlights/42.md), and [OfficeCLI](./weeklyHighlights/38.md) represent a new class of tools that can reuse browser sessions, read local files, and automate Office or browser tasks.
+- **Content and vertical tool markets**: [GenflowAI](./weeklyHighlights/42.md), [Miaoya toy-design platform](./weeklyHighlights/42.md), [NoteAI](./weeklyHighlights/41.md), and [Horizon](./weeklyHighlights/41.md) are useful entries for writing, design, knowledge extraction, and AI news radar workflows.
 
 ### [2. Prompt Engineering](./1.1%20Prompt工程/2.Prompt工程.md)
 ![Prompt](./picture/main/Prompt.jpeg)
 
-The Prompt Engineering module builds a complete prompt design and optimization ecosystem, providing systematic prompt engineering solutions for AI application developers. This module deeply organizes core knowledge systems including prompt design principles, optimization strategies, evaluation methods, and application practices, covering mainstream prompt frameworks like Chain-of-Thought (CoT), Tree of Thoughts (ToT), ReAct, and other advanced reasoning patterns. 
+The Prompt Engineering directory moves from “asking better questions” to reusable, testable, and iterative prompt workflows. It includes introductory resources such as Learning Prompt, Prompt Engineering Guide, and Chinese ChatGPT prompt guides, and it also collects CO-STAR structured prompting, ChainForge for multi-model prompt testing, LangGPT as a natural-language programming framework, Microsoft PromptWizard for automated prompt optimization, cursor.directory rule references, and tools such as PromptPerfect, AiShort, PromptForge, and prompt-optimizer.
 
-The technical stack includes prompt template libraries, automatic prompt optimization tools, prompt performance evaluation frameworks, and prompt security detection tools, with detailed analysis of prompt injection attacks, jailbreak techniques, and defense strategies. The content covers prompt engineering practices for different model types (GPT, Claude, Gemini, etc.), multi-turn dialogue management, context window optimization, and token cost control techniques. 
+Use this directory along two paths. The learning path covers role design, context, objectives, constraints, output formats, few-shot examples, and Chain-of-Thought prompting. The engineering path treats prompts as testable assets: compare variants, keep versions, evaluate outputs, automate optimization, and add safety constraints. For developers using Cursor, Claude Code, Codex, or similar AI coding tools, this section is also useful for writing project rules, system prompts, and collaboration prompts.
 
-The module systematically introduces few-shot learning, in-context learning, instruction tuning, and other prompt optimization methods, as well as domain-specific prompt design patterns for code generation, creative writing, data analysis, and other application scenarios. 
+The weekly highlights show that prompt engineering is becoming a combination of system prompts, workflow skills, and verifiable task specifications:
 
-Additionally, it provides rich prompt template libraries, best practice cases, A/B testing methods, and performance evaluation metrics, along with prompt version management, collaborative editing, and automated testing tools, helping developers master the complete prompt engineering workflow from design to deployment and achieve optimal AI model performance.
+- **Multimodal prompting patterns**: [Nano Banana / Gemini 2.5 Flash Image](./weeklyHighlights/13.md) and [Seedream 4.0](./weeklyHighlights/17.md) cover reference images, local edits, pose transfer, and image-series consistency.
+- **System prompts and role design**: [Claude Design system prompt](./weeklyHighlights/37.md) encodes a designer role, delivery workflow, engineering constraints, and validation rules into a reusable system prompt.
+- **Agent skills**: [Agent Skills](./weeklyHighlights/37.md), [Guizang Social Card Skill](./weeklyHighlights/41.md), and [Software Copyright Materials Skill](./weeklyHighlights/41.md) show prompts being packaged as reusable skills for Claude Code, Codex, Cursor, and related environments.
+- **Safety and reliability**: [Claude Computer Use best practices](./weeklyHighlights/39.md) and [SkillSpector](./weeklyHighlights/43.md) connect prompting with context compression, demonstration learning, permission boundaries, and pre-install skill scanning.
 
 ### [3. LLM Evaluation Leaderboard](./1.2%20LLM测评榜/1.大模型测评榜.md)
 ![LLM测评](./picture/main/llm_bench.png)
 
 ![LLM测评](./picture/main/llm_bench2.png)
 
-The LLM Evaluation Leaderboard module builds a comprehensive large language model performance evaluation ecosystem, providing systematic model selection and comparison solutions for AI researchers and practitioners. This module systematically organizes authoritative evaluation benchmarks including Chatbot Arena, LMSYS Leaderboard, OpenCompass, and other mainstream evaluation platforms, covering multiple evaluation dimensions such as general capabilities, reasoning abilities, code generation, mathematical problem-solving, and safety alignment. 
+The LLM Evaluation Leaderboard directory helps with model selection, but it should not be read as a single universal ranking. It links to LMArena, Artificial Analysis, LiveCodeBench, OpenCompass, AGI-Eval, SuperCLUE, Vellum LLM Leaderboard, MMBench, GAIA, and other evaluation entry points. These resources let you compare models across general chat, code generation, mathematical reasoning, Chinese-language ability, RAG, multimodal understanding, and agent-style task execution.
 
-The technical stack includes automated evaluation frameworks, multi-dimensional scoring systems, real-time ranking updates, and cross-model comparison tools, with detailed analysis of evaluation methodologies, benchmark datasets, scoring criteria, and result interpretation. 
+A more reliable way to use this section is to read leaderboards by task. For AI coding, start with LiveCodeBench and code-oriented evaluations. For Chinese knowledge QA, combine SuperCLUE, OpenCompass, and RAG-related benchmarks. For multimodal applications, check MMBench and other vision-language evaluations. For agents and complex tasks, GAIA-style benchmarks are more relevant. Leaderboard results change with model versions and evaluation methods, so production choices should still be validated on your own data.
 
-The content covers evaluation practices for different model scales (7B, 13B, 70B, etc.), multi-language evaluation, domain-specific benchmarks, and human preference alignment assessment. The module systematically introduces evaluation metrics like BLEU, ROUGE, BERTScore, and other automatic evaluation methods, as well as human evaluation, pairwise comparison, and Elo rating systems. 
+Weekly-highlight evaluation items add a more practical task-oriented layer:
 
-Additionally, it provides comprehensive evaluation result analysis, model capability radar charts, performance trend tracking, and cost-effectiveness analysis, along with evaluation dataset construction, benchmark design principles, and evaluation result reproducibility verification, helping users scientifically select the most suitable large language models for their specific application scenarios and understand the current state and development trends of model capabilities.
+- **Multimodal evaluation**: [LMMs-Eval](./weeklyHighlights/7.md), [Qwen-Image-Bench](./weeklyHighlights/41.md), [WBench](./weeklyHighlights/43.md), and [EvoQuality](./weeklyHighlights/43.md) cover vision-language understanding, image generation, interactive world models, and no-reference image quality evaluation.
+- **Agent and tool-use benchmarks**: [AgentCLUE-ICabin](./weeklyHighlights/18.md), [PawBench](./weeklyHighlights/42.md), and [VitaBench 2.0](./weeklyHighlights/43.md) are useful for tool calling, long-term preference modeling, and realistic task execution.
+- **Automated evaluation frameworks**: [One-Eval](./weeklyHighlights/37.md) represents the NL2Eval direction, turning natural-language evaluation needs into benchmark selection, inference, scoring, and reports.
+- **Reasoning and preference evaluation**: [General365](./weeklyHighlights/40.md), [RM-Gallery](./weeklyHighlights/10.md), and [LLM Council](./weeklyHighlights/41.md) are useful complements for general reasoning, reward models, and multi-model peer review.
 
 **[⬆ Back to Contents](#contents)**
 
-## 🤖 LLM Core Module
-
-#### [4.1 LLM Collection (Language)](./1.3%20LLM合集-语言/1.LLM合集-语言.md)
+### [4.1 LLM Collection (Language)](./1.3%20LLM合集-语言/1.LLM合集-语言.md)
 ![LLM合集](./picture/main/llm_timeline.png)
 
-The LLM Collection (Language) module builds a comprehensive large language model ecosystem covering models from foundational to specialized applications. This module systematically organizes 100+ mainstream language models including OpenAI GPT series (GPT-4, GPT-3.5), Anthropic Claude series, Google Gemini/PaLM, Meta LLaMA series, and other international leading models, as well as domestic excellent models like Baidu ERNIE, Alibaba Qwen, Tencent Hunyuan, ByteDance Doubao, and others. 
+The LLM Collection (Language) directory is the index layer for the language-model ecosystem. It focuses on official websites, API documentation, open-source repositories, Hugging Face and ModelScope pages, demos, and technical notes. The current collection covers domestic models such as DeepSeek, Doubao, Qwen, GLM, Tencent Hunyuan, Kimi, InternLM, Skywork, MiniMax, iFlytek Spark, Yi, Baichuan, and MiniCPM, as well as international models and ecosystems such as Anthropic, Google Gemini / Gemma, Meta Llama, Mistral, Grok, GPT-OSS, and Seed-OSS.
 
-The technical stack covers different parameter scales from 7B to 175B+, different architecture types including Transformer, Mamba, and other innovative architectures, as well as different training paradigms like pre-training, instruction tuning, and RLHF. 
+Use this section before asking “which model should I choose?” It helps you check whether a model is open source, whether it supports local deployment, how long its context window is, whether it emphasizes reasoning, coding, agents, or long-context tasks, how its multilingual support looks, and whether official APIs and example code are available. For application development, use this directory to narrow your candidate models, then combine leaderboard results, cost, service stability, and your own task data before making the final decision.
 
-The content includes detailed technical specifications, performance benchmarks, API usage guides, and deployment solutions for each model, with in-depth analysis of model capabilities in text generation, dialogue interaction, code generation, mathematical reasoning, logical inference, and other core tasks. 
+Across recent weekly highlights, the language-model trail is especially useful in these branches:
 
-The module systematically introduces model selection strategies, fine-tuning methods, prompt optimization techniques, and cost-effectiveness analysis, as well as model compression, quantization, distillation, and other optimization techniques. 
+- **Open and domestic model lines**: [gpt-oss](./weeklyHighlights/5.md), [Qwen3-Next](./weeklyHighlights/17.md), [DeepSeek-V4](./weeklyHighlights/37.md), [GLM-5.1](./weeklyHighlights/33.md), [MiniCPM5-1B](./weeklyHighlights/41.md), and [Tencent Hunyuan small models](./weeklyHighlights/5.md) are important for open weights, edge deployment, long context, and cost-sensitive use cases.
+- **Coding and agent models**: [Claude Opus 4.1](./weeklyHighlights/7.md), [Qwen-Flash / Qwen3 Coder Flash](./weeklyHighlights/7.md), [Kimi K2 Thinking](./weeklyHighlights/25.md), [GPT-5.5](./weeklyHighlights/37.md), and [Claude Fable 5](./weeklyHighlights/43.md) are better compared through code generation, tool use, and long-running task execution.
+- **Small and local models**: [Qwen3-4B](./weeklyHighlights/7.md), [Gemma 4 12B](./weeklyHighlights/42.md), [DiffusionGemma](./weeklyHighlights/43.md), and [Hy-MT1.5-1.8B-1.25bit](./weeklyHighlights/37.md) show how small, quantized, and local models are becoming practical.
+- **Long-context work models**: [DeepSeek-V4 with 1M context](./weeklyHighlights/37.md), [GPT-5.5 for real work](./weeklyHighlights/37.md), and [Claude Fable 5 with million-token context and file-level memory](./weeklyHighlights/43.md) are useful signals for the move from chat to complex workflows.
 
-Additionally, it provides comprehensive model comparison matrices, capability evaluation reports, application case studies, and best practice guides, along with model licensing information, commercial usage terms, and technical support channels, helping developers choose the most suitable language models for their specific needs and achieve optimal application performance and cost control.
+### [4.2 LLM Collection (Multimodal)](./1.4%20LLM合集-多模态/多模态.md)
 
-#### [4.2 LLM Collection (Multimodal)](./1.4%20LLM合集-多模态/多模态.md)
+The LLM Collection (Multimodal) directory has grown from an early vision-language model list into a broader map of multimodal understanding and generation. It covers image understanding, text-to-image generation, image editing, video generation, video restoration, 3D asset generation, spatial intelligence, world models, audio generation, digital humans, and multi-subject video. Representative entries include Qwen-Image, Nexus-Gen, Seed1.5-VL, BAGEL, Google Veo / Imagen / Gemini Diffusion, Wan2.1, ContentV, Step1X-3D, PartCrafter, Matrix-Game, OmniAudio, PlayDiffusion, and SeedVR2.
 
-The LLM Collection (Multimodal) module builds a comprehensive multimodal large model ecosystem covering text, image, audio, video, and other modality fusion technologies. This module systematically organizes cutting-edge multimodal models including OpenAI GPT-4V, Google Gemini Vision, Anthropic Claude 3, Meta LLaVA, Microsoft KOSMOS, and other international leading models, as well as domestic innovative models like Alibaba Qwen-VL, Baidu ERNIE-VilG, Tencent CogVLM, and others. 
+For multimodal applications, navigate this section by scenario. Image understanding and OCR point you toward vision-language models. Marketing, design, and content production point toward text-to-image, image editing, and video generation models. Games, embodied AI, and spatial applications point toward 3D generation, world models, and interactive scene generation. Speech, sound effects, and character video point toward audio and digital-human resources. The purpose of this directory is to help you understand capability boundaries and quickly find papers, code, demos, and project pages for deeper research.
 
-The technical stack covers vision-language models, audio-language models, video-language models, and omni-modal models, with detailed analysis of multimodal fusion architectures, cross-modal attention mechanisms, and multimodal alignment training strategies. 
+Multimodal updates are among the densest weekly-highlight streams. Read them by capability family:
 
-The content includes technical implementations for image understanding, visual question answering, image captioning, visual reasoning, audio processing, video analysis, and other core capabilities, with in-depth exploration of multimodal prompt engineering, few-shot learning, and in-context learning techniques.
-
- The module systematically introduces multimodal data preprocessing, model training pipelines, evaluation benchmarks, and deployment optimization methods, as well as multimodal retrieval, generation, editing, and other advanced applications. 
-
-Additionally, it provides comprehensive multimodal model comparison, capability evaluation matrices, application scenario analysis, and technical implementation guides, along with multimodal dataset resources, evaluation tools, and development frameworks, helping developers master the complete multimodal AI technology stack from model selection to application deployment and achieve innovative breakthroughs in cross-modal intelligent applications.
+- **Image generation and editing**: [Qwen-Image](./weeklyHighlights/5.md), [Nano Banana / Gemini 2.5 Flash Image](./weeklyHighlights/13.md), [Seedream 4.0](./weeklyHighlights/17.md), [MAI-Image-1](./weeklyHighlights/24.md), and [Z-Image](./weeklyHighlights/28.md) are good comparison points for Chinese text rendering, image editing, reference consistency, and commercial design.
+- **Video generation and world models**: [Veo 3.1](./weeklyHighlights/24.md), [Sora 2](./weeklyHighlights/23.md), [Wan2.2 / Wan2.7](./weeklyHighlights/21.md), [HunyuanVideo 1.5](./weeklyHighlights/27.md), [Runway world model](./weeklyHighlights/29.md), and [Genie 3](./weeklyHighlights/7.md) show the shift from clip generation to controllable worlds and interactive scenes.
+- **Vision understanding, OCR, and omni models**: [DeepSeek-OCR](./weeklyHighlights/24.md), [PaddleOCR-VL](./weeklyHighlights/24.md), [Qwen3-Omni](./weeklyHighlights/21.md), [Qwen3-VL](./weeklyHighlights/22.md), [Gemma 4 12B](./weeklyHighlights/42.md), and [Keye-VL-2.0](./weeklyHighlights/41.md) are useful for document parsing, VQA, long-video understanding, and local multimodal apps.
+- **Audio, 3D, and digital humans**: [MiniMax-Speech 2.5](./weeklyHighlights/7.md), [Qwen3-ASR](./weeklyHighlights/16.md), [Mega-ASR](./weeklyHighlights/41.md), [Hunyuan 3D 3.0](./weeklyHighlights/19.md), [Meta SAM 3D](./weeklyHighlights/27.md), and [LongCat-Video-Avatar 1.5](./weeklyHighlights/41.md) fill in speech, 3D assets, and digital-human video generation.
 
 **[⬆ Back to Contents](#contents)**
 

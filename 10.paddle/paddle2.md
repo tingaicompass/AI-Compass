@@ -1,6 +1,99 @@
 # paddle2
 
 
+## 目录
+
+1. 0.FleetX 飞桨分布式
+2. 0.PaddleX图形化客户端2.0
+3. 0.paddleflow：基于云原生Kubernetes或K3sAI资源管理与调度工具
+4. 0.paddle部署推理
+5. FastDeploy
+6. Paddle Lite端侧推理引擎
+7. Paddle Serving
+8. PaddleFleetX
+9. 服务器部署 — Paddle Inference
+10. 0.PaddleSlim模型压缩蒸馏
+11. 1.NLP蒸馏算法策略
+12. 2.案例实现
+13. paddle2ONNX部署
+14. 0.可解释性模型
+15. 0.模型性能分析
+16. 1.LLM-Paddle
+17. 0.ERNIE SDK-含Agent
+18. 1.大模型应用
+19. 1.跨模态模型minigpt4, speecht5
+20. 2.miniGPT4
+21. 1.飞桨大语言模型:ChatGLM, GLM, Llama
+22. GLM
+23. LLaMA
+24. bloom
+25. chatglm
+26. chatglm2
+27. ernie-3.5
+28. gpt-3
+29. opt
+30. 2.RLHF
+31. 1.PaddleMIX跨模态大模型
+32. 1.PaddleRec推荐系统:点击预测DeepCTR等
+33. ElasticCTR预估任务完整方案
+34. 推荐项目整理
+35. 1.Pipelines：语义检索系统
+36. AIstudio项目
+37. 语义检索系统
+38. 1.信息抽取（关系、实体、序列标注、关键词抽取）
+39. 关系抽取&多对多实体抽取
+40. 文档级数据集
+41. 关系推理
+42. 关键词抽取
+43. 1.图学习PGL-ERNIESage
+44. 关系推理
+45. 图谱和文本信息融合数据集
+46. 实体对齐
+47. 课程
+48. ERNIESage
+49. 飞桨图模型合集
+50. GraphSage项目
+51. 1.文本分割
+52. 1.文本分类任务
+53. 0.文本分类应用合集
+54. 1.情感分类：评论观点抽取与情感倾向性分析
+55. 3.ERNIE套件文本分类
+56. 项目合集
+57. 1.文本匹配纠错
+58. 文本纠错
+59. 1.文档智能（DI, Document Intelligence）
+60. PDFPlumber
+61. PP-Structure文档分析
+62. PaddleOCR
+63. 公开数据集
+64. 邮件解析库
+65. 项目合集
+66. 1.问答系统（含rocketQA训练）
+67. 1.1有监督检索式问答系统
+68. 1.2无监督检索式问答系统
+69. AIstudio项目合集
+70. 2.Parl 飞桨强化学习模型库
+71. MATAD3
+72. 2.paddleTS时序模型
+73. 3.机器翻译
+74. 4.paddleCV图像视频类（多模态、OCR、分割、视频）
+75. PPOCR
+76. PaddleSports
+77. paddleRS遥感
+78. paddleseg图像分割
+79. 多模态
+80. 文生图
+81. 图像预训练大模型UFO
+82. 4.图像分类paddleClas
+83. 5.PaddleFL联邦学习隐私计算
+84. 5.PaddleGAN生成对抗网络
+85. 5.PaddleSpatial：时空大数据计算工具和平台
+86. 5.paddlespeech
+87. 6..paddle量桨：量子机器学习：解决优化问题等
+88. 6.PaddlePALM多任务学习框架
+89. 6.PaddleScience飞桨科学工具包
+90. 6.paddle迁移学习
+
 # 0.FleetX 飞桨分布式
 
 

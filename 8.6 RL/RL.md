@@ -7,6 +7,31 @@
 - [强化学习蘑菇书](https://datawhalechina.github.io/easy-rl/#/chapter1/chapter1)
 - [深度强化学习：原理与实践](https://github.com/chenzomi12/Deep-Reinforcement-Learning)
 
+## 目录
+
+1. 强化学习库推荐
+2. 0.Pearl
+3. 0.RAY
+4. DI-ENGINE
+5. ElegantRL “小雅”
+6. MARL库推荐
+7. SLM Lab
+8. Spinning Up in Deep RL
+9. Stable Baselines3
+10. 天授tianshou
+11. 强化学习库
+12. 强化学习环境
+13. 0.强化学习gym案例合集--简单调用即可
+14. 智能体算法
+15. 单智能体算法
+16. 多智能体算法
+17. 5. RL项目案例
+18. AI玩王者荣耀
+19. 基于DDPG算法的股票量化交易
+20. 强化学习下五子棋
+21. 强化学习打扑克
+22. 量化交易
+
 # 强化学习库推荐
 
 ![Snipaste_2025-07-19_15-14-55.png](https://free.picui.cn/free/2025/07/19/687b460b76d0e.png)

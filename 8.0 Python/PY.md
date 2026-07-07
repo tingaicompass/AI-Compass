@@ -8,6 +8,16 @@ Python模块构建了面向AI开发的完整Python技术栈，涵盖了从基础
 
 - [DevOps-Roadmap：2022 年 DevOps 路线图。带有学习资源](https://github.com/milanm/DevOps-Roadmap)
 
+## 目录
+
+1. py课程
+2. 华为py
+3. 天池
+4. 飞桨
+5. python库
+6. Python 探索性数据分析工具
+7. SQL课程
+
 # py课程
 
 ## 华为py
