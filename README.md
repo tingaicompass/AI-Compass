@@ -202,9 +202,12 @@
 
 44. [AI Compass前沿速览：GPT-5.6、Qwen-AgentWorld 与 DSpark，以及 BrowserBC 与 Ornith-1.0](./weeklyHighlights/44.md)
 
+45. [AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级](./weeklyHighlights/45.md)
+
 </details>
 
 ### 🔭本期👇👇
+
 
 
 
@@ -218,13 +221,9 @@
 
 它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：**抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力**。
 
-2. [🆕AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级](./weeklyHighlights/45.md)
+[🆕AI Compass前沿速览：FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench](./weeklyHighlights/46.md)
 
-本期前沿速览聚焦 Claude Fable 5 系统提示词、SkillSpector、turbovec、Claude Code 学术研究技能包 ARS 与 Qwen-Robot Suite，重点覆盖 Agent 工作流、技能安全、向量索引、具身智能和 AI 编程效率。
-
-3. [LLM 相关指南&面试题](./11.blog/3.LLM_Interview/11.LLM指南与面试题专栏订阅.md)
-
-如果你正在系统学习大语言模型，或者准备大模型、NLP、算法、AI应用开发相关面试，这个系列会围绕“原理能讲清、代码能落地、面试能表达”三个目标，系统梳理 Tokenizer、词向量、位置编码、Attention、预训练、SFT、RAG、Agent、模型评估和推理部署等核心内容。当前 `11.blog/3.LLM_Interview` 已开放一批 LLM 基础与训练相关**试读内容**，适合先了解专栏写作风格；更完整的面试题、项目实战、复习路线和持续更新内容，推荐订阅 [知识星球（内容更全面）](./picture/minor/KnowledgePlanet.md)，也可以通过 [公众号专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzNDI1Mzc1Nw==&action=getalbum&album_id=4481317948334538752#wechat_redirect)、[知乎专栏](https://www.zhihu.com/column/c_1964419775628312859)、[CSDN专栏](https://blog.csdn.net/sinat_39620217/category_12620122.html) 阅读。
+本期前沿速览聚焦 FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench 等热点，覆盖视频生成、多模态交互、Agent 工作流和开发效率等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
 
