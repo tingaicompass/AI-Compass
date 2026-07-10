@@ -228,9 +228,12 @@
 
 45. [AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级](./weeklyHighlights/45.md)
 
+46. [AI Compass前沿速览：FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench](./weeklyHighlights/46.md)
+
 </details>
 
 ### 🔭本期👇👇
+
 
 
 
@@ -245,9 +248,9 @@
 
 它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：**抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力**。
 
-[🆕AI Compass前沿速览：FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench](./weeklyHighlights/46.md)
+[🆕AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS](./weeklyHighlights/47.md)
 
-本期前沿速览聚焦 FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench 等热点，覆盖视频生成、多模态交互、Agent 工作流和开发效率等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
+本期前沿速览聚焦 GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS 等热点，覆盖多模态交互和Agent 工作流等方向。这一期既能看到内容生成能力继续升级，也能看到全模态模型、开发评测框架和行业 Agent 的同步演进。
 
 -----------------------
 

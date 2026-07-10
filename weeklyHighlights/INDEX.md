@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-07-07
+last_updated: 2026-07-10
 ---
 
 # weeklyHighlights 索引
@@ -66,6 +66,7 @@ last_updated: 2026-07-07
 | 44 | 前沿速览 | [44.md](./44.md) | AI Compass前沿速览：GPT-5.6、Qwen-AgentWorld 与 DSpark，以及 BrowserBC 与 Ornith-1.0 |
 | 45 | 前沿速览 | [45.md](./45.md) | AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级 |
 | 46 | 前沿速览 | [46.md](./46.md) | AI Compass前沿速览：FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench |
+| 47 | 前沿速览 | [47.md](./47.md) | AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS |
 
 ## 给 AI 的使用约定
 

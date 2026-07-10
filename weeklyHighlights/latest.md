@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 46
-latest_file: ./46.md
-latest_title: AI Compass前沿速览：FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench
-published_at: 2026-07-07
-last_updated: 2026-07-07
+latest_issue: 47
+latest_file: ./47.md
+latest_title: AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS
+published_at: 2026-07-10
+last_updated: 2026-07-10
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：46
-- 发布时间：2026-07-07
-- 文件入口：[46.md](./46.md)
-- 标题：AI Compass前沿速览：FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench
+- 最新期数：47
+- 发布时间：2026-07-10
+- 文件入口：[47.md](./47.md)
+- 标题：AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS
 
 ## AI 使用建议
 
