@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 47
-latest_file: ./47.md
-latest_title: AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS
-published_at: 2026-07-10
-last_updated: 2026-07-10
+latest_issue: 48
+latest_file: ./48.md
+latest_title: AI Compass前沿速览：Kimi K3、Qwen-Audio-3.0-Realtime 与 Colibrì，以及 StaffDeck 与 Nemotron 3 Embed
+published_at: 2026-07-20
+last_updated: 2026-07-20
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：47
-- 发布时间：2026-07-10
-- 文件入口：[47.md](./47.md)
-- 标题：AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS
+- 最新期数：48
+- 发布时间：2026-07-20
+- 文件入口：[48.md](./48.md)
+- 标题：AI Compass前沿速览：Kimi K3、Qwen-Audio-3.0-Realtime 与 Colibrì，以及 StaffDeck 与 Nemotron 3 Embed
 
 ## AI 使用建议
 
