@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 48
-latest_file: ./48.md
-latest_title: AI Compass前沿速览：Kimi K3、Qwen-Audio-3.0-Realtime 与 Colibrì，以及 StaffDeck 与 Nemotron 3 Embed
-published_at: 2026-07-20
-last_updated: 2026-07-20
+latest_issue: 49
+latest_file: ./49.md
+latest_title: AI Compass前沿速览：Qwen3.8-Max-Preview 拉开代码模型新一轮竞争，剧火AI 把 AI 视频生产推向短剧与营销场景
+published_at: 2026-07-28
+last_updated: 2026-07-28
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：48
-- 发布时间：2026-07-20
-- 文件入口：[48.md](./48.md)
-- 标题：AI Compass前沿速览：Kimi K3、Qwen-Audio-3.0-Realtime 与 Colibrì，以及 StaffDeck 与 Nemotron 3 Embed
+- 最新期数：49
+- 发布时间：2026-07-28
+- 文件入口：[49.md](./49.md)
+- 标题：AI Compass前沿速览：Qwen3.8-Max-Preview 拉开代码模型新一轮竞争，剧火AI 把 AI 视频生产推向短剧与营销场景
 
 ## AI 使用建议
 

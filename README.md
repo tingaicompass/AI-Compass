@@ -232,9 +232,12 @@
 
 47. [AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS](./weeklyHighlights/47.md)
 
+48. [AI Compass前沿速览：Kimi K3、Qwen-Audio-3.0-Realtime 与 Colibrì，以及 StaffDeck 与 Nemotron 3 Embed](./weeklyHighlights/48.md)
+
 </details>
 
 ### 🔭本期👇👇
+
 
 
 
@@ -251,9 +254,9 @@
 
 它们对我来说，已经不是一份普通题单，也不是一堆零散题解，而是一套非常压缩、非常直接的编程训练场。题目只是表面，底层训练的其实是另外几件更重要的东西：**抽象能力、模式识别、复杂度意识、数据结构选择、还有把思路讲清楚的能力**。
 
-[🆕AI Compass前沿速览：Kimi K3、Qwen-Audio-3.0-Realtime 与 Colibrì，以及 StaffDeck 与 Nemotron 3 Embed](./weeklyHighlights/48.md)
+[🆕AI Compass前沿速览：Qwen3.8-Max-Preview 拉开代码模型新一轮竞争，剧火AI 把 AI 视频生产推向短剧与营销场景](./weeklyHighlights/49.md)
 
-Kimi K3是月之暗面推出的2.8万亿参数开源大模型，是全球首个开源的3万亿级别模型。Qwen-Audio-3.0-Realtime是阿里通义团队推出的实时语音交互模型，提供Plus与Flash双版本。Colibrì是一款开源轻量级本地推理引擎，可在仅25GB内存的消费级设备上运行744B参数的GLM-5.2 MoE模型。StaffDeck是由面壁智能等多方联合开源的企业级数字员工平台，将AI Agent定义为企业正式员工，赋予其岗位、工号等属性。Nemotron 3 Embed是英伟达开源的文本嵌入模型系列，包含8B和1B两种参数规模，支持32k上下文窗口与34种语言，采用OpenMDW-1.1许可证开放商业使用。
+元极AI是知行元科技推出的AI导演制片系统，定位商业视觉创作平台。Nanbeige4.2-3B是BOSS直聘南北阁实验室推出的3B参数通用Agent小模型，基于Nanbeige4.2-3B-Base基座模型开发。story-to-handdrawn-video实测：这是一款基于Remotion框架的开源工具，可将中文故事文本或有序图片一键转换成3:4竖屏手绘漫画动画。Cangjie-skill实测：Cangjie-skill是一套“长内容转AI Skill”的方法规范，可将书籍、视频字幕、播客文字稿等长内容中的方法论，拆解为可被AI Agent调用的独立Skill。Vivix是由前商汤高管创立的企业推出的全球首个实时交互多模态基座模型，包含Vivix-A1、Vivix-W1两款核心模型。
 
 -----------------------
 
