@@ -59,16 +59,16 @@ last_updated: 2026-07-28
 | 37 | 前沿速览 | [37.md](./37.md) | AI Compass前沿速览：GPT-5.5 与 DeepSeek-V4 同周登场，星火X2、腾讯离线翻译、FlashQLA 和 TIPSv2 推动 AI 智能体与开源生态再升级 |
 | 38 | 前沿速览 | [38.md](./38.md) | AI Compass前沿速览：Grok 4.3 与 Flipbook 同周登场，OpenLess、OfficeCLI、Career-Ops 与 FlashQLA 推动 AI 智能体与开源生态再升级 |
 | 39 | 前沿速览 | [39.md](./39.md) | AI Compass前沿速览：Anthropic 推出 Claude Computer Use 开发者最佳实践指南 与 Lumen Flow 同周登场，AGenUI、General365、InsForge 与 agents-cli 推动 AI 智能体与开源生态再升级 |
-| 40 | 前沿速览 | [40.md](./40.md) | AI Compass前沿速览：Gemini Omni Flash 与 Hy 翻译 同周登场，Gemini Spark、Violin、LongCat-Video-Avatar 1.5 与 GLM-5.1-highspeed 推动 AI 智能体与开源生态再升级 |
-| 41 | 前沿速览 | [41.md](./41.md) | AI Compass前沿速览：Gamma-World 与 Claude Opus 4.8 同周登场，Hermes Desktop、OmniVoice Studio、阿里云百炼 CLI 与 Qwen-VLA 推动 AI 智能体与开源生态再升级 |
-| 42 | 前沿速览 | [42.md](./42.md) | AI Compass前沿速览：PawBench 与 新妙呀 同周登场，Open Code Review、Microsoft Scout、Gemma 4 12B 与 Magenta RealTime 2 推动 AI 智能体与开源生态再升级 |
-| 43 | 前沿速览 | [43.md](./43.md) | AI Compass前沿速览：Gemini 3.5 Live Translate 与 Claude Fable 5 同周登场，SkillSpector、MiMo Code、HPC-Ops 与 EvoQuality 推动 AI 智能体与开源生态再升级 |
-| 44 | 前沿速览 | [44.md](./44.md) | AI Compass前沿速览：GPT-5.6、Qwen-AgentWorld 与 DSpark，以及 BrowserBC 与 Ornith-1.0 |
-| 45 | 前沿速览 | [45.md](./45.md) | AI Compass前沿速览：Claude Fable 5 系统提示词  SkillSpector、turbovec、Claude Code学术研究技能包ARS，覆盖论文写作全流程 与 Qwen-Robot Suite 推动 AI 智能体与开源生态再升级 |
-| 46 | 前沿速览 | [46.md](./46.md) | AI Compass前沿速览：FuckClaude、Claude Science 与 Hy3，以及 跃迁维度 与 EdgeBench |
-| 47 | 前沿速览 | [47.md](./47.md) | AI Compass前沿速览：GPT-Live、SayIt 与 JellyToken，以及 OpenScience 与 InternAgentS |
-| 48 | 前沿速览 | [48.md](./48.md) | AI Compass前沿速览：Kimi K3、Qwen-Audio-3.0-Realtime 与 Colibrì，以及 StaffDeck 与 Nemotron 3 Embed |
-| 49 | 前沿速览 | [49.md](./49.md) | AI Compass前沿速览：Qwen3.8-Max-Preview 拉开代码模型新一轮竞争，剧火AI 把 AI 视频生产推向短剧与营销场景 |
+| 40 | 前沿速览 | [40.md](./40.md) | AI Compass前沿速览：General365、PPT Master把智能体带入可控执行，HiCAD、Violin把多模态生产接入交付链路 |
+| 41 | 前沿速览 | [41.md](./41.md) | AI Compass前沿速览：Hermes Desktop、Claude Opus 4.8把智能体带入可控执行，OmniVoice Studio、Dulus把多模型接入拉回统一调度 |
+| 42 | 前沿速览 | [42.md](./42.md) | AI Compass前沿速览：Open Code Review、Odysseus把代码模型拉回可控交付，GenflowAI、Kimi Work 媒介投放实战把多模态生产接入交付链路 |
+| 43 | 前沿速览 | [43.md](./43.md) | AI Compass前沿速览：MiMo Code、SkillSpector把 Agent 开发拉回安全边界，HPC-Ops、Claude Fable 5把企业 Agent 拉回权限与安全边界 |
+| 44 | 前沿速览 | [44.md](./44.md) | AI Compass前沿速览：BrowserBC、VibeThinker-3B把代码模型拉回可控交付，GPT-5.6、Ornith-1.0把代码模型拉回可控交付 |
+| 45 | 前沿速览 | [45.md](./45.md) | AI Compass前沿速览：SkillSpector、GLM-5.2把 Agent 开发拉回安全边界，Qwen-Robot Suite、Ponytail把代码模型拉回可控交付 |
+| 46 | 前沿速览 | [46.md](./46.md) | AI Compass前沿速览：Command Code、跃迁维度把多模型接入拉回统一调度，GeneBench-Pro、ComAct把 AI 能力落到具体生产环节 |
+| 47 | 前沿速览 | [47.md](./47.md) | AI Compass前沿速览：InternAgentS、OpenScience把科研智能体带入全流程协作，SayIt、Page Agent把代码模型拉回可控交付 |
+| 48 | 前沿速览 | [48.md](./48.md) | AI Compass前沿速览：StaffDeck、Kimi K3把智能体带入可控执行，Colibrì、Codex Micro把代码模型拉回可控交付 |
+| 49 | 前沿速览 | [49.md](./49.md) | AI Compass前沿速览：MineExplorer、WorkBuddy Bench把智能体评测推入真实任务，Claude Opus 5、元极AI把模型与内容生产接入交付链路 |
 
 ## 给 AI 的使用约定
 

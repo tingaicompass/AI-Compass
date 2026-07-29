@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Compass 知识库"
+  short_description: "Search the local AI-Compass technical knowledge base"
+  default_prompt: "Use $ai-compass to answer a question from the local AI-Compass knowledge base."

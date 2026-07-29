@@ -3,7 +3,7 @@ id: weekly-highlights-latest
 type: pointer
 latest_issue: 49
 latest_file: ./49.md
-latest_title: AI Compass前沿速览：Qwen3.8-Max-Preview 拉开代码模型新一轮竞争，剧火AI 把 AI 视频生产推向短剧与营销场景
+latest_title: AI Compass前沿速览：MineExplorer、WorkBuddy Bench把智能体评测推入真实任务，Claude Opus 5、元极AI把模型与内容生产接入交付链路
 published_at: 2026-07-28
 last_updated: 2026-07-28
 ---
@@ -13,7 +13,7 @@ last_updated: 2026-07-28
 - 最新期数：49
 - 发布时间：2026-07-28
 - 文件入口：[49.md](./49.md)
-- 标题：AI Compass前沿速览：Qwen3.8-Max-Preview 拉开代码模型新一轮竞争，剧火AI 把 AI 视频生产推向短剧与营销场景
+- 标题：AI Compass前沿速览：MineExplorer、WorkBuddy Bench把智能体评测推入真实任务，Claude Opus 5、元极AI把模型与内容生产接入交付链路
 
 ## AI 使用建议
 
