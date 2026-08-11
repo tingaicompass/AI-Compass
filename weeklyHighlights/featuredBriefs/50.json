@@ -1,0 +1,66 @@
+{
+  "thesis": {
+    "headline": "智能体竞争正从能力演示转向可审计的端到端交付",
+    "summary": "结论：Warp Agent CLI 支持跨目录、SSH 与子 Agent 编排；Qwen-CUA 仅凭截图操作界面，在 OSWorld-Verified 获86.2分。Orchard 用 Kubernetes 沙箱支撑训练评估，ForgeStencil 一周优化100余个工业和科学计算软件，中位加速1.41倍。多模态侧，SeedRealtime 在豆包 App 全量上线、对话节奏较级联方案减半，Wan-Animate-2-Lite 达24fps。团队应以权限、隔离、可审计验证和内容吞吐验收，而非只比较模型演示。"
+  },
+  "themes": [
+    {
+      "title": "终端与界面代理开始以隔离和可恢复性替代黑箱执行",
+      "summary": "开发入口从单轮代码补全扩展到跨环境、跨界面的长期任务，但可恢复、可隔离和可审计成为实际采用前提。",
+      "items": [
+        {
+          "section_id": "item-14b7dc0cd6",
+          "fact": "Warp Agent CLI 可在多类终端运行，跨目录和 SSH 会话保持上下文，并编排本地与云端子 Agent。",
+          "why_it_matters": "终端自动化可覆盖远程运维和多仓库开发，团队需同时评估会话状态与外部工具权限。"
+        },
+        {
+          "section_id": "item-2ea9e8384a",
+          "fact": "Muse Code 为大型代码库任务提供并行子代理、隔离工作副本和可从事件日志恢复的执行机制。",
+          "why_it_matters": "把长程工程任务放入隔离工作树和可重放日志，有助于降低并行修改对主工作副本的风险。"
+        },
+        {
+          "section_id": "item-34ba6e5009",
+          "fact": "Qwen-CUA 仅通过截图感知界面，可操控浏览器、桌面和专业软件，在 OSWorld-Verified 获 86.2 分。",
+          "why_it_matters": "纯视觉操作扩大了对无 API 旧系统的覆盖范围，也要求企业重新核对界面误操作与审批边界。"
+        }
+      ]
+    },
+    {
+      "title": "Agent 价值开始由真实环境中的优化与评估闭环证明",
+      "summary": "智能体框架的分水岭正在变成是否具备可复用环境、真实软件验证和可审计性能测量，而非单一策略展示。",
+      "items": [
+        {
+          "section_id": "item-c9681960be",
+          "fact": "微软研究院开源 Orchard，核心 Orchard Env 基于 Kubernetes，支持复用沙箱开展数据蒸馏、强化学习 rollout 与评估。",
+          "why_it_matters": "可复用环境让训练、评估和实验的依赖条件更容易标准化，减少 Agent 研发的环境摩擦。"
+        },
+        {
+          "section_id": "item-78deda00be",
+          "fact": "ForgeStencil 以 Kernel Agent 与 App Agent 闭环优化生产软件，一周可完成 100 余个案例，中位加速 1.41 倍。",
+          "why_it_matters": "以应用原始 GPU 代码为基线并保留可审计测量路径，才让自动优化结果具备上线判断价值。"
+        }
+      ]
+    },
+    {
+      "title": "多模态生产链路正在从生成片段走向实时且可本地闭环的工具",
+      "summary": "语音、字幕和角色动画能力同时向实时交互、离线处理和可复用素材演进，内容团队可按链路而非单点模型采购。",
+      "items": [
+        {
+          "section_id": "item-764c8cc7f1",
+          "fact": "SeedRealtime 是原生音视频全双工模型，已在豆包 App 全量上线，对话节奏问题较级联模型减少一半。",
+          "why_it_matters": "端到端音视频交互开始进入规模化产品，实时客服、导览和设备指导可优先验证响应节奏与环境理解。"
+        },
+        {
+          "section_id": "item-6ce3e3ba61",
+          "fact": "开源 SmartSub 可在 Windows、macOS、Linux 上用本地模型完成离线转写、翻译、配音、声音克隆与字幕烧录。",
+          "why_it_matters": "字幕本地化可减少将音视频素材外发的依赖，并把多工具串联压缩为可复用的桌面工作流。"
+        },
+        {
+          "section_id": "item-87fef21e51",
+          "fact": "开源 Wan-Animate-2 支持端到端动作迁移和文本视角控制，Lite 变体可实现 24fps 实时生成。",
+          "why_it_matters": "角色内容生产可同时兼顾身份一致性和实时性，适合先在虚拟人直播与短视频模板中验证吞吐。"
+        }
+      ]
+    }
+  ]
+}
