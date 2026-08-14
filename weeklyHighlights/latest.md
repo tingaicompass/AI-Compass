@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 50
-latest_file: ./50.md
-latest_title: AI Compass前沿速览：Orchard、Warp Agent CLI与WorldClaw加速可控交付，SmartSub、Wan-Animate-2拓宽多模态生产链路
-published_at: 2026-08-11
-last_updated: 2026-08-11
+latest_issue: 51
+latest_file: ./51.md
+latest_title: AI Compass前沿速览：PixelRAG、DeepSeek Harness、Nemotron 3.5 Lightning、Muse Glimmer从通用文本工具转向多模态轻量化智能体，把开发工作流带入自主高效新范式
+published_at: 2026-08-14
+last_updated: 2026-08-14
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：50
-- 发布时间：2026-08-11
-- 文件入口：[50.md](./50.md)
-- 标题：AI Compass前沿速览：Orchard、Warp Agent CLI与WorldClaw加速可控交付，SmartSub、Wan-Animate-2拓宽多模态生产链路
+- 最新期数：51
+- 发布时间：2026-08-14
+- 文件入口：[51.md](./51.md)
+- 标题：AI Compass前沿速览：PixelRAG、DeepSeek Harness、Nemotron 3.5 Lightning、Muse Glimmer从通用文本工具转向多模态轻量化智能体，把开发工作流带入自主高效新范式
 
 ## AI 使用建议
 

@@ -157,48 +157,58 @@ When using the repository as a knowledge base, start with [`latest.md`](./weekly
 46. [FuckClaude, Claude Science, Hy3, Leap Dimension, and EdgeBench](./weeklyHighlights/46.md)
 47. [GPT-Live, SayIt, JellyToken, OpenScience, and InternAgentS](./weeklyHighlights/47.md)
 48. [Kimi K3, Qwen-Audio-3.0-Realtime, Colibri, StaffDeck, and Nemotron 3 Embed](./weeklyHighlights/48.md)
+49. [MineExplorer and WorkBuddy Bench bring agent evaluation into real tasks; Claude Opus 5 and Yuanji AI connect models to content delivery](./weeklyHighlights/49.md)
+50. [Orchard, Warp Agent CLI, and WorldClaw accelerate controlled delivery; SmartSub and Wan-Animate-2 expand multimodal production](./weeklyHighlights/50.md)
 
 </details>
 
 ### Latest Issue
 
-[AI Compass Weekly: MineExplorer and WorkBuddy Bench Bring Agent Evaluation into Real Tasks](./weeklyHighlights/49.md)
+[AI Compass Weekly: PixelRAG, DeepSeek Harness, Nemotron 3.5 Lightning, and Muse Glimmer Shift AI Delivery Toward Efficient, Verifiable Multimodal Agents](./weeklyHighlights/51.md)
 
-> Issue 49 · 2026-07-28 · AI Compass Weekly
-> **50** items · **8** highlights · **3** themes · approximately **3** minutes
+> Issue 51 · 2026-08-14 · AI Compass Weekly
+> **27** items · **8** highlights · **3** themes · approximately **3** minutes
 
 #### Theme
 
-**MineExplorer and WorkBuddy Bench bring agent evaluation into real tasks.**
+**The dividing line for AI delivery is shifting from model scale to runtime efficiency, verifiable experience, and multimodal structure preservation.**
 
-This issue signals a shift in agent evaluation from demonstrations toward real-task validation. MineExplorer evaluates open-world, long-horizon exploration by multimodal agents in a dynamic Minecraft environment; WorkBuddy Bench covers code, web, office, and security work. Claude Opus 5 adds another production-model option with adjustable reasoning effort and lower cost. Teams should validate models and tools in their own codebases, permission boundaries, and multi-step workflows instead of comparing only single-turn answer quality.
+The important change this week is not simply that models are getting larger. Agent and multimodal systems are being redesigned around deployability, verifiability, and structural fidelity. Grok 4.6 pushes cloud engineering tasks with 1.5T parameters and a 500K-token context window; Nemotron 3.5 Lightning activates only 3B parameters while completing agent tasks 30% faster; Muse Glimmer fits a 30B multimodal model into 24GB of VRAM. PixelRAG improves visual retrieval by up to 18.1%, while PAST-Bench tests cross-session learning across 26 scenarios. Engineering teams should revisit selection and acceptance criteria around throughput, memory attribution, visual fidelity, and local deployment cost.
 
 #### Highlights
 
-##### Coding Models and Agents
+##### Cloud Flagships and Local Throughput Are Becoming Distinct Model Strategies
 
-- **[Qwen3.8-Max-Preview](./weeklyHighlights/49.md#item-747793924f)**
-  - **Update**: Supports full-stack development, data analysis, and multi-agent long-running tasks with up to 1M tokens of context.
-  - **Why it matters**: Extends evaluation from one-shot code generation to repository understanding, planning, and workflow collaboration.
-- **[Claude Opus 5](./weeklyHighlights/49.md#item-b829f69e90)**
-  - **Update**: Provides adjustable reasoning effort for software engineering, search, and business-process automation.
-  - **Why it matters**: Teams can balance quality, latency, and token cost by task complexity.
-- **[OpenAI Presence](./weeklyHighlights/49.md#item-b43fb26abf)**
-  - **Update**: Provides least-privilege access, approval escalation, simulation, and production-data-driven improvement for enterprise agents.
-  - **Why it matters**: Enterprise adoption depends on controllable access, auditable execution, and continuous improvement.
-- **[Nanbeige4.2-3B](./weeklyHighlights/49.md#item-50e4e06c9e)**
-  - **Update**: A compact model for local deployment, reasoning, and multi-step tool use in coding and office workflows.
-  - **Why it matters**: Offers a practical local option for teams with strict budget, data-boundary, or latency requirements.
+- **[Grok 4.6](./weeklyHighlights/51.md#item-db5f89fa5f)**
+  - **Update**: Uses a 1.5T-parameter MoE architecture, provides a 500K-token context window, and is available through Grok Build, Cursor, and the xAI API.
+  - **Why it matters**: Cloud models can handle larger cross-repository engineering tasks, but teams still need task-level evidence for speed, cost, and safety boundaries.
+- **[Nemotron 3.5 Lightning](./weeklyHighlights/51.md#item-755d04b62e)**
+  - **Update**: Has 30B total parameters but activates only 3B, retaining 86% accuracy across 10,000 PinchBench tasks while completing them 30% faster.
+  - **Why it matters**: High-frequency tool calls and multi-agent clusters can trade lower active parameter counts for throughput, making routing and per-task cost first-class architecture concerns.
+- **[Muse Glimmer](./weeklyHighlights/51.md#item-da9af28f4b)**
+  - **Update**: Quantizes an approximately 30B-parameter multimodal agent model to 17-20GB, runs on 24GB GPUs, and reaches up to 3.1x faster generation with DFlash.
+  - **Why it matters**: Local autonomous agents can now combine vision, tool use, and recovery, making consumer hardware worth reevaluating for sensitive-data workloads.
 
-##### Multimodal Production
+##### Agent Engineering Is Moving Toward Runtime Frameworks and Experience Attribution
 
-- **[FLUX 3](./weeklyHighlights/49.md#item-7f8021385a)**: Jointly models image, video, and audio, producing native audio-video clips up to 20 seconds long.
-- **[Qwen-Image-3.0](./weeklyHighlights/49.md#item-7b4779d38c)**: Supports complex layouts, 10px text, and native rendering in 12 languages.
-- **[Juhuo AI](./weeklyHighlights/49.md#item-2c5dbd3a94)**: Connects scripts, storyboards, characters, scenes, dubbing, music, and video generation for AI short-drama production.
+- **[DeepSeek Harness](./weeklyHighlights/51.md#item-c54d35d927)**
+  - **Update**: Uses a plugin-based kernel for tools, sandboxes, and feedback loops, with million-token dynamic context, automatic retries, and append-only session logs.
+  - **Why it matters**: Teams can place model capability inside an extensible, isolated, and replayable runtime, reducing integration and audit costs for end-to-end automation.
+- **[PAST-Bench](./weeklyHighlights/51.md#item-fd62a78482)**
+  - **Update**: Uses 26 scenarios, 204 task episodes, and memory/no-memory controls to trace how storage, retrieval, and application affect cross-session performance.
+  - **Why it matters**: Long-term memory can be evaluated through mechanisms rather than subjective impressions, including contamination, recall, and update correctness.
 
-##### Long-Horizon Evaluation
+##### Multimodal Infrastructure Is Advancing from Generation to Structured, Continuous Delivery
 
-- **[MineExplorer](./weeklyHighlights/49.md#item-003c8dbb90)**: Provides 813 one- to four-hop Minecraft tasks with milestone-based scoring for evaluating long-horizon multimodal agents.
+- **[PixelRAG](./weeklyHighlights/51.md#item-359942d6f2)**
+  - **Update**: Renders web pages and PDFs as screenshot tiles, retrieves tables, charts, and layouts as visual vectors, and improves open-domain QA by up to 18.1% over text baselines.
+  - **Why it matters**: Enterprise RAG systems can preserve document structure instead of discarding it before retrieval, improving comparisons for reports and visually complex sources.
+- **[dots.tts](./weeklyHighlights/51.md#item-0267104435)**
+  - **Update**: Generates 48kHz audio with a 2B-parameter continuous autoregressive architecture, reaches 54.4ms first-packet latency in 1T1A duplex mode, and supports 24 languages.
+  - **Why it matters**: Real-time voice agents can combine low latency, zero-shot cloning, and multilingual delivery; acceptance tests should measure end-to-end conversational rhythm and voice consistency.
+- **[HOMIE](./weeklyHighlights/51.md#item-757f0aa988)**
+  - **Update**: Combines Wan2.1-T2V-14B with Qwen3-VL to handle people, products, logos, and text, supporting 480p single-GPU and 720p multi-GPU generation.
+  - **Why it matters**: Brand and commerce video pipelines can evaluate subject consistency, OCR fidelity, and multi-view continuity together, reducing corrective editing and asset rework.
 
 ---
 

@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-08-11
+last_updated: 2026-08-14
 ---
 
 # weeklyHighlights 索引
@@ -70,6 +70,7 @@ last_updated: 2026-08-11
 | 48 | 前沿速览 | [48.md](./48.md) | AI Compass前沿速览：StaffDeck、Kimi K3把智能体带入可控执行，Colibrì、Codex Micro把代码模型拉回可控交付 |
 | 49 | 前沿速览 | [49.md](./49.md) | AI Compass前沿速览：MineExplorer、WorkBuddy Bench把智能体评测推入真实任务，Claude Opus 5、元极AI把模型与内容生产接入交付链路 |
 | 50 | 前沿速览 | [50.md](./50.md) | AI Compass前沿速览：Orchard、Warp Agent CLI与WorldClaw加速可控交付，SmartSub、Wan-Animate-2拓宽多模态生产链路 |
+| 51 | 前沿速览 | [51.md](./51.md) | AI Compass前沿速览：PixelRAG、DeepSeek Harness、Nemotron 3.5 Lightning、Muse Glimmer从通用文本工具转向多模态轻量化智能体，把开发工作流带入自主高效新范式 |
 
 ## 给 AI 的使用约定
 
