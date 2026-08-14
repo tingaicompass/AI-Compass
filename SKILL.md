@@ -14,7 +14,7 @@ Use the repository as three connected layers instead of one undifferentiated doc
 | Layer | Primary sources | Use it for |
 | --- | --- | --- |
 | Repository map | `README.md` | Module boundaries, learning routes, resource discovery, and finding the right subtree |
-| Weekly increments | `weeklyHighlights/latest.md`, `weeklyHighlights/INDEX.md`, issue files | Latest developments, historical timelines, and what changed in a given period |
+| Weekly increments | `weeklyHighlights/latest.md`, `weeklyHighlights/INDEX.md`, issue files, optional `weeklyHighlights/topicRoutes/<issue>.json` | Latest developments, historical timelines, and what changed in a given period |
 | Long-term knowledge | Numbered topic directories and `11.blog/` / `11.code/` | Stable technical explanations, comparison, implementation references, and learning material |
 
 Never treat a weekly item as a durable consensus without checking its matching topic page. Conversely, do not present a long-term topic page as evidence of the latest news without reading the weekly index and issue.
@@ -57,10 +57,22 @@ Search the most likely topic home before using a repository-wide search. These a
 
 Use `rg -n` to locate an unfamiliar term after choosing the most likely subtree. Do not load all topic files or every weekly issue just because the repository is local.
 
+## Weekly Item Routes
+
+When a question targets a specific weekly item, check `weeklyHighlights/topicRoutes/<issue>.json` after identifying the issue. Schema version `1` maps each weekly `section_id` and title to:
+
+- the item's anchor in the weekly issue;
+- one primary topic path and its stable body anchor;
+- zero to two related topic paths.
+
+Use the primary topic as the durable full-text entry. Related topic paths are navigation only: follow their directory link to the primary entry instead of expecting or synthesizing a duplicate body. Treat the route file as a retrieval index, not as evidence for the underlying claim; cite the weekly issue or primary topic page that contains the text.
+
+Route files are optional so older issues and older repository versions remain usable. If the file is absent, malformed, uses an unsupported schema version, or has no matching item, fall back to `latest.md` or `INDEX.md`, open the relevant issue, and use the preferred topic table plus a scoped `rg -n` search.
+
 ## Retrieval Workflow
 
 1. Identify whether the request needs current information, historical comparison, durable explanation, implementation detail, or a learning route.
-2. Open the entry file selected above and use its structure, links, and headings to narrow the scope.
+2. For a specific weekly item, use its schema-v1 route entry when available; otherwise open the entry file selected above and use its structure, links, and headings to narrow the scope.
 3. Read the minimum primary source passages needed to support the answer. Prefer an official link, repository link, or paper already recorded in AI-Compass when the user asks for further reading.
 4. Cross-check claims that mix freshness and theory: the weekly issue establishes when it appeared; the topic page establishes how it fits the longer technical landscape.
 5. State uncertainty when the repository has no entry, a weekly claim is unverified by longer-term material, or a version/date may have changed since the stored issue.
