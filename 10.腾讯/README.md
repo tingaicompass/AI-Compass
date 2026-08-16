@@ -694,7 +694,7 @@ Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tingaicompass/AI-Compass&type=Date)](https://www.star-history.com/#tingaicompass/AI-Compass&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=tingaicompass/AI-Compass&type=Date)](https://star-history.dera.page/#tingaicompass/AI-Compass&Date)
 
 
 <div align="center">

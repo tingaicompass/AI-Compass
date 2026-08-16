@@ -417,7 +417,7 @@ The Knowledge Planet community provides deeper tutorials, project practice, high
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tingaicompass/AI-Compass&type=Date)](https://www.star-history.com/#tingaicompass/AI-Compass&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=tingaicompass/AI-Compass&type=Date)](https://star-history.dera.page/#tingaicompass/AI-Compass&Date)
 
 <div align="center">
   <p><strong>AI-Compass - Your AI Navigation Compass</strong></p>
