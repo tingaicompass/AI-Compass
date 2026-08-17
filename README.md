@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tingaicompass-ai-compass-badge.png)](https://mseep.ai/app/tingaicompass-ai-compass)
+
 <p align="center">
   <img src="./picture/main/封面.png" alt="汀丶人工智能" />
 </p>
