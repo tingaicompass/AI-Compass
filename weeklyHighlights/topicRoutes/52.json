@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "issue": 52,
+  "content_sha256": "2c00b594143bb2fc41b370ec6c3ae0542b14816834a0d0a28ab087ecbb31beac",
+  "items": [
+    {
+      "section_id": "item-fc27b96a27",
+      "title": "Gemini 3.7 Flash – Google DeepMind 推出最新的主力模型",
+      "weekly_anchor": "item-fc27b96a27",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-52-item-fc27b96a27"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-db5f89fa5f",
+      "title": "Grok 4.6 – SpaceXAI 推出的最新一代旗舰大模型",
+      "weekly_anchor": "item-db5f89fa5f",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-52-item-db5f89fa5f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-814bd3ca99",
+      "title": "Happy Shrimp – 阿里 ATH 事业群推出的 AI 音乐平台",
+      "weekly_anchor": "item-814bd3ca99",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-52-item-814bd3ca99"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-66912d8e85",
+      "title": "WorkSwarm – openJiuwen 推出的蜂群办公智能体",
+      "weekly_anchor": "item-66912d8e85",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-52-item-66912d8e85"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3faa81383c",
+      "title": "img2threejs 实测 – 电商产品图一键生成 3D 模型",
+      "weekly_anchor": "item-3faa81383c",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-52-item-3faa81383c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-0896380165",
+      "title": "OnSolo – 腾讯推出的 AI 原生创作平台",
+      "weekly_anchor": "item-0896380165",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-52-item-0896380165"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-4559211c4a",
+      "title": "Loomy 深度体验 – 让桌面 Agent “看懂”本地文件",
+      "weekly_anchor": "item-4559211c4a",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-52-item-4559211c4a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-063f75ffe5",
+      "title": "Sonilo – AI 视频配乐与音效生成平台，自动分析画面节奏",
+      "weekly_anchor": "item-063f75ffe5",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-52-item-063f75ffe5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-00e5ea5a9e",
+      "title": "TraeWork 办公助手实测 – AI 自动读取文档与群聊协作",
+      "weekly_anchor": "item-00e5ea5a9e",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-52-item-00e5ea5a9e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b6092991e0",
+      "title": "MiniMax H3 部署实测 – RTX 3060 12G  可跑，效果比肩 Seedance",
+      "weekly_anchor": "item-b6092991e0",
+      "primary": {
+        "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md",
+        "anchor": "weekly-item-52-item-b6092991e0"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-43ccd74d95",
+      "title": "Copula Lab – AI 数据基础设施平台，提供专家级训练数据",
+      "weekly_anchor": "item-43ccd74d95",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-52-item-43ccd74d95"
+      },
+      "related_topics": [
+        {
+          "topic_path": "2.1 LLM训练框架/2.大模型训练框架.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-8528a34f70",
+      "title": "GLM-5.3 – 智谱最新开源的基座大模型，编程能力提升50%",
+      "weekly_anchor": "item-8528a34f70",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-52-item-8528a34f70"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-a2b155c781",
+      "title": "Qwen3.8-27B – 阿里千问团队开源的新一代 AI 大模型",
+      "weekly_anchor": "item-a2b155c781",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-52-item-a2b155c781"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-4d43464d3f",
+      "title": "DeepSeek Harness 安装教程，全新Agent模式一文看懂",
+      "weekly_anchor": "item-4d43464d3f",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-52-item-4d43464d3f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-25be452953",
+      "title": "dots3-note preview – 小红书开源的多模态 MoE 模型",
+      "weekly_anchor": "item-25be452953",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-52-item-25be452953"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        },
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-0a5c7d4d5d",
+      "title": "wigolo – 开源的本地搜索工具，支持接入多种编程 Agent",
+      "weekly_anchor": "item-0a5c7d4d5d",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-52-item-0a5c7d4d5d"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-6522f588e1",
+      "title": "Loomy 教程玩法 – 多智能体协作实现桌面自动化",
+      "weekly_anchor": "item-6522f588e1",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-52-item-6522f588e1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-52-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-52-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7d21490457",
+      "title": "MiniMax Music 3.0 – MiniMax 开源的音乐生成模型",
+      "weekly_anchor": "item-7d21490457",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-52-item-7d21490457"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-52-item-9e4d52734f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    }
+  ]
+}

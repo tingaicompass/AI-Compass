@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 51
-latest_file: ./51.md
-latest_title: AI Compass前沿速览：PixelRAG、DeepSeek Harness、Nemotron 3.5 Lightning、Muse Glimmer从通用文本工具转向多模态轻量化智能体，把开发工作流带入自主高效新范式
-published_at: 2026-08-14
-last_updated: 2026-08-14
+latest_issue: 52
+latest_file: ./52.md
+latest_title: AI Compass前沿速览：Qwen3.8-27B、GLM-5.3把基座模型带入多模态与后训练优化新境，Grok 4.6、Gemini 3.7 Flash把专业场景效能推向新层级
+published_at: 2026-08-17
+last_updated: 2026-08-17
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：51
-- 发布时间：2026-08-14
-- 文件入口：[51.md](./51.md)
-- 标题：AI Compass前沿速览：PixelRAG、DeepSeek Harness、Nemotron 3.5 Lightning、Muse Glimmer从通用文本工具转向多模态轻量化智能体，把开发工作流带入自主高效新范式
+- 最新期数：52
+- 发布时间：2026-08-17
+- 文件入口：[52.md](./52.md)
+- 标题：AI Compass前沿速览：Qwen3.8-27B、GLM-5.3把基座模型带入多模态与后训练优化新境，Grok 4.6、Gemini 3.7 Flash把专业场景效能推向新层级
 
 ## AI 使用建议
 
