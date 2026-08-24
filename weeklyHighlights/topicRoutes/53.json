@@ -1,0 +1,378 @@
+{
+  "schema_version": 1,
+  "issue": 53,
+  "content_sha256": "4f250c32e877b3476ee473d8b5f16e74a81c69e4114e084a332ed02825cbca29",
+  "items": [
+    {
+      "section_id": "item-856800f8c3",
+      "title": "DeepSeek-V4-Flash-Vision-Exp – DeepSeek 推出的多模态视觉理解模型",
+      "weekly_anchor": "item-856800f8c3",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-856800f8c3"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-c912e95359",
+      "title": "DeepSeek V4 Pro 与 GLM-5.3 深度实测，谁是国产大模型一哥？",
+      "weekly_anchor": "item-c912e95359",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-53-item-c912e95359"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-adeaa75fa2",
+      "title": "TeleAgent – 中国电信天翼 AI 推出的桌面级通用智能体助手",
+      "weekly_anchor": "item-adeaa75fa2",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-53-item-adeaa75fa2"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-1064d1047a",
+      "title": "Tap8 – AI 原生互动视频平台，支持实时双向交互",
+      "weekly_anchor": "item-1064d1047a",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-1064d1047a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-62914511f7",
+      "title": "FLUX Upscale – Black Forest Labs 推出的 AI 视频放大工具",
+      "weekly_anchor": "item-62914511f7",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-62914511f7"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-13bb9c0e42",
+      "title": "Qwen-UI-Agent – 阿里通义推出的 GUI 智能体基座模型",
+      "weekly_anchor": "item-13bb9c0e42",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-53-item-13bb9c0e42"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b9beaf11a5",
+      "title": "Alta – AI 穿搭应用，能生成专属 Avatar 虚拟试衣",
+      "weekly_anchor": "item-b9beaf11a5",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-b9beaf11a5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-38a88ac035",
+      "title": "updream 3D 预演台使用教程 – 零基础控制 AI 镜头与运镜",
+      "weekly_anchor": "item-38a88ac035",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-38a88ac035"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c8d45cc873",
+      "title": "MiniMax Design – MiniMax推出的AI Agent商业内容生产平台",
+      "weekly_anchor": "item-c8d45cc873",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-53-item-c8d45cc873"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-461412ea7f",
+      "title": "Lumos NexCore – 鹿明机器人推出的具身智能进化引擎",
+      "weekly_anchor": "item-461412ea7f",
+      "primary": {
+        "topic_path": "3.7 AI Robot/3.AIRobot.md",
+        "anchor": "weekly-item-53-item-461412ea7f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7b77ceff8c",
+      "title": "扣子桌面端 – 字节跳动旗下扣子推出的桌面端",
+      "weekly_anchor": "item-7b77ceff8c",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-53-item-7b77ceff8c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-4450e97c26",
+      "title": "ManClaw – 阿里旗下书旗团队推出的 AI 漫剧创作 Agent",
+      "weekly_anchor": "item-4450e97c26",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-53-item-4450e97c26"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-8528a34f70",
+      "title": "GLM-5.3 实测 – 编程、网络安全与 3D 创作能力全面解析",
+      "weekly_anchor": "item-8528a34f70",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-8528a34f70"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-a6da3e985b",
+      "title": "HarnessEval – MirroS 联合清北、英伟达等推出的评测系统",
+      "weekly_anchor": "item-a6da3e985b",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-53-item-a6da3e985b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-2bd5681623",
+      "title": "FreeToken – 开源端侧 MoE 大模型推理系统，支持满血运行",
+      "weekly_anchor": "item-2bd5681623",
+      "primary": {
+        "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md",
+        "anchor": "weekly-item-53-item-2bd5681623"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        },
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-1289397fb7",
+      "title": "TabTin – 开源的全栈 AI Agent 团队协作平台",
+      "weekly_anchor": "item-1289397fb7",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-53-item-1289397fb7"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        },
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-c3ca0d5fc5",
+      "title": "LLM-as-a-Verifier – 斯坦福联合英伟达等开源的通用验证框架",
+      "weekly_anchor": "item-c3ca0d5fc5",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-53-item-c3ca0d5fc5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-71790d4480",
+      "title": "CoinVE-200K – 腾讯开源的大规模组合指令视频编辑数据集",
+      "weekly_anchor": "item-71790d4480",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-71790d4480"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-cecd681109",
+      "title": "Cocode – 开源DeepSeek Harness发行版，提供GUI与TUI双入口",
+      "weekly_anchor": "item-cecd681109",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-53-item-cecd681109"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        },
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-cbd0cf0eea",
+      "title": "SenseNova U1.5 Lite – 商汤科技开源的原生统一多模态大模型",
+      "weekly_anchor": "item-cbd0cf0eea",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-53-item-cbd0cf0eea"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-fb7fc7cd3e",
+      "title": "Codex Harness – OpenAI 开源的 AI Agent 底层执行框架",
+      "weekly_anchor": "item-fb7fc7cd3e",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-53-item-fb7fc7cd3e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-69b2ffbe9c",
+      "title": "紫三角 – CAD 图纸 AI 翻译工具，支持中英互译",
+      "weekly_anchor": "item-69b2ffbe9c",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-53-item-69b2ffbe9c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-35339bdfc6",
+      "title": "水豚桌面 – 免费 AI 桌面工作台，智能分类桌面应用与文件",
+      "weekly_anchor": "item-35339bdfc6",
+      "primary": {
+        "topic_path": "8.3 ML/ML.md",
+        "anchor": "weekly-item-53-item-35339bdfc6"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-b28a867709",
+      "title": "Qwen3.8-27B-DFlash2 – Inco AI 开源的投机解码草稿模型",
+      "weekly_anchor": "item-b28a867709",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-53-item-b28a867709"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-d7c5946533",
+      "title": "Mage – 微软开源的 4B 参数多模态模型家族",
+      "weekly_anchor": "item-d7c5946533",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-d7c5946533"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-3e13ae8520",
+      "title": "ToolJet – 开源 AI 低代码开发平台，可视化拖拽搭建",
+      "weekly_anchor": "item-3e13ae8520",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-53-item-3e13ae8520"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-f9341e0310",
+      "title": "Nature Skills – 开源的 AI 科研技能库，聚焦论文全流程",
+      "weekly_anchor": "item-f9341e0310",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-53-item-f9341e0310"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3477f8609b",
+      "title": "Academic Research Skills – 开源的 A I Agent 学术科研技能",
+      "weekly_anchor": "item-3477f8609b",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-53-item-3477f8609b"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-53-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-53-item-9e4d52734f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    }
+  ]
+}

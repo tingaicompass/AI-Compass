@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 52
-latest_file: ./52.md
-latest_title: AI Compass前沿速览：Qwen3.8-27B、GLM-5.3把基座模型带入多模态与后训练优化新境，Grok 4.6、Gemini 3.7 Flash把专业场景效能推向新层级
-published_at: 2026-08-17
-last_updated: 2026-08-17
+latest_issue: 53
+latest_file: ./53.md
+latest_title: AI Compass前沿速览：FreeToken、Qwen-UI-Agent把智能体带入可控执行，Cocode、Codex Harness把代码模型拉回可控交付
+published_at: 2026-08-24
+last_updated: 2026-08-24
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：52
-- 发布时间：2026-08-17
-- 文件入口：[52.md](./52.md)
-- 标题：AI Compass前沿速览：Qwen3.8-27B、GLM-5.3把基座模型带入多模态与后训练优化新境，Grok 4.6、Gemini 3.7 Flash把专业场景效能推向新层级
+- 最新期数：53
+- 发布时间：2026-08-24
+- 文件入口：[53.md](./53.md)
+- 标题：AI Compass前沿速览：FreeToken、Qwen-UI-Agent把智能体带入可控执行，Cocode、Codex Harness把代码模型拉回可控交付
 
 ## AI 使用建议
 
