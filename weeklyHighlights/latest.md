@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 53
-latest_file: ./53.md
-latest_title: AI Compass前沿速览：FreeToken、Qwen-UI-Agent把智能体带入可控执行，Cocode、Codex Harness把代码模型拉回可控交付
-published_at: 2026-08-24
-last_updated: 2026-08-24
+latest_issue: 54
+latest_file: ./54.md
+latest_title: AI Compass前沿速览：Agnes 2.5 Pro Alpha、Faraday把多模态创作落到生产环节，FreeToken、GLM-5.3-Flash把智能体带入可控执行
+published_at: 2026-08-28
+last_updated: 2026-08-28
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：53
-- 发布时间：2026-08-24
-- 文件入口：[53.md](./53.md)
-- 标题：AI Compass前沿速览：FreeToken、Qwen-UI-Agent把智能体带入可控执行，Cocode、Codex Harness把代码模型拉回可控交付
+- 最新期数：54
+- 发布时间：2026-08-28
+- 文件入口：[54.md](./54.md)
+- 标题：AI Compass前沿速览：Agnes 2.5 Pro Alpha、Faraday把多模态创作落到生产环节，FreeToken、GLM-5.3-Flash把智能体带入可控执行
 
 ## AI 使用建议
 
