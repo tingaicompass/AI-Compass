@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-08-28
+last_updated: 2026-09-04
 ---
 
 # weeklyHighlights 索引
@@ -74,6 +74,7 @@ last_updated: 2026-08-28
 | 52 | 前沿速览 | [52.md](./52.md) | AI Compass前沿速览：Qwen3.8-27B、GLM-5.3把基座模型带入多模态与后训练优化新境，Grok 4.6、Gemini 3.7 Flash把专业场景效能推向新层级 |
 | 53 | 前沿速览 | [53.md](./53.md) | AI Compass前沿速览：FreeToken、Qwen-UI-Agent把智能体带入可控执行，Cocode、Codex Harness把代码模型拉回可控交付 |
 | 54 | 前沿速览 | [54.md](./54.md) | AI Compass前沿速览：Agnes 2.5 Pro Alpha、Faraday把多模态创作落到生产环节，FreeToken、GLM-5.3-Flash把智能体带入可控执行 |
+| 55 | 前沿速览 | [55.md](./55.md) | AI Compass前沿速览：E-Commerce Bench、GPT-6 Astra把智能体带入可控执行，Headlong、Claude Fable 5.1把企业 Agent 拉回权限与安全边界 |
 
 ## 给 AI 的使用约定
 

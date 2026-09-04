@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "issue": 55,
+  "content_sha256": "939da0c2dc1f9ead5528dac3b24aa35d43c3b3d1b4e2cb2aef9cd9c09f42f04c",
+  "items": [
+    {
+      "section_id": "item-59b773fd4d",
+      "title": "GPT-6 Astra – OpenAI 推出的最新旗舰大模型",
+      "weekly_anchor": "item-59b773fd4d",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-55-item-59b773fd4d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-561ea25f3a",
+      "title": "MAI-Transcribe-2 – 微软推出的最强 AI 语音转文字模型",
+      "weekly_anchor": "item-561ea25f3a",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-55-item-561ea25f3a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-58dbb92eae",
+      "title": "Muse Spark 1.3 – Meta 推出的新一代大语言模型",
+      "weekly_anchor": "item-58dbb92eae",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-55-item-58dbb92eae"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b25cc8ed06",
+      "title": "Gemini 3.8 – 谷歌推出的推理与编码模型",
+      "weekly_anchor": "item-b25cc8ed06",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-55-item-b25cc8ed06"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ca440b12ed",
+      "title": "Fusion Model – FUMO Lab 推出的智能分配模型",
+      "weekly_anchor": "item-ca440b12ed",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-55-item-ca440b12ed"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b76325baee",
+      "title": "Atlas – World Labs 推出的全球首个多模态世界模型",
+      "weekly_anchor": "item-b76325baee",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-55-item-b76325baee"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c8cf3ed1c1",
+      "title": "Muse Voice Transcribe – Meta 推出的首个实时音频感知模型",
+      "weekly_anchor": "item-c8cf3ed1c1",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-55-item-c8cf3ed1c1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-0d34d65069",
+      "title": "Claude Mythos 5.1 – Anthropic 推出的 Claude 系列旗舰模型",
+      "weekly_anchor": "item-0d34d65069",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-55-item-0d34d65069"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-2ee64bda5d",
+      "title": "Claude Fable 5.1 – Anthropic 推出的最新旗舰大模型",
+      "weekly_anchor": "item-2ee64bda5d",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-55-item-2ee64bda5d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-831c83582e",
+      "title": "Seedance 2.0 fast vs MiniMax H3 AI视频模型实测对比",
+      "weekly_anchor": "item-831c83582e",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-55-item-831c83582e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-12586fd1f8",
+      "title": "FireRedAudio – 小红书 FireRed 推出的通用音频语言模型",
+      "weekly_anchor": "item-12586fd1f8",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-55-item-12586fd1f8"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-fa0d8078ba",
+      "title": "MiniMax H3 Max – MiniMax 推出的实时视频生成模型",
+      "weekly_anchor": "item-fa0d8078ba",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-55-item-fa0d8078ba"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5c3c2c70f4",
+      "title": "Ling-3.0-flash-Fin – 蚂蚁百灵推出的首个金融增强模型",
+      "weekly_anchor": "item-5c3c2c70f4",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-55-item-5c3c2c70f4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-0781f0df57",
+      "title": "Lovart中文版教程 – 用 AI 搞定店铺品牌设计",
+      "weekly_anchor": "item-0781f0df57",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-55-item-0781f0df57"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3728197039",
+      "title": "Cheso – 腾讯推出的 AI PPT Agent 制作工具",
+      "weekly_anchor": "item-3728197039",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-55-item-3728197039"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-92c91af385",
+      "title": "腾讯混元 Hy4 preview 实测 – 用 WorkBuddy 搞定全流程办公",
+      "weekly_anchor": "item-92c91af385",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-55-item-92c91af385"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-7bb64723c4",
+      "title": "实测 WorkBuddy × Hy4 preview – 一句话搞定真实生产",
+      "weekly_anchor": "item-7bb64723c4",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-55-item-7bb64723c4"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-ec9e2402c6",
+      "title": "AI 技能成千上万怎么选？DeepSkill 精准搜索实战",
+      "weekly_anchor": "item-ec9e2402c6",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-55-item-ec9e2402c6"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7bbed4c1c1",
+      "title": "智谱 GLM-5.3-Flash 深度实测 – AI 编程能力凭国产芯片登顶",
+      "weekly_anchor": "item-7bbed4c1c1",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-55-item-7bbed4c1c1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b1f32580ff",
+      "title": "zg – Zvec AI 开源的本地优先统一检索基础工具",
+      "weekly_anchor": "item-b1f32580ff",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-55-item-b1f32580ff"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-2d060e6db9",
+      "title": "E-Commerce Bench – 千问联合淘天开源电商经营评测基准",
+      "weekly_anchor": "item-2d060e6db9",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-55-item-2d060e6db9"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-697a552b2e",
+      "title": "Easel – 浙大联合北大开源的 AI 社交媒体内容工作台",
+      "weekly_anchor": "item-697a552b2e",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-55-item-697a552b2e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9d10b96994",
+      "title": "Hy4 preview 轻量版 – 腾讯混元开源的Hy4量化压缩模型",
+      "weekly_anchor": "item-9d10b96994",
+      "primary": {
+        "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md",
+        "anchor": "weekly-item-55-item-9d10b96994"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-723b4a727c",
+      "title": "WeMM-Embedding – 腾讯开源通用多模态Embedding模型",
+      "weekly_anchor": "item-723b4a727c",
+      "primary": {
+        "topic_path": "2.0 Embedding模型/2.Embedding模型.md",
+        "anchor": "weekly-item-55-item-723b4a727c"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        },
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-b1504b002d",
+      "title": "Rome – 开源的智能体操作系统，自然语言生成完整应用",
+      "weekly_anchor": "item-b1504b002d",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-55-item-b1504b002d"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-f0f5dbbbc6",
+      "title": "Headlong – Laude Institute 开源的 AI Agent 微框架",
+      "weekly_anchor": "item-f0f5dbbbc6",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-55-item-f0f5dbbbc6"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-55-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-55-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a84e0ae6c6",
+      "title": "LibTV深度动作捕捉实测 – 一键搞定口播粗剪",
+      "weekly_anchor": "item-a84e0ae6c6",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-55-item-a84e0ae6c6"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-55-item-9e4d52734f"
+      },
+      "related_topics": []
+    }
+  ]
+}
