@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 55
-latest_file: ./55.md
-latest_title: AI Compass前沿速览：E-Commerce Bench、GPT-6 Astra把智能体带入可控执行，Headlong、Claude Fable 5.1把企业 Agent 拉回权限与安全边界
-published_at: 2026-09-04
-last_updated: 2026-09-04
+latest_issue: 56
+latest_file: ./56.md
+latest_title: AI Compass前沿速览：Claude Commerce Agents、E-Commerce Bench把智能体带入可控执行，AuK、H3-World把模型与内容生产接入交付链路
+published_at: 2026-09-11
+last_updated: 2026-09-11
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：55
-- 发布时间：2026-09-04
-- 文件入口：[55.md](./55.md)
-- 标题：AI Compass前沿速览：E-Commerce Bench、GPT-6 Astra把智能体带入可控执行，Headlong、Claude Fable 5.1把企业 Agent 拉回权限与安全边界
+- 最新期数：56
+- 发布时间：2026-09-11
+- 文件入口：[56.md](./56.md)
+- 标题：AI Compass前沿速览：Claude Commerce Agents、E-Commerce Bench把智能体带入可控执行，AuK、H3-World把模型与内容生产接入交付链路
 
 ## AI 使用建议
 
