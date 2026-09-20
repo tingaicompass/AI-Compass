@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "issue": 57,
+  "content_sha256": "cc2e73be45f15995f92c0884efb8cbbbdbc583071f36501c5648b5651a4a06d1",
+  "items": [
+    {
+      "section_id": "item-755b40c1cd",
+      "title": "Qwen3.8-LiveTranslate – 阿里通义推出的实时同声传译模型",
+      "weekly_anchor": "item-755b40c1cd",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-57-item-755b40c1cd"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-90e6264f1c",
+      "title": "HappyOyster 1.0 – 阿里推出的实时生成式开放世界模型系列",
+      "weekly_anchor": "item-90e6264f1c",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-57-item-90e6264f1c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9038d2a1b5",
+      "title": "GLM-5.3-FlashX – 智谱推出的高速推理模型",
+      "weekly_anchor": "item-9038d2a1b5",
+      "primary": {
+        "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md",
+        "anchor": "weekly-item-57-item-9038d2a1b5"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-57efc95ec9",
+      "title": "Jev – TypeSafe AI 推出的 AI 结构化决策模型",
+      "weekly_anchor": "item-57efc95ec9",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-57-item-57efc95ec9"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-06386350a8",
+      "title": "Spark-Audio-1.0-Preview – 科大讯飞推出的语音基座大模型",
+      "weekly_anchor": "item-06386350a8",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-06386350a8"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3937702057",
+      "title": "Gemini 3.8 Live – 谷歌推出的原生实时语音对话模型",
+      "weekly_anchor": "item-3937702057",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-3937702057"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-8bfca66268",
+      "title": "Step Audio 3 – 阶跃星辰推出的语音大模型系列",
+      "weekly_anchor": "item-8bfca66268",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-8bfca66268"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-018c2fc1d2",
+      "title": "Vidu S2 – 生数科技推出的实时交互与编辑视频模型",
+      "weekly_anchor": "item-018c2fc1d2",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-018c2fc1d2"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d346279d7f",
+      "title": "HiDream-O1-Video-1.0 – 智象未来推出的全模态视频生成模型",
+      "weekly_anchor": "item-d346279d7f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-d346279d7f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9c227e3961",
+      "title": "Livo – 快看漫画推出的 AI 数字生命互动应用",
+      "weekly_anchor": "item-9c227e3961",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-57-item-9c227e3961"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-72435431d1",
+      "title": "游点灵 – 腾讯推出的 AI 游戏创作平台",
+      "weekly_anchor": "item-72435431d1",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-57-item-72435431d1"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-4710895938",
+      "title": "Seed 2.1 Pro 升级实测 – 豆包多模态 Coding 能力全解析",
+      "weekly_anchor": "item-4710895938",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-4710895938"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-56ab6b8b0b",
+      "title": "商汤小浣熊搭建多 Agent 专家团实战教程",
+      "weekly_anchor": "item-56ab6b8b0b",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-57-item-56ab6b8b0b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3d7c757dd9",
+      "title": "Chatterfly – 腾讯推出的 AI 原生语音助手",
+      "weekly_anchor": "item-3d7c757dd9",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-3d7c757dd9"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-b7e5e08cea",
+      "title": "Hologres – 阿里云推出的一站式Agentic多模态检索分析平台",
+      "weekly_anchor": "item-b7e5e08cea",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-57-item-b7e5e08cea"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-f7e558c580",
+      "title": "Qwen3.8-Omni-Flash – 阿里千问推出的原生全模态模型",
+      "weekly_anchor": "item-f7e558c580",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-57-item-f7e558c580"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a3c4ed63f4",
+      "title": "MiniMax Code CLI – MiniMax 开源的命令行 AI 编程工具",
+      "weekly_anchor": "item-a3c4ed63f4",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-57-item-a3c4ed63f4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ae0eefdbd3",
+      "title": "Hypit – 开源的 AI 视频生成工具，自动复刻爆款视频",
+      "weekly_anchor": "item-ae0eefdbd3",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-ae0eefdbd3"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-efd2b83066",
+      "title": "GitHub爆火的7个AI Agent开源项目- 让Agent学会管理Agent",
+      "weekly_anchor": "item-efd2b83066",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-57-item-efd2b83066"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-2862508cff",
+      "title": "Open-RAIL – 中国移动开源的具身智能通用工程底座",
+      "weekly_anchor": "item-2862508cff",
+      "primary": {
+        "topic_path": "3.7 AI Robot/3.AIRobot.md",
+        "anchor": "weekly-item-57-item-2862508cff"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9141666dd1",
+      "title": "Octop – 腾讯开源的自托管 AI 智能助手",
+      "weekly_anchor": "item-9141666dd1",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-57-item-9141666dd1"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-6d844a254e",
+      "title": "ZDTaichu5.0-9B – 紫东太初开源的新一代通用多模态大模型",
+      "weekly_anchor": "item-6d844a254e",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-6d844a254e"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-57de29387e",
+      "title": "Infinite Canvas 深度体验 – 把即梦和 Lovart 搬进本地电脑",
+      "weekly_anchor": "item-57de29387e",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-57de29387e"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        },
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-2a7632b40e",
+      "title": "Iris – 小红书 AllSpark 团队开源的搜索智能体",
+      "weekly_anchor": "item-2a7632b40e",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-57-item-2a7632b40e"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-09cd711f9f",
+      "title": "YuE2 – 港科技大联合 M-A-P 团队开源的音乐生成模型",
+      "weekly_anchor": "item-09cd711f9f",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-57-item-09cd711f9f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-57-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-57-item-9e4d52734f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    }
+  ]
+}

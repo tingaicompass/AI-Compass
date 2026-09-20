@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 56
-latest_file: ./56.md
-latest_title: AI Compass前沿速览：Claude Commerce Agents、E-Commerce Bench把智能体带入可控执行，AuK、H3-World把模型与内容生产接入交付链路
-published_at: 2026-09-11
-last_updated: 2026-09-11
+latest_issue: 57
+latest_file: ./57.md
+latest_title: AI Compass前沿速览：MiniMax Code CLI、GitHub爆火的7个AI Agent开源项目- 让Agent学会管理Agent把代码模型拉回可控交付
+published_at: 2026-09-20
+last_updated: 2026-09-20
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：56
-- 发布时间：2026-09-11
-- 文件入口：[56.md](./56.md)
-- 标题：AI Compass前沿速览：Claude Commerce Agents、E-Commerce Bench把智能体带入可控执行，AuK、H3-World把模型与内容生产接入交付链路
+- 最新期数：57
+- 发布时间：2026-09-20
+- 文件入口：[57.md](./57.md)
+- 标题：AI Compass前沿速览：MiniMax Code CLI、GitHub爆火的7个AI Agent开源项目- 让Agent学会管理Agent把代码模型拉回可控交付
 
 ## AI 使用建议
 
