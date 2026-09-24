@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 57
-latest_file: ./57.md
-latest_title: AI Compass前沿速览：MiniMax Code CLI、GitHub爆火的7个AI Agent开源项目- 让Agent学会管理Agent把代码模型拉回可控交付
-published_at: 2026-09-20
-last_updated: 2026-09-20
+latest_issue: 58
+latest_file: ./58.md
+latest_title: AI Compass前沿速览：GPT-6 Sol与Luna把前沿智能以更低价格推入日常应用，Step Code、Jev Search与Laya把开源智能体部署落到终端、搜索与决策工作流
+published_at: 2026-09-24
+last_updated: 2026-09-24
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：57
-- 发布时间：2026-09-20
-- 文件入口：[57.md](./57.md)
-- 标题：AI Compass前沿速览：MiniMax Code CLI、GitHub爆火的7个AI Agent开源项目- 让Agent学会管理Agent把代码模型拉回可控交付
+- 最新期数：58
+- 发布时间：2026-09-24
+- 文件入口：[58.md](./58.md)
+- 标题：AI Compass前沿速览：GPT-6 Sol与Luna把前沿智能以更低价格推入日常应用，Step Code、Jev Search与Laya把开源智能体部署落到终端、搜索与决策工作流
 
 ## AI 使用建议
 

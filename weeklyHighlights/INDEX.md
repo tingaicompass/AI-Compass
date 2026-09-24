@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-09-20
+last_updated: 2026-09-24
 ---
 
 # weeklyHighlights 索引
@@ -77,6 +77,7 @@ last_updated: 2026-09-20
 | 55 | 前沿速览 | [55.md](./55.md) | AI Compass前沿速览：E-Commerce Bench、GPT-6 Astra把智能体带入可控执行，Headlong、Claude Fable 5.1把企业 Agent 拉回权限与安全边界 |
 | 56 | 前沿速览 | [56.md](./56.md) | AI Compass前沿速览：Claude Commerce Agents、E-Commerce Bench把智能体带入可控执行，AuK、H3-World把模型与内容生产接入交付链路 |
 | 57 | 前沿速览 | [57.md](./57.md) | AI Compass前沿速览：MiniMax Code CLI、GitHub爆火的7个AI Agent开源项目- 让Agent学会管理Agent把代码模型拉回可控交付 |
+| 58 | 前沿速览 | [58.md](./58.md) | AI Compass前沿速览：GPT-6 Sol与Luna把前沿智能以更低价格推入日常应用，Step Code、Jev Search与Laya把开源智能体部署落到终端、搜索与决策工作流 |
 
 ## 给 AI 的使用约定
 

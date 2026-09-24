@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "issue": 58,
+  "content_sha256": "f47027242ba52b7406ee54a2536ca78b2a87e1b1b7ba942e89d4652865c99264",
+  "items": [
+    {
+      "section_id": "item-3969c523f4",
+      "title": "GPT-6 Luna – OpenAI 推出的轻量级 AI 模型",
+      "weekly_anchor": "item-3969c523f4",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-58-item-3969c523f4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-af96e0b697",
+      "title": "GPT-6 Sol – OpenAI 推出的中高端大模型",
+      "weekly_anchor": "item-af96e0b697",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-58-item-af96e0b697"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7762b8467f",
+      "title": "Claude Opus 5.5 – Anthropic推出的最新旗舰模型",
+      "weekly_anchor": "item-7762b8467f",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-58-item-7762b8467f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b1e3509e0e",
+      "title": "Hy Image3.5 preview – 腾讯混元推出的专业级生图模型",
+      "weekly_anchor": "item-b1e3509e0e",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-58-item-b1e3509e0e"
+      },
+      "related_topics": [
+        {
+          "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-d1756cb3f9",
+      "title": "Grok 4.7 – SpaceXAI 推出的最新旗舰大模型",
+      "weekly_anchor": "item-d1756cb3f9",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-58-item-d1756cb3f9"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-1c740b3174",
+      "title": "MusicBuddy – 腾讯音乐推出的 AI 音乐创作平台",
+      "weekly_anchor": "item-1c740b3174",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-58-item-1c740b3174"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-4953c976f4",
+      "title": "怎么用AI做论文配图？SciDraw AI一站式解决科研绘图难题",
+      "weekly_anchor": "item-4953c976f4",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-58-item-4953c976f4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ffa9e9d274",
+      "title": "Qwen Intelligence – 阿里通义推出的AI手机全栈解决方案",
+      "weekly_anchor": "item-ffa9e9d274",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-58-item-ffa9e9d274"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5d50e092e8",
+      "title": "Kimi Code Desktop – Kimi 推出的 Kimi Code 桌面客户端",
+      "weekly_anchor": "item-5d50e092e8",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-58-item-5d50e092e8"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-63e57ba938",
+      "title": "混元智囊团 – 腾讯推出面向外部行业人才的专家平台",
+      "weekly_anchor": "item-63e57ba938",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-58-item-63e57ba938"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a3c6e6e4d1",
+      "title": "剪映Hub – 剪映推出的一站式 AI 视频创作入口",
+      "weekly_anchor": "item-a3c6e6e4d1",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-58-item-a3c6e6e4d1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a4b92d3da6",
+      "title": "豆包工作「浏览器录制与回放」技能完整评测",
+      "weekly_anchor": "item-a4b92d3da6",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-58-item-a4b92d3da6"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ae0eefdbd3",
+      "title": "Hypit 实测 – 一句话让 AI Agent 复刻爆款视频",
+      "weekly_anchor": "item-ae0eefdbd3",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-58-item-ae0eefdbd3"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-7f30e99f63",
+      "title": "Step Code – 阶跃星辰开源的终端编程智能体",
+      "weekly_anchor": "item-7f30e99f63",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-58-item-7f30e99f63"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-803180817b",
+      "title": "Xiaomi MiMo-V2.6 – 小米开源的全模态模型系列",
+      "weekly_anchor": "item-803180817b",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-58-item-803180817b"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.7 AI Robot/3.AIRobot.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-acd73ba11c",
+      "title": "Jev Search – 开源 AI 搜索引擎，调用 Jev 模型自动分析",
+      "weekly_anchor": "item-acd73ba11c",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-58-item-acd73ba11c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-1c9defb7fc",
+      "title": "Laya – 开源的非自回归 AI 决策模型，Jev 开源平替",
+      "weekly_anchor": "item-1c9defb7fc",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-58-item-1c9defb7fc"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-95a09923e3",
+      "title": "WebCraftBench – 腾讯联合清华推出的AI网页生成评测基准",
+      "weekly_anchor": "item-95a09923e3",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-58-item-95a09923e3"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-58-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-58-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-6387bab665",
+      "title": "Jev 聊天助手 – 开源 AI 聊天辅助应用，生成最得体的回复",
+      "weekly_anchor": "item-6387bab665",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-58-item-6387bab665"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-58-item-9e4d52734f"
+      },
+      "related_topics": []
+    }
+  ]
+}

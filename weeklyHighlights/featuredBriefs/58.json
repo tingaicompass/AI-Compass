@@ -1,0 +1,72 @@
+{
+  "thesis": {
+    "headline": "前沿模型开始按价格分层进入日常任务，开源 Agent 把执行和评测拉回可验收工作流",
+    "summary": "本期的关键变化，是前沿模型按任务深度和单位成本分层，而不再只靠单一旗舰演示。GPT-6 Sol 与 Luna 的 API 价格较上一代降低 50%，Sol 在 AutomationBench 得 33.2%、Agents' Last Exam 得 56.4%；Claude Opus 5.5 在 Terminal-Bench 4.0 达到 66.4%，典型任务总成本节省 40%。MiMo-V2.6 开源 524B、159B、9B 三档模型，Step Code 在 Terminal Bench 2.1 通过率并列第一且 Token 消耗最低。开发者应先按推理深度和预算选模型，再用评测基准、权限档位和端侧准确率验证 Agent 能否交付。"
+  },
+  "themes": [
+    {
+      "title": "前沿模型正在按价格和任务深度拆成日常层与推理层",
+      "summary": "同一代模型不再只有一个入口，轻量理解、中高端推理和旗舰编码开始同时比较价格、速度和基准。",
+      "items": [
+        {
+          "section_id": "item-af96e0b697",
+          "fact": "GPT-6 Sol 与 Luna 沿用 Astra 训练方法，API 价格较上一代降低 50%；Sol 为每百万 token 输入 $2、输出 $10，AutomationBench 得 33.2%，Agents' Last Exam 得 56.4%，成本仅为竞品的 9%–60%。",
+          "why_it_matters": "复杂 Agent 和工作流不必默认购买最贵旗舰，可以先用中高端层核对单位智能成本和任务通过率。"
+        },
+        {
+          "section_id": "item-3969c523f4",
+          "fact": "GPT-6 Luna 负责轻量高效的多模态理解，支持文本、图像、音频联合处理，并与 Sol 按需调度；其 API 价格为每百万 token 输入 $0.10、输出 $0.50。",
+          "why_it_matters": "高频理解类请求可以和深层推理拆开部署，避免日常多模态流量占用推理层预算。"
+        },
+        {
+          "section_id": "item-7762b8467f",
+          "fact": "Claude Opus 5.5 在 Terminal-Bench 4.0 达到 66.4%，输入输出降价 20%，典型任务总成本节省 40%，输出提速 30% 以上，并用 effort 参数调节推理深度。",
+          "why_it_matters": "旗舰编码模型的比较点已同时包含基准、单价、总成本和可控推理深度，而不能只看单次生成质量。"
+        },
+        {
+          "section_id": "item-d1756cb3f9",
+          "fact": "Grok 4.7 定位为编码与知识工作旗舰，服务价格与 Grok 4.6 持平，强化数小时级仓库任务、自我验证和长上下文管理。",
+          "why_it_matters": "同价换长程执行能力，说明仓库级编码要比的是能否持续纠错，而不只是单次补全。"
+        }
+      ]
+    },
+    {
+      "title": "开源模型把 Agent 强化学习做成可复现资产",
+      "summary": "全模态 Agent 能力开始以可下载的参数档位和可验证训练轨迹出现，而不只存在于闭源接口。",
+      "items": [
+        {
+          "section_id": "item-803180817b",
+          "fact": "MiMo-V2.6 开源 524B 的 Pro-RL、159B 的 Flash-RL 和 9B 的 Distill-Qwen，6 天内完成约 75 万条轨迹训练，并使用 1M 上下文覆盖代码、视觉、具身和内容创作。",
+          "why_it_matters": "团队可以按参数规模复现 Agent 强化学习，而不是只能调用一个无法检查训练过程的黑盒模型。"
+        }
+      ]
+    },
+    {
+      "title": "编程智能体开始把权限和 Token 成本写进终端闭环",
+      "summary": "终端 Agent 的差异不再只是会不会改代码，而是长程任务的 Token 效率和危险命令是否可控。",
+      "items": [
+        {
+          "section_id": "item-7f30e99f63",
+          "fact": "Step Code 以 MIT 协议开源，在 Terminal Bench 2.1 通过率并列第一且 Token 消耗最低，并提供 Ask、Read Only、Bypass、Autopilot 四档权限。",
+          "why_it_matters": "代码 Agent 进入日常研发前，需要同时验收任务通过率、Token 成本和危险命令确认机制。"
+        }
+      ]
+    },
+    {
+      "title": "端侧落地和网页评测开始要求可量化验收",
+      "summary": "手机 Agent 和网页生成都开始用准确率、覆盖率和人工一致率约束演示效果。",
+      "items": [
+        {
+          "section_id": "item-ffa9e9d274",
+          "fact": "Qwen Intelligence 提供 Mobile Planner、Mobile-Use 和 Mobile Creative，已与荣耀合作落地，综合任务准确率达 91.8%，首图生成仅需 3 秒。",
+          "why_it_matters": "手机 Agent 的验收要看跨 App 操作准确率和安全兜底，而不是再增加一个对话入口。"
+        },
+        {
+          "section_id": "item-95a09923e3",
+          "fact": "WebCraftBench 由腾讯混元联合清华、北大推出，包含 369 条真实需求、5,088 条验收标准，并在 17 个模型的 6,273 个应用上达到 85.3% 的人类偏好一致率。",
+          "why_it_matters": "网页生成可以从主观观感转向覆盖率、状态图和验收标准，模型迭代才有可复现的质量门槛。"
+        }
+      ]
+    }
+  ]
+}
