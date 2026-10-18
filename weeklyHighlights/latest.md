@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 58
-latest_file: ./58.md
-latest_title: AI Compass前沿速览：GPT-6 Sol与Luna把前沿智能以更低价格推入日常应用，Step Code、Jev Search与Laya把开源智能体部署落到终端、搜索与决策工作流
-published_at: 2026-09-24
-last_updated: 2026-09-24
+latest_issue: 59
+latest_file: ./59.md
+latest_title: AI Compass前沿速览：BlenderWorld 把视觉智能体评测推入三维场景构建，OpenDots、Gemini Agent 与 Scion 把代理工作流从自主执行转向实时操控与代码管理
+published_at: 2026-10-18
+last_updated: 2026-10-18
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：58
-- 发布时间：2026-09-24
-- 文件入口：[58.md](./58.md)
-- 标题：AI Compass前沿速览：GPT-6 Sol与Luna把前沿智能以更低价格推入日常应用，Step Code、Jev Search与Laya把开源智能体部署落到终端、搜索与决策工作流
+- 最新期数：59
+- 发布时间：2026-10-18
+- 文件入口：[59.md](./59.md)
+- 标题：AI Compass前沿速览：BlenderWorld 把视觉智能体评测推入三维场景构建，OpenDots、Gemini Agent 与 Scion 把代理工作流从自主执行转向实时操控与代码管理
 
 ## AI 使用建议
 

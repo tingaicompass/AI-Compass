@@ -113,3 +113,9 @@ Read the relevant module overview before source files. Describe purpose, main co
 - If a term is absent, say that it is not currently recorded in AI-Compass after searching the relevant subtree; do not fabricate an entry.
 - If internal sources disagree, report the conflict with paths and dates rather than silently choosing one.
 - If the user requests real-time external facts, explain that AI-Compass is a local snapshot, use the latest recorded issue as the repository baseline, and only browse externally when the task separately authorizes it.
+
+## External Router Network
+
+When weekly-highlight topic routing uses an OpenAI-compatible endpoint, run the DNS preflight before starting a large hybrid sync. If `socket.getaddrinfo()` fails inside the current Codex process, do not repeatedly retry every item and do not change VPN DNS blindly. Use `--router-mode rules --router-timeout 10`, keep the warning in the run manifest, and rerun hybrid after network access is verified. The incident-specific diagnosis and Terminal/VPN checks are recorded in `docs/codex-router-network.md`.
+
+For repeatable runs, use `tools/sync_weekly_highlight_safe.sh`; it performs the preflight and chooses `hybrid` or `rules` automatically.

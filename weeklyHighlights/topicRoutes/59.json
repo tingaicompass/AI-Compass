@@ -1,0 +1,698 @@
+{
+  "schema_version": 1,
+  "issue": 59,
+  "content_sha256": "e2d8bfae55f859e82355c291cb90c76e1824b52be1dbb620b6c40d2999a02769",
+  "items": [
+    {
+      "section_id": "item-f88c3b8ca6",
+      "title": "GPT-Live-1.1 – OpenAI 推出的 ChatGPT 新一代语音模型",
+      "weekly_anchor": "item-f88c3b8ca6",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-59-item-f88c3b8ca6"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d2e08adee2",
+      "title": "Grok Voice 3.0 – SpaceXSI 推出的端到端语音转语音模型",
+      "weekly_anchor": "item-d2e08adee2",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-d2e08adee2"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-30f742135a",
+      "title": "GLM-Legal – 智谱推出的法律专用大模型",
+      "weekly_anchor": "item-30f742135a",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-59-item-30f742135a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-875741c687",
+      "title": "Muse Wonder – Meta 超级智能实验室推出的前沿模型系列",
+      "weekly_anchor": "item-875741c687",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-875741c687"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-dd18602b7d",
+      "title": "HeyGen Voice – HeyGen 推出的自研语音模型",
+      "weekly_anchor": "item-dd18602b7d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-dd18602b7d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d729a17cfa",
+      "title": "Microsoft-Decision-1 – 微软推出的新一代 AI 决策模型",
+      "weekly_anchor": "item-d729a17cfa",
+      "primary": {
+        "topic_path": "2.1 LLM训练框架/2.大模型训练框架.md",
+        "anchor": "weekly-item-59-item-d729a17cfa"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        },
+        {
+          "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-13dd42e05f",
+      "title": "Vidu Q4 Preview – 生数科技推出的新一代旗舰视频生成模型",
+      "weekly_anchor": "item-13dd42e05f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-13dd42e05f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5cf2c637a5",
+      "title": "Claude Haiku 5.5 – Anthropic 推出的最新轻量级模型",
+      "weekly_anchor": "item-5cf2c637a5",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-59-item-5cf2c637a5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-798bcdc62b",
+      "title": "Mistral Large 4 – Mistral AI 开源的最新旗舰大模型",
+      "weekly_anchor": "item-798bcdc62b",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-59-item-798bcdc62b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-121c340f9c",
+      "title": "DeepSeek-V4.1-Flash-1017 – DeepSeek推出的最新优化版",
+      "weekly_anchor": "item-121c340f9c",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-59-item-121c340f9c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-00112ee533",
+      "title": "Synvas – AI 视频画布创作工具，支持边生成、边剪辑",
+      "weekly_anchor": "item-00112ee533",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-00112ee533"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-389398c9e3",
+      "title": "用 Claude Opus 5.5 制作视频，18 类场景案例合集",
+      "weekly_anchor": "item-389398c9e3",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-389398c9e3"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-2f017af785",
+      "title": "百雀智能获客教程 – 覆盖从定制标准到销售接手",
+      "weekly_anchor": "item-2f017af785",
+      "primary": {
+        "topic_path": "2.0 Embedding模型/2.Embedding模型.md",
+        "anchor": "weekly-item-59-item-2f017af785"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-14a16b1ba4",
+      "title": "Surface Laptop Ultra – 微软联合英伟达推出的最强 AI PC",
+      "weekly_anchor": "item-14a16b1ba4",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-14a16b1ba4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-6cadb83654",
+      "title": "豆包工作多 Agent 功能实测 – 一句话拆解复杂任务",
+      "weekly_anchor": "item-6cadb83654",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-59-item-6cadb83654"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a7a4db0af5",
+      "title": "UPUP – 零一绿洲推出的专属 AI 游戏搭子",
+      "weekly_anchor": "item-a7a4db0af5",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-a7a4db0af5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-81511aa502",
+      "title": "WorkBuddy 零基础开发微信小程序教程 – 附实战案例",
+      "weekly_anchor": "item-81511aa502",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-81511aa502"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-e827c58774",
+      "title": "怎么用豆包工作操作剪映，附 AI 剪视频完整教程",
+      "weekly_anchor": "item-e827c58774",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-e827c58774"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-e696cf8f86",
+      "title": "Poppy – Sierra 联合 Meta 等推出的开放协议草案",
+      "weekly_anchor": "item-e696cf8f86",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-e696cf8f86"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9c22e30743",
+      "title": "Taplot – AI 互动短剧平台，观众可选择剧情走向",
+      "weekly_anchor": "item-9c22e30743",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-9c22e30743"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-1a84fd9c4b",
+      "title": "Bobby AI – RockFlow 推出的金融投资 AI Agent",
+      "weekly_anchor": "item-1a84fd9c4b",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-59-item-1a84fd9c4b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-80aa4ce3e3",
+      "title": "Gemini agent – 谷歌推出的通用办公智能体",
+      "weekly_anchor": "item-80aa4ce3e3",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-59-item-80aa4ce3e3"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-0192f7263a",
+      "title": "Eazo – AI App生成平台，一句话可生成完整应用",
+      "weekly_anchor": "item-0192f7263a",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-0192f7263a"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-6e2e51fe63",
+      "title": "BinkBink – 虎牙推出的 AI 游戏制作工具应用",
+      "weekly_anchor": "item-6e2e51fe63",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-6e2e51fe63"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-57e41261e1",
+      "title": "Popto – AI 数字人口播视频生成平台，自动拆解爆款原视频",
+      "weekly_anchor": "item-57e41261e1",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-57e41261e1"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-ac686a5e77",
+      "title": "Qoni – Eazo 面向生产级 AI Agent 的托管基础设施平台",
+      "weekly_anchor": "item-ac686a5e77",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-59-item-ac686a5e77"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-85fd1ecd86",
+      "title": "EveryInfra – AI 应用基础设施平台，一站式底层能力支持",
+      "weekly_anchor": "item-85fd1ecd86",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-85fd1ecd86"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-02015ebc6a",
+      "title": "BlenderWorld – Qwen 开源的 3D 创作 Agent 评测基准",
+      "weekly_anchor": "item-02015ebc6a",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-59-item-02015ebc6a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-299f6dcc3b",
+      "title": "已获取链接内容",
+      "weekly_anchor": "item-299f6dcc3b",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-299f6dcc3b"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-ead34f0285",
+      "title": "Hy Memory 2.0 – 腾讯混元开源的智能体记忆框架",
+      "weekly_anchor": "item-ead34f0285",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-ead34f0285"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-daabd68651",
+      "title": "MiDashengLM-Spatial – 小米开源的空间音频理解大模型",
+      "weekly_anchor": "item-daabd68651",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-daabd68651"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        },
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9489883625",
+      "title": "FLUX 3 Image Klein – Black Forest Labs 开源的AI图像模型",
+      "weekly_anchor": "item-9489883625",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-9489883625"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-72b423ca20",
+      "title": "Muse Spark Open – Meta 开源的多模态大模型",
+      "weekly_anchor": "item-72b423ca20",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-72b423ca20"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-e5dba94213",
+      "title": "Doory – 开源的在线设计编辑器，Canva 开源平替",
+      "weekly_anchor": "item-e5dba94213",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-e5dba94213"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-c6b06059d7",
+      "title": "DMAD – 字节联合德州农工开源的扩散模型少步蒸馏技术",
+      "weekly_anchor": "item-c6b06059d7",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-c6b06059d7"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9b2865902d",
+      "title": "Matrix-Game 4.0 – 昆仑万维开源显卡运行的视频大模型游戏",
+      "weekly_anchor": "item-9b2865902d",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-9b2865902d"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-00db4be543",
+      "title": "Scion – Anthropic 推出的源代码版本控制系统，替代 Git",
+      "weekly_anchor": "item-00db4be543",
+      "primary": {
+        "topic_path": "2.0 Embedding模型/2.Embedding模型.md",
+        "anchor": "weekly-item-59-item-00db4be543"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-808729bf3c",
+      "title": "ArtCraft – 开源AI图像视频创作工作台，解决出图不可控痛点",
+      "weekly_anchor": "item-808729bf3c",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-808729bf3c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-df6a5bf3d6",
+      "title": "ip-as-logo-skill – 开源的 Agent Skill，能生成 IP 吉祥物头像",
+      "weekly_anchor": "item-df6a5bf3d6",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-df6a5bf3d6"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-8929e98c9f",
+      "title": "OpenDots – CopilotKit 推出的 AI 同事，OpenAI Dots 开源版",
+      "weekly_anchor": "item-8929e98c9f",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-8929e98c9f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-141e7a636c",
+      "title": "REA – 开源的逆向分析工具，无需源码、对话式分析软件",
+      "weekly_anchor": "item-141e7a636c",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-141e7a636c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7a205409f8",
+      "title": "QwenGyre – 阿里千问推出的在线强化学习框架",
+      "weekly_anchor": "item-7a205409f8",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-59-item-7a205409f8"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5e604d2165",
+      "title": "Beam – Reflection AI 开源的首款大语言模型",
+      "weekly_anchor": "item-5e604d2165",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-59-item-5e604d2165"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-f5c26ab7e4",
+      "title": "WorkBuddy 让 AI 直接修改 Word/Excel/PPT 文档保姆级教程",
+      "weekly_anchor": "item-f5c26ab7e4",
+      "primary": {
+        "topic_path": "1.1 Prompt工程/2.Prompt工程.md",
+        "anchor": "weekly-item-59-item-f5c26ab7e4"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-d6eca8cd88",
+      "title": "Clef – Cloudflare 开源的决策模型家族",
+      "weekly_anchor": "item-d6eca8cd88",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-d6eca8cd88"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c6db504d11",
+      "title": "获取链接内容",
+      "weekly_anchor": "item-c6db504d11",
+      "primary": {
+        "topic_path": "2.1 LLM训练框架/2.大模型训练框架.md",
+        "anchor": "weekly-item-59-item-c6db504d11"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-103847f310",
+      "title": "Naive-N0.5-Flash – NaiveAI 开源的首个 MoE 大模型",
+      "weekly_anchor": "item-103847f310",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-103847f310"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-0c8ff1dea0",
+      "title": "Startlux-Decision – StartLux Labs 开源的决策模型家族",
+      "weekly_anchor": "item-0c8ff1dea0",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-0c8ff1dea0"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-59-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-0931ff2188",
+      "title": "PixelUMM – NVIDIA 联合滑铁卢大学推出的多模态模型",
+      "weekly_anchor": "item-0931ff2188",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-0931ff2188"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-47ef33d2a1",
+      "title": "YoVoice – 开源的音频创作工具，支持多国语言",
+      "weekly_anchor": "item-47ef33d2a1",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-47ef33d2a1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-4de69a6121",
+      "title": "HelixWorld – Noiz AI 联合港科大开源的实时交互世界模型",
+      "weekly_anchor": "item-4de69a6121",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-4de69a6121"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d96c4116d0",
+      "title": "LFM2.5-24B-A2B – Liquid AI 开源的端侧推理模型",
+      "weekly_anchor": "item-d96c4116d0",
+      "primary": {
+        "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md",
+        "anchor": "weekly-item-59-item-d96c4116d0"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-0b4ed739b4",
+      "title": "MiniCPM-V 4.7 – 面壁智能等开源的端侧多模态大模型",
+      "weekly_anchor": "item-0b4ed739b4",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-0b4ed739b4"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-89838f27ce",
+      "title": "TalkLikeYou – 中科院自动化所开源的实时数字人框架",
+      "weekly_anchor": "item-89838f27ce",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-89838f27ce"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ad791bcadf",
+      "title": "VeriLoop E2 – 清华大学开源的 27B 后训练模型",
+      "weekly_anchor": "item-ad791bcadf",
+      "primary": {
+        "topic_path": "2.1 LLM训练框架/2.大模型训练框架.md",
+        "anchor": "weekly-item-59-item-ad791bcadf"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-bb113d7972",
+      "title": "VoxMem – 墨尔本大学等开源的音频大模型记忆基准",
+      "weekly_anchor": "item-bb113d7972",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-59-item-bb113d7972"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        },
+        {
+          "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-59-item-9e4d52734f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    }
+  ]
+}
