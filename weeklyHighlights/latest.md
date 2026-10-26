@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 59
-latest_file: ./59.md
-latest_title: AI Compass前沿速览：BlenderWorld 把视觉智能体评测推入三维场景构建，OpenDots、Gemini Agent 与 Scion 把代理工作流从自主执行转向实时操控与代码管理
-published_at: 2026-10-18
-last_updated: 2026-10-18
+latest_issue: 60
+latest_file: ./60.md
+latest_title: AI Compass前沿速览：DeepInfer 与星火X2.6 把开源交付从单一权重转向完整资源，Seedance 2.5 4K 与 SparkAudio 1.0 把生成能力从通用转向 4K 视频与专业音频
+published_at: 2026-10-26
+last_updated: 2026-10-26
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：59
-- 发布时间：2026-10-18
-- 文件入口：[59.md](./59.md)
-- 标题：AI Compass前沿速览：BlenderWorld 把视觉智能体评测推入三维场景构建，OpenDots、Gemini Agent 与 Scion 把代理工作流从自主执行转向实时操控与代码管理
+- 最新期数：60
+- 发布时间：2026-10-26
+- 文件入口：[60.md](./60.md)
+- 标题：AI Compass前沿速览：DeepInfer 与星火X2.6 把开源交付从单一权重转向完整资源，Seedance 2.5 4K 与 SparkAudio 1.0 把生成能力从通用转向 4K 视频与专业音频
 
 ## AI 使用建议
 
