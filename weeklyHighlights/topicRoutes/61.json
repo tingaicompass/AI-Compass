@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "issue": 61,
+  "content_sha256": "713bac0448f0ef3b6556d9b5b9826a6aed338c914898917f181faebe5deddbcd",
+  "items": [
+    {
+      "section_id": "item-7fa60619cd",
+      "title": "Gemini 4 Carbon – 谷歌 DeepMind 推出的最新旗舰大模型",
+      "weekly_anchor": "item-7fa60619cd",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-61-item-7fa60619cd"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-6077c149f5",
+      "title": "MAI-Image-2.7-Preview – 微软推出的图像编辑模型",
+      "weekly_anchor": "item-6077c149f5",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-6077c149f5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5836110c08",
+      "title": "Genie 4 – Google DeepMind 推出的新一代世界模型",
+      "weekly_anchor": "item-5836110c08",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-5836110c08"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.7 AI Robot/3.AIRobot.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9dad9d8dbd",
+      "title": "GPT-6.1 Terra – OpenAI 推出的高效执行型大模型",
+      "weekly_anchor": "item-9dad9d8dbd",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-61-item-9dad9d8dbd"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5d05029a56",
+      "title": "Seedance 2.5 4K – 火山引擎推出的高端版视频生成模型",
+      "weekly_anchor": "item-5d05029a56",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-5d05029a56"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-dbd06f6e27",
+      "title": "SparkAudio 1.0 – 科大讯飞推出的星火语音基座大模型",
+      "weekly_anchor": "item-dbd06f6e27",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-dbd06f6e27"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b2a3980e54",
+      "title": "Buddy One – 腾讯推出的跨应用 AI 协同体系",
+      "weekly_anchor": "item-b2a3980e54",
+      "primary": {
+        "topic_path": "3.1 RAG+workflow/3.RAG+workflow.md",
+        "anchor": "weekly-item-61-item-b2a3980e54"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.7 AI Robot/3.AIRobot.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-27880e9cf5",
+      "title": "豆包工作上线无限画布，AI 出图也能像 PS 一样分层改了",
+      "weekly_anchor": "item-27880e9cf5",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-61-item-27880e9cf5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ee6cba8922",
+      "title": "Genspark Media Studio – Genspark 推出的 AI 视频创作工具",
+      "weekly_anchor": "item-ee6cba8922",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-ee6cba8922"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-1a375390b5",
+      "title": "Loxinity – Soul 推出的 AI 音视频交互平台",
+      "weekly_anchor": "item-1a375390b5",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-61-item-1a375390b5"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-505e9b9164",
+      "title": "Cindy – 开源 AI Agent 工作台，可使用浏览器登录态真干活",
+      "weekly_anchor": "item-505e9b9164",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-61-item-505e9b9164"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-db65e6da52",
+      "title": "新词雷达 – 开源 AI 新词监测工具，自动扫描全网新词信号",
+      "weekly_anchor": "item-db65e6da52",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-61-item-db65e6da52"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3b9ce9fa44",
+      "title": "MiniCPM-OCR – 面壁智能开源的 OCR 系列模型",
+      "weekly_anchor": "item-3b9ce9fa44",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-3b9ce9fa44"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-508100b739",
+      "title": "Voyager – 开源的桌面创作 Agent，覆盖完整制作流程",
+      "weekly_anchor": "item-508100b739",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-61-item-508100b739"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-e513ad2844",
+      "title": "WorldSonus – 港科大联合上海交大开源的流式视频配音框架",
+      "weekly_anchor": "item-e513ad2844",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-61-item-e513ad2844"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-f3a2508a88",
+      "title": "Sealos Desktop – AI 桌面 Agent，自然语言代码上线与运维",
+      "weekly_anchor": "item-f3a2508a88",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-61-item-f3a2508a88"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-33a35311e4",
+      "title": "Hy-SimulMT – 腾讯混元开源的同声传译大模型",
+      "weekly_anchor": "item-33a35311e4",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-61-item-33a35311e4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-61-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-e820f7578f",
+      "title": "Unlimited OCR 2 – 百度文心开源的端到端文档解析模型",
+      "weekly_anchor": "item-e820f7578f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-e820f7578f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-d7dc9597b0",
+      "title": "DuoMatching – 港中文联合字节开源的视频生成蒸馏框架",
+      "weekly_anchor": "item-d7dc9597b0",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-61-item-d7dc9597b0"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-117463a79c",
+      "title": "Hi3D 1.0 – Math Magic 开源的国产 AI 3D 生成模型",
+      "weekly_anchor": "item-117463a79c",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-61-item-117463a79c"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-88326e77c4",
+      "title": "Hy-Nomas – 腾讯混元团队开源的交互式视频世界生成模型",
+      "weekly_anchor": "item-88326e77c4",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-88326e77c4"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-61-item-9e4d52734f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    }
+  ]
+}
