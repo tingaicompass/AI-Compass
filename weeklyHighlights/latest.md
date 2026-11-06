@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 61
-latest_file: ./61.md
-latest_title: AI Compass前沿速览：Loxinity、GPT-6.1 Terra把多模态创作落到生产环节，Gemini 4 Carbon、Voyager把模型与内容生产接入交付链路
-published_at: 2026-10-30
-last_updated: 2026-10-30
+latest_issue: 62
+latest_file: ./62.md
+latest_title: AI Compass前沿速览：GPT-6 Cyber、FlashProve把 Agent 开发拉回安全边界，GPT Images 2.6、SenseNova Loop-9B-Preview把模型与内容生产接入交付链路
+published_at: 2026-11-06
+last_updated: 2026-11-06
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：61
-- 发布时间：2026-10-30
-- 文件入口：[61.md](./61.md)
-- 标题：AI Compass前沿速览：Loxinity、GPT-6.1 Terra把多模态创作落到生产环节，Gemini 4 Carbon、Voyager把模型与内容生产接入交付链路
+- 最新期数：62
+- 发布时间：2026-11-06
+- 文件入口：[62.md](./62.md)
+- 标题：AI Compass前沿速览：GPT-6 Cyber、FlashProve把 Agent 开发拉回安全边界，GPT Images 2.6、SenseNova Loop-9B-Preview把模型与内容生产接入交付链路
 
 ## AI 使用建议
 
