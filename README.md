@@ -116,6 +116,8 @@
 
 收录时会优先考虑信息完整、链接稳定、与 AI 学习/开发/应用实践强相关的资源。商业工具也可以提交，但请明确说明定价、免费额度或试用方式；项目不会做付费排名，维护者会根据内容质量、可用性和社区价值进行整理。
 
+已拉取的 GitHub Issue 投稿与处理结果见 [资源收录台账](./docs/github-issue-resource-submissions.md)，其中保留每条投稿的原始正文和来源链接。
+
 ## 📅每周精选👇👇👇
 
 > 如果你是把仓库当知识库来用，建议优先查看 [`latest.md`](./weeklyHighlights/latest.md) 和 [`INDEX.md`](./weeklyHighlights/INDEX.md)；后续新增周报时请同步更新这两个文件，并参考 [`TEMPLATE.md`](./weeklyHighlights/TEMPLATE.md) 补齐元数据。
