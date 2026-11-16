@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 62
-latest_file: ./62.md
-latest_title: AI Compass前沿速览：GPT-6 Cyber、FlashProve把 Agent 开发拉回安全边界，GPT Images 2.6、SenseNova Loop-9B-Preview把模型与内容生产接入交付链路
-published_at: 2026-11-06
-last_updated: 2026-11-06
+latest_issue: 64
+latest_file: ./64.md
+latest_title: AI Compass前沿速览：DeepSeek 应用 API、Gemini 4 Hydrogen 把智能体接入开发流程，dots.tts.edit V1.1 与 LingBot-Touch 把语音和触觉模型推入应用验证
+published_at: 2026-11-16
+last_updated: 2026-11-16
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：62
-- 发布时间：2026-11-06
-- 文件入口：[62.md](./62.md)
-- 标题：AI Compass前沿速览：GPT-6 Cyber、FlashProve把 Agent 开发拉回安全边界，GPT Images 2.6、SenseNova Loop-9B-Preview把模型与内容生产接入交付链路
+- 最新期数：64
+- 发布时间：2026-11-16
+- 文件入口：[64.md](./64.md)
+- 标题：AI Compass前沿速览：DeepSeek 应用 API、Gemini 4 Hydrogen 把智能体接入开发流程，dots.tts.edit V1.1 与 LingBot-Touch 把语音和触觉模型推入应用验证
 
 ## AI 使用建议
 

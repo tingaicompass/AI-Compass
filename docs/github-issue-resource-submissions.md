@@ -1,10 +1,10 @@
 # GitHub Issue 资源收录台账
 
-> 数据来源：`https://api.github.com/repos/tingaicompass/AI-Compass/issues?state=all`；抓取日期：2026-11-06。
+> 首批数据来源：`https://api.github.com/repos/tingaicompass/AI-Compass/issues?state=all`，抓取日期为 2026-11-06；本轮于 2026-11-16 单独读取公开 Issue #27、#31、#32，并核对项目官网及可用文档。
 >
-> 本文件保留社区提交的原始正文与状态，供后续核验和维护。正文中的产品能力、价格、稳定性和效果均属于投稿方陈述，不自动等同于 AI-Compass 背书。
+> 本文件记录来源、状态快照与收录结果；历史投稿原文保留在下文，本轮新增条目以核验摘要归档。产品能力、费用和效果应区分投稿方陈述与公开资料核验，不自动等同于 AI-Compass 的运行测试或背书。
 >
-> 本次 API 返回 22 个对象，其中 #9 和 #22 为 Pull Request，按 issue 语义排除；下表收录 20 个实际 issue。
+> 首批 22 个 API 对象中排除 Pull Request #9、#22，收录 20 个实际 Issue；本轮新增 3 个，累计 23 个。旧条目状态仍为原抓取快照，本轮并未全量刷新；创建时间沿用 GitHub 的 UTC 记录。
 
 ## 汇总
 
@@ -30,6 +30,54 @@
 | [24](https://github.com/tingaicompass/AI-Compass/issues/24) | open | `pranshuchittora` | 2026-11-01 | 3.2 Agent/3.Agent.md |
 | [25](https://github.com/tingaicompass/AI-Compass/issues/25) | open | `Pygmalione` | 2026-11-02 | 9.学习平台/学习平台.md |
 | [26](https://github.com/tingaicompass/AI-Compass/issues/26) | open | `wzh0907` | 2026-11-04 | 4.AI 应用/4.AI应用.md |
+| [27](https://github.com/tingaicompass/AI-Compass/issues/27) | open | `u5196173364-svg` | 2026-11-06 | 1.1 Prompt工程/2.Prompt工程.md |
+| [31](https://github.com/tingaicompass/AI-Compass/issues/31) | open | `BlueSkyID666` | 2026-11-11 | 4.AI 应用/4.AI应用.md |
+| [32](https://github.com/tingaicompass/AI-Compass/issues/32) | open | `KKKKhazix` | 2026-11-13 | 0.AI导航工具集/0.AI导航工具集.md |
+
+## 增量收录（2026-11-16）
+
+以下为本轮指定投稿的整理摘要，完整原文可通过各 Issue 链接查看。三项均为项目维护方或经授权自荐，运行效果未作独立验证。
+
+### #32 AIHOT · Token 羊毛
+
+- 状态：`open`（核验日期：2026-11-16）
+- 作者：`KKKKhazix`
+- 创建时间：2026-11-13T23:31:23Z
+- 来源：https://github.com/tingaicompass/AI-Compass/issues/32
+- 项目处理：[0.AI导航工具集/0.AI导航工具集.md](../0.AI%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7%E9%9B%86/0.AI%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7%E9%9B%86.md#github-issue-32)
+
+按免费资源导航收录。已在未登录状态读取额度查询页，确认页面提供活动分类、领取入口、适用条件、有效期和核实日期；未逐项领取或调用，产品内积分不能直接当作通用 API 余额。
+
+- 官方资料：https://aihot.news/free-tokens
+
+### #31 Orkas – 面向小团队的多 Agent 桌面工作台
+
+- 状态：`open`（核验日期：2026-11-16）
+- 作者：`BlueSkyID666`
+- 创建时间：2026-11-11T04:47:27Z
+- 来源：https://github.com/tingaicompass/AI-Compass/issues/31
+- 项目处理：[4.AI 应用/4.AI应用.md](../4.AI%20%E5%BA%94%E7%94%A8/4.AI%E5%BA%94%E7%94%A8.md#github-issue-31)
+
+按面向终端用户的多 Agent 桌面应用收录。已核对官网、README、MIT 许可证及费用和安全说明，保留客户端与模型服务分别计费、本地资料与远程请求分开理解、源码版与官方打包版能力存在差异等边界。
+
+- 官方资料：https://orkas.ai/?lang=zh
+- 官方资料：https://github.com/Orkas-AI/Orkas
+- 官方资料：https://orkas.ai/security/?lang=zh
+- 官方资料：https://orkas.ai/pricing/?lang=zh
+
+### #27 NanoPrompts – 图像提示词与视觉构图学习资源
+
+- 状态：`open`（核验日期：2026-11-16）
+- 作者：`u5196173364-svg`
+- 创建时间：2026-11-06T08:44:37Z
+- 来源：https://github.com/tingaicompass/AI-Compass/issues/27
+- 项目处理：[1.1 Prompt工程/2.Prompt工程.md](../1.1%20Prompt%E5%B7%A5%E7%A8%8B/2.Prompt%E5%B7%A5%E7%A8%8B.md#github-issue-27)
+
+按图像提示词学习资源收录，包含场景分类、参考效果与构图修改指南。主页、中文入口和所举教程已读取；免费浏览及复制提示词不意味着站点素材取得新的开源授权，图片生成需另用外部服务。
+
+- 官方资料：https://nanoprompts.org/
+- 官方资料：https://nanoprompts.org/zh
+- 官方资料：https://nanoprompts.org/use-cases/portrait-artistic-photography/christmas-family-photo-prompts
 
 ## 原始投稿
 

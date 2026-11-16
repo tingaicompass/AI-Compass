@@ -160,56 +160,76 @@ When using the repository as a knowledge base, start with [`latest.md`](./weekly
 49. [MineExplorer and WorkBuddy Bench bring agent evaluation into real tasks; Claude Opus 5 and Yuanji AI connect models to content delivery](./weeklyHighlights/49.md)
 50. [Orchard, Warp Agent CLI, and WorldClaw accelerate controlled delivery; SmartSub and Wan-Animate-2 expand multimodal production](./weeklyHighlights/50.md)
 51. [PixelRAG, DeepSeek Harness, Nemotron 3.5 Lightning, and Muse Glimmer shift AI delivery toward efficient, verifiable multimodal agents](./weeklyHighlights/51.md)
+52. [AI Compass Weekly: Qwen3.8-27B and GLM-5.3 Turn Foundation Models into Multimodal and Post-Training Choices, While Grok 4.6 and Gemini 3.7 Flash Raise the Bar for Specialized Workflows](./weeklyHighlights/52.md)
+63. [AI Compass Weekly 63 · November 9, 2026](./weeklyHighlights/63.md)
 
 </details>
 
 ### Latest Issue
 
-[AI Compass Weekly: Qwen3.8-27B and GLM-5.3 Turn Foundation Models into Multimodal and Post-Training Choices, While Grok 4.6 and Gemini 3.7 Flash Raise the Bar for Specialized Workflows](./weeklyHighlights/52.md)
+[AI Compass Weekly: DeepSeek App API and Gemini 4 Hydrogen Connect Agents to Development Workflows; dots.tts.edit V1.1 and LingBot-Touch Put Specialized Models to the Test](./weeklyHighlights/64.md)
 
-> Issue 52 · 2026-08-17 · AI Compass Weekly
-> **21** items · **8** highlights · **3** themes · approximately **3** minutes
+> Issue 64 · 2026-11-16 · AI Compass Weekly
+> **29** items · **8** highlights · **4** themes · approximately **4** minutes
 
 #### Theme
 
-**Model capabilities are becoming distinct, verifiable delivery choices.**
+**Agent selection increasingly depends on the cost of integration, task delegation, and verification across the workflow.**
 
-This week is not simply about larger models; capabilities are separating into deployable choices. Qwen3.8-27B provides native multimodal understanding and long context, while GLM-5.3 uses post-training scaling for coding. Gemini 3.7 Flash targets code and agent workflows, and Grok 4.6 pairs 1.5T parameters with a 500K-token context window. WorkSwarm brings multi-agent collaboration into office and coding spaces, while img2threejs turns a product image into an interactive Three.js asset. Teams should evaluate foundation models, workflows, and output chains separately against context, code, multimodal delivery, and local-execution constraints.
+AI becomes more useful when tool access, task delegation, and result verification form an executable workflow. DeepSeek App API brings search and file handling to three conversation protocols; Gemini 4 Hydrogen supports switching models between planning and execution; and LoopForge builds script checks and human approval into development. Each has practical boundaries: DeepSeek bills tools separately from model tokens, free Gemini App users access Hydrogen through automatic model selection, and LoopForge waits for approval at key checkpoints. Meanwhile, dots.tts.edit and LingBot-Touch focus on editing parts of a recording and encoding contact signals. Teams should compare integration effort, rework after failures, and acceptance costs on real tasks before choosing models, designing orchestration, or assigning steps to specialized components.
 
 #### Highlights
 
-##### Foundation Model Selection Is Splitting into Scenario-Specific Delivery
+01. **Platforms Are Taking On Tool Integration and Model Delegation** · 2 highlights
+02. **Long-Running Development Needs Tests and Human Acceptance Built Into the Workflow** · 2 highlights
+03. **Memory and Automated Decisions Need Traceable Evidence and Validated Thresholds** · 2 highlights
+04. **Specialized Models Can Be Evaluated Through Clearly Bounded Tasks** · 2 highlights
 
-- **[Qwen3.8-27B](./weeklyHighlights/52.md#item-a2b155c781)**
-  - **Update**: Alibaba's new open model supports native multimodal understanding and long-context processing.
-  - **Why it matters**: Teams that handle text, images, and long documents can evaluate it as a unified foundation-model candidate.
-- **[GLM-5.3](./weeklyHighlights/52.md#item-8528a34f70)**
-  - **Update**: Shares its base with GLM-5.2 and uses post-training scaling to improve capability and coding performance.
-  - **Why it matters**: Coding-model evaluations should compare task gains from post-training, not only pretraining scale.
-- **[Gemini 3.7 Flash](./weeklyHighlights/52.md#item-fc27b96a27)**
-  - **Update**: Targets code development and agent automation workflows, with improved software-engineering and web-development benchmarks.
-  - **Why it matters**: High-frequency development automation can be tested against existing tool-calling, speed, and pricing constraints.
-- **[Grok 4.6](./weeklyHighlights/52.md#item-db5f89fa5f)**
-  - **Update**: Uses a 1.5T-parameter MoE architecture, offers a 500K-token context window, and accepts text and images.
-  - **Why it matters**: Cross-repository and long-horizon tasks need explicit acceptance criteria for context capacity and response speed.
+#### Selected Updates
 
-##### Multi-Agent Systems Are Moving Toward Controlled Collaboration and Local Boundaries
+##### 01 Platforms Are Taking On Tool Integration and Model Delegation
 
-- **[WorkSwarm](./weeklyHighlights/52.md#item-66912d8e85)**
-  - **Update**: Provides office and coding spaces for multi-agent collaboration and reduces token use through context slimming.
-  - **Why it matters**: Organizations can test whether role-based collaboration actually lowers manual orchestration and operating costs.
-- **[wigolo](./weeklyHighlights/52.md#item-0a5c7d4d5d)**
-  - **Update**: An open, local-first agent network layer that connects coding agents through MCP for multi-engine search.
-  - **Why it matters**: Teams with strict data boundaries can evaluate local retrieval and unified access instead of scattered external-search calls.
+> Developers can delegate some tool coordination and model switching to the platform, shifting evaluation toward permissions, costs, and results on actual tasks.
 
-##### Multimodal Creation Is Producing Reusable Production Assets
+- **[DeepSeek App API](./weeklyHighlights/64.md#item-809009c6a1)**
+  - **Update**: On November 13, DeepSeek added search, file input, and link reading to Messages, Responses, and Chat Completions, alongside standalone Search, Fetch, OCR, ASR, and TTS interfaces. Tool usage is billed separately from model tokens.
+  - **Why it matters**: Document Q&A and voice applications may require less custom tool coordination. Budgets should include both model and tool charges when comparing integrated services with a workflow built in-house.
+- **[Gemini 4 Hydrogen](./weeklyHighlights/64.md#item-ae9708de80)**
+  - **Update**: Hydrogen offers four reasoning levels. Antigravity Orchestrator can switch models between complex planning and code execution, returning to planning when execution stalls. Free Gemini App users receive Hydrogen for eligible requests through automatic model selection.
+  - **Why it matters**: Teams can assign model capabilities by task phase, then test handoffs, failure recovery, and total cost on real code changes. Access and capabilities need to be checked for each subscription tier.
 
-- **[MiniMax Music 3.0](./weeklyHighlights/52.md#item-7d21490457)**
-  - **Update**: Generates complete 32kHz stereo songs of up to five minutes from lyrics and structured descriptions.
-  - **Why it matters**: Content teams can establish reusable audio-production workflows instead of treating generation as a one-off ideation tool.
-- **[img2threejs](./weeklyHighlights/52.md#item-3faa81383c)**
-  - **Update**: Reconstructs one product image into an interactive, animation-ready Three.js model with TypeScript and JSON output.
-  - **Why it matters**: Commerce, web, and prototyping teams can validate asset editability and front-end integration cost directly.
+##### 02 Long-Running Development Needs Tests and Human Acceptance Built Into the Workflow
+
+> Planning and collaboration determine how far a task can progress; engineering checks and review checkpoints determine which results are ready to move toward delivery.
+
+- **[Claude Fable 5.2](./weeklyHighlights/64.md#item-1a91436f41)**
+  - **Update**: The report describes Fable 5.2 as a model for long-running engineering and multi-agent collaboration, including task decomposition, execution, cross-review, and adviser or orchestration roles. Operating-system and formal-proof examples are demonstrations of specific projects.
+  - **Why it matters**: Complex code migrations and research tasks warrant a fresh look at model delegation. Evaluation should use the team's own interface constraints, tests, and delivery criteria; demonstration scale does not establish unattended reliability.
+- **[LoopForge](./weeklyHighlights/64.md#item-d949e132b1)**
+  - **Update**: Tencent's open platform connects requirements, design, implementation, review, and acceptance through shared conversations and standard operating procedures. Build and test exit codes control progression, failures return logs for rework, and key checkpoints wait for human approval or rejection.
+  - **Why it matters**: Teams can make handoffs, failure handling, and approval requirements reusable, reducing repeated explanations and providing clear grounds for deciding whether work should continue.
+
+##### 03 Memory and Automated Decisions Need Traceable Evidence and Validated Thresholds
+
+> Recalled information should lead back to its source, and classification results should support review. Both depend on workflows that can verify and correct their outputs.
+
+- **[Loom](./weeklyHighlights/64.md#item-d805cd243a)**
+  - **Update**: Sense, Moment, and Memory connect first-person event understanding, experience segmentation, and long-term memory. Experiences carry start and end times plus supporting evidence; retrieval moves from an overview to details and distinguishes observations from inferences.
+  - **Why it matters**: Personal records and meeting follow-ups can link answers to original recordings. Evaluation should check capture coverage, device permissions, and whether the evidence supports each answer before judging the usefulness of reminders or recall.
+- **[Gemini Decision 1](./weeklyHighlights/64.md#item-b359f588bd)**
+  - **Update**: The model answers yes/no, multiple-choice, and rating questions over shared multimodal input, returning option probabilities and confidence for model routing, tool selection, and review triage.
+  - **Why it matters**: Teams can connect repeated judgments to code and send low-confidence cases to a person or another model. Thresholds still need validation on their own samples; output probabilities are not accuracy guarantees.
+
+##### 04 Specialized Models Can Be Evaluated Through Clearly Bounded Tasks
+
+> Speech editing and robotic touch have concrete inputs and outputs, letting teams test benefits with existing recordings and specific manipulation tasks.
+
+- **[dots.tts.edit V1.1](./weeklyHighlights/64.md#item-003c467d6b)**
+  - **Update**: Xiaohongshu's open speech-editing model uses text instructions to change content, emotion, speaking rate, and pauses in existing recordings. Operations attach to transcript spans or boundaries, with free-form descriptions for local style edits.
+  - **Why it matters**: Podcast, course, and audiobook teams can try targeted corrections and alternative line readings. Checking untouched regions, voice identity, and transitions will show whether the tool reduces re-recording work.
+- **[LingBot-Touch](./weeklyHighlights/64.md#item-650bdd5f86)**
+  - **Update**: The open tactile model encodes magnetic, vision-based, and piezoresistive signals into a shared representation and can serve as a frozen encoder for action models. The source reports validation on 26 real-robot tasks.
+  - **Why it matters**: Grasping and assembly research can test whether touch supplies contact information missing from vision. Transfer benefits should be checked on the team's own sensor layouts and tasks before extending results to other hardware.
 
 ---
 

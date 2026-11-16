@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "issue": 63,
+  "content_sha256": "6d6179cdda3c3de27b99b2c4cc7074f0725dc6b4750a1f52e10fa633979bc3aa",
+  "items": [
+    {
+      "section_id": "item-6563ac3cd4",
+      "title": "Qoduck – 阿里推出的匿名编程模型，上线 Qoder 免费用",
+      "weekly_anchor": "item-6563ac3cd4",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-63-item-6563ac3cd4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-53b07be632",
+      "title": "Gemini Omni 1.2 Flash – 谷歌推出的最新视频生成模型",
+      "weekly_anchor": "item-53b07be632",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-63-item-53b07be632"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-5ec50db6c9",
+      "title": "GPT Images 2.6 – OpenAI推出的新一代图像生成与编辑模型",
+      "weekly_anchor": "item-5ec50db6c9",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-63-item-5ec50db6c9"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d1f132ba53",
+      "title": "Hy4横评实测 – 6个用例对比Kimi K3.1 Pro与DeepSeek V4.1",
+      "weekly_anchor": "item-d1f132ba53",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-63-item-d1f132ba53"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-cceffea4dd",
+      "title": "Step Studio – 阶跃星辰推出的 AI 应用构建工作台",
+      "weekly_anchor": "item-cceffea4dd",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-63-item-cceffea4dd"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9d239e0afb",
+      "title": "Kimi Hosted Agents – 月之暗面推出的企业托管智能体服务",
+      "weekly_anchor": "item-9d239e0afb",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-63-item-9d239e0afb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-8b3311e527",
+      "title": "Ling-3.2-flash – 蚂蚁百灵推出的最新原生多模态大模型",
+      "weekly_anchor": "item-8b3311e527",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-63-item-8b3311e527"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a850963a9b",
+      "title": "文心5.5 Flash Base – 百度开源的最新基座模型",
+      "weekly_anchor": "item-a850963a9b",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-63-item-a850963a9b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7e4430c257",
+      "title": "GPT-6 Cyber – OpenAI 推出的网络安全专用模型",
+      "weekly_anchor": "item-7e4430c257",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-63-item-7e4430c257"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5fea936ab1",
+      "title": "Piccolo – 阿里 AgentScope 团队开源的决策模型系列",
+      "weekly_anchor": "item-5fea936ab1",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-63-item-5fea936ab1"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-d8d9a02597",
+      "title": "WeVisCut – 腾讯微信视觉开源的长视频自动剪辑 Agent",
+      "weekly_anchor": "item-d8d9a02597",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-63-item-d8d9a02597"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        },
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-0440fc14b1",
+      "title": "baoyu-design – 开源 AI 设计工具，Claude Design 本地平替",
+      "weekly_anchor": "item-0440fc14b1",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-63-item-0440fc14b1"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-5b59295dcf",
+      "title": "OXR – SoMark 开源的文档解析模型",
+      "weekly_anchor": "item-5b59295dcf",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-63-item-5b59295dcf"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-2ef35fc591",
+      "title": "OmniEdu – 北大联合国科大等开源的教育多模态模型系列",
+      "weekly_anchor": "item-2ef35fc591",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-63-item-2ef35fc591"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-fd60ae40ce",
+      "title": "EvaOmni – 上海交大、复旦等开源的全模态大模型评测基准",
+      "weekly_anchor": "item-fd60ae40ce",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-63-item-fd60ae40ce"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-63-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-63-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5b0597a351",
+      "title": "rea-video – 开源 AI 视频逆向工具，反推镜头复刻视频",
+      "weekly_anchor": "item-5b0597a351",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-63-item-5b0597a351"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-44946fd97d",
+      "title": "WeVisOne-VL – 微信视觉团队开源的视觉-语言基础模型",
+      "weekly_anchor": "item-44946fd97d",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-63-item-44946fd97d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-63-item-9e4d52734f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "issue": 64,
+  "content_sha256": "83aa66539200057f5f146029f85426caa1a063e93f5e783797e57cdf3cf1872b",
+  "items": [
+    {
+      "section_id": "item-323ac652cd",
+      "title": "Hy Realtime – 面向自然通话的语音理解与工具调用",
+      "weekly_anchor": "item-323ac652cd",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-64-item-323ac652cd"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-ae9708de80",
+      "title": "Gemini 4 Hydrogen – 高效执行模型与 Antigravity 自动模型协作",
+      "weekly_anchor": "item-ae9708de80",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-64-item-ae9708de80"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-61726904fc",
+      "title": "Physis-v1.0-preview – 以动作后果预测连接感知与控制",
+      "weekly_anchor": "item-61726904fc",
+      "primary": {
+        "topic_path": "3.7 AI Robot/3.AIRobot.md",
+        "anchor": "weekly-item-64-item-61726904fc"
+      },
+      "related_topics": [
+        {
+          "topic_path": "2.1 LLM训练框架/2.大模型训练框架.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-d805cd243a",
+      "title": "Loom – 从第一视角感知到可追溯的生活记忆",
+      "weekly_anchor": "item-d805cd243a",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-64-item-d805cd243a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b0279ffa1c",
+      "title": "Seedance 2.5 Flash – 面向多版本试作的视频生成档位",
+      "weekly_anchor": "item-b0279ffa1c",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-64-item-b0279ffa1c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b359f588bd",
+      "title": "Gemini Decision 1 – 将共享材料转为批量结构化判断",
+      "weekly_anchor": "item-b359f588bd",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-64-item-b359f588bd"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-84f6c49645",
+      "title": "Qwen4-Max 预览版 – 面向编程和工具操作的旗舰体验",
+      "weekly_anchor": "item-84f6c49645",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-64-item-84f6c49645"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-5c543ec013",
+      "title": "文心 5.5 Flash Preview – 将编程与工具使用延伸到创作任务",
+      "weekly_anchor": "item-5c543ec013",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-64-item-5c543ec013"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-c6391bec91",
+      "title": "Muse Ember – 面向高频重复任务的轻量执行模型",
+      "weekly_anchor": "item-c6391bec91",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-64-item-c6391bec91"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-1a91436f41",
+      "title": "Claude Fable 5.2 – 面向长程工程任务的规划与协作",
+      "weekly_anchor": "item-1a91436f41",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-64-item-1a91436f41"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-809009c6a1",
+      "title": "DeepSeek 应用 API – 将搜索、文件和语音能力接入应用开发",
+      "weekly_anchor": "item-809009c6a1",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-64-item-809009c6a1"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-accd2ecfbe",
+      "title": "Tabletop – 将群组讨论变成可共同维护的小应用",
+      "weekly_anchor": "item-accd2ecfbe",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-64-item-accd2ecfbe"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-197f962a3a",
+      "title": "即梦短剧工作室 – 连接剧本、资产、预演与剪辑的创作实践",
+      "weekly_anchor": "item-197f962a3a",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-64-item-197f962a3a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c2b21dc45c",
+      "title": "办公小浣熊 – 视频转文档、经营复盘与网页制作的应用体验",
+      "weekly_anchor": "item-c2b21dc45c",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-64-item-c2b21dc45c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-4418391a44",
+      "title": "Crafto – 将现有资料整理为可编辑的社媒轮播帖",
+      "weekly_anchor": "item-4418391a44",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-64-item-4418391a44"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-cd26e940bf",
+      "title": "气泡音扒谱 – 从分轨听辨到谱面核对的音乐练习流程",
+      "weekly_anchor": "item-cd26e940bf",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-64-item-cd26e940bf"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-56d4bacb70",
+      "title": "Claude Mythos 5.2 – 面向认证机构的专业研究与安全分析",
+      "weekly_anchor": "item-56d4bacb70",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-64-item-56d4bacb70"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-96b809410e",
+      "title": "开源项目精选第 2 期 – Kimi K3.1 Pro、Ripple-65B 与开发工具",
+      "weekly_anchor": "item-96b809410e",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-64-item-96b809410e"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md"
+        },
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-e151936447",
+      "title": "开源项目精选第 1 期 – AI 配音、学习助手与开发工具",
+      "weekly_anchor": "item-e151936447",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-64-item-e151936447"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-d949e132b1",
+      "title": "LoopForge – 用共享会话与 SOP 组织 AI 研发协作",
+      "weekly_anchor": "item-d949e132b1",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-64-item-d949e132b1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-f2d02994eb",
+      "title": "口喷鸡 Blurt – 把语音与录屏反馈整理成开发事项",
+      "weekly_anchor": "item-f2d02994eb",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-64-item-f2d02994eb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-003c467d6b",
+      "title": "dots.tts.edit V1.1 – 用文本指令局部修改录音",
+      "weekly_anchor": "item-003c467d6b",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-64-item-003c467d6b"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-650bdd5f86",
+      "title": "LingBot-Touch – 连接异构触觉传感器与机器人动作模型",
+      "weekly_anchor": "item-650bdd5f86",
+      "primary": {
+        "topic_path": "3.7 AI Robot/3.AIRobot.md",
+        "anchor": "weekly-item-64-item-650bdd5f86"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        },
+        {
+          "topic_path": "2.1 LLM训练框架/2.大模型训练框架.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-bb3818cd59",
+      "title": "MiniMax H3-Image – 支持多图参考与编辑的图像模型",
+      "weekly_anchor": "item-bb3818cd59",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-64-item-bb3818cd59"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-68f5d20f80",
+      "title": "Sophon-Realtime v1 – 支持打断与语气表达的全双工语音模型",
+      "weekly_anchor": "item-68f5d20f80",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-64-item-68f5d20f80"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-764ab2e669",
+      "title": "GPT Image 2.6 GIF 工具链 – 从静态精灵图到动画表情包",
+      "weekly_anchor": "item-764ab2e669",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-64-item-764ab2e669"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-64-item-185915a5fb"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-64-item-9e4d52734f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-64-item-eda5f8939d"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    }
+  ]
+}

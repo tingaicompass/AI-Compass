@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-11-06
+last_updated: 2026-11-16
 ---
 
 # weeklyHighlights 索引
@@ -82,6 +82,8 @@ last_updated: 2026-11-06
 | 60 | 前沿速览 | [60.md](./60.md) | AI Compass前沿速览：DeepInfer 与星火X2.6 把开源交付从单一权重转向完整资源，Seedance 2.5 4K 与 SparkAudio 1.0 把生成能力从通用转向 4K 视频与专业音频 |
 | 61 | 前沿速览 | [61.md](./61.md) | AI Compass前沿速览：Loxinity、GPT-6.1 Terra把多模态创作落到生产环节，Gemini 4 Carbon、Voyager把模型与内容生产接入交付链路 |
 | 62 | 前沿速览 | [62.md](./62.md) | AI Compass前沿速览：GPT-6 Cyber、FlashProve把 Agent 开发拉回安全边界，GPT Images 2.6、SenseNova Loop-9B-Preview把模型与内容生产接入交付链路 |
+| 63 | 前沿速览 | [63.md](./63.md) | AI Compass前沿速览：GPT-6 Cyber、GPT Images 2.6把 Agent 开发拉回安全边界，Gemini Omni 1.2 Flash、EvaOmni把模型与内容生产接入交付链路 |
+| 64 | 前沿速览 | [64.md](./64.md) | AI Compass前沿速览：DeepSeek 应用 API、Gemini 4 Hydrogen 把智能体接入开发流程，dots.tts.edit V1.1 与 LingBot-Touch 把语音和触觉模型推入应用验证 |
 
 ## 给 AI 的使用约定
 
