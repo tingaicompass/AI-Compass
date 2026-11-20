@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 64
-latest_file: ./64.md
-latest_title: AI Compass前沿速览：DeepSeek 应用 API、Gemini 4 Hydrogen 把智能体接入开发流程，dots.tts.edit V1.1 与 LingBot-Touch 把语音和触觉模型推入应用验证
-published_at: 2026-11-16
-last_updated: 2026-11-16
+latest_issue: 65
+latest_file: ./65.md
+latest_title: AI Compass前沿速览：Gemini 4 Neon 与 Lev 把推理成本拉回具体任务，PhysCapBench 与 SpatialScout 把视觉评测从认出物体转向描述运动和三维定位
+published_at: 2026-11-20
+last_updated: 2026-11-20
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：64
-- 发布时间：2026-11-16
-- 文件入口：[64.md](./64.md)
-- 标题：AI Compass前沿速览：DeepSeek 应用 API、Gemini 4 Hydrogen 把智能体接入开发流程，dots.tts.edit V1.1 与 LingBot-Touch 把语音和触觉模型推入应用验证
+- 最新期数：65
+- 发布时间：2026-11-20
+- 文件入口：[65.md](./65.md)
+- 标题：AI Compass前沿速览：Gemini 4 Neon 与 Lev 把推理成本拉回具体任务，PhysCapBench 与 SpatialScout 把视觉评测从认出物体转向描述运动和三维定位
 
 ## AI 使用建议
 

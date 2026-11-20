@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "issue": 65,
+  "content_sha256": "4a980b19c62b085d92938e05b3ad9dff58f8d7c3686b0467667ecc5accbf95c5",
+  "items": [
+    {
+      "section_id": "item-c147fdeb99",
+      "title": "Gemini 4 Neon – 面向复杂编程与分析的长上下文模型",
+      "weekly_anchor": "item-c147fdeb99",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-65-item-c147fdeb99"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-85bdc99137",
+      "title": "Kling Image 4.0 – 可灵的组图与长图创作模型",
+      "weekly_anchor": "item-85bdc99137",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-65-item-85bdc99137"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-53530e84cd",
+      "title": "GPT-6.2 Astra – 面向软件修改、文档与电脑操作的模型",
+      "weekly_anchor": "item-53530e84cd",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-65-item-53530e84cd"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c1f70ec80c",
+      "title": "GPT-6.2 Sol – 面向日常工作与工具调用的模型",
+      "weekly_anchor": "item-c1f70ec80c",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-65-item-c1f70ec80c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-e9cbb7efc8",
+      "title": "Qwen4-Max – 支持原生视觉与长程任务的千问模型",
+      "weekly_anchor": "item-e9cbb7efc8",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-65-item-e9cbb7efc8"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-18862e2331",
+      "title": "Moodmate – 用本地规则与可选模型记录心情的陪伴原型",
+      "weekly_anchor": "item-18862e2331",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-18862e2331"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-036321e717",
+      "title": "Baopix – 支持自然语言出图与局部修改的设计平台",
+      "weekly_anchor": "item-036321e717",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-036321e717"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-6d48e79aac",
+      "title": "Anywear – 把网店里的衣服放进实时试穿画面",
+      "weekly_anchor": "item-6d48e79aac",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-6d48e79aac"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9f28e1cd20",
+      "title": "Yoola – 快手的互动玩法创作与分发平台",
+      "weekly_anchor": "item-9f28e1cd20",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-9f28e1cd20"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d0f5b5687e",
+      "title": "HolyMolly – VAST 的 AI 游戏创作与游玩平台",
+      "weekly_anchor": "item-d0f5b5687e",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-d0f5b5687e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d55c4fa739",
+      "title": "Hy4 flash 与 DeepSeek V4.1 flash 对比 – 五项办公任务实测",
+      "weekly_anchor": "item-d55c4fa739",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-65-item-d55c4fa739"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-6563ac3cd4",
+      "title": "Qoduck – Qoder 匿名模型的前端与视觉个案评测",
+      "weekly_anchor": "item-6563ac3cd4",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-65-item-6563ac3cd4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-67b75856ff",
+      "title": "Hindsight – 可检索事实、回溯来源的智能体长期记忆系统",
+      "weekly_anchor": "item-67b75856ff",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-65-item-67b75856ff"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-f29319432b",
+      "title": "MapFlow – 让不同模型复用共享前缀的注意力图",
+      "weekly_anchor": "item-f29319432b",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-65-item-f29319432b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-824c321b12",
+      "title": "nanoMuse – 在手机与电脑之间接力的个人智能体",
+      "weekly_anchor": "item-824c321b12",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-65-item-824c321b12"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b786888a28",
+      "title": "Hy4 flash – 腾讯混元开放权重的长上下文多模态模型",
+      "weekly_anchor": "item-b786888a28",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-65-item-b786888a28"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-52d539d0fa",
+      "title": "PhysCapBench – 衡量视频描述是否保留物理信息的基准",
+      "weekly_anchor": "item-52d539d0fa",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-65-item-52d539d0fa"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d853c7a21b",
+      "title": "Duo v1 – 在持续接收音视频时决定何时开口的全双工模型",
+      "weekly_anchor": "item-d853c7a21b",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-65-item-d853c7a21b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5482d22b35",
+      "title": "Lev – 用循环深度调节决策计算量的开源模型",
+      "weekly_anchor": "item-5482d22b35",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-65-item-5482d22b35"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d6b0e66e0a",
+      "title": "Nex-N2.6 – 面向电脑操作、编程和长程工具调用的模型",
+      "weekly_anchor": "item-d6b0e66e0a",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-65-item-d6b0e66e0a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-32b252a953",
+      "title": "书生 S2.1 Flash – 能结合专用软件核验结果的科学多模态模型",
+      "weekly_anchor": "item-32b252a953",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-65-item-32b252a953"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7044d57bd6",
+      "title": "SpatialScout – 通过主动探索室内场景评测三维定位",
+      "weekly_anchor": "item-7044d57bd6",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-65-item-7044d57bd6"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-cf620b15b5",
+      "title": "OpenMotion – 把参考视频的镜头节奏写成可编辑工程",
+      "weekly_anchor": "item-cf620b15b5",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-65-item-cf620b15b5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c2ac406ede",
+      "title": "OiiOii 短片教程 – 从低分辨率预览到 2K 成片的制作案例",
+      "weekly_anchor": "item-c2ac406ede",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-c2ac406ede"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c6ff7cde07",
+      "title": "FashionMind – 基于 Google ADK 与 Gemini Live 的开源穿搭助手",
+      "weekly_anchor": "item-c6ff7cde07",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-65-item-c6ff7cde07"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-f688ada425",
+      "title": "VoiceStudio – 本地运行的音色设计与视频配音工作台",
+      "weekly_anchor": "item-f688ada425",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-65-item-f688ada425"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-65-item-9e4d52734f"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-65-item-eda5f8939d"
+      },
+      "related_topics": []
+    }
+  ]
+}

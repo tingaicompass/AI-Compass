@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-11-16
+last_updated: 2026-11-20
 ---
 
 # weeklyHighlights 索引
@@ -84,6 +84,7 @@ last_updated: 2026-11-16
 | 62 | 前沿速览 | [62.md](./62.md) | AI Compass前沿速览：GPT-6 Cyber、FlashProve把 Agent 开发拉回安全边界，GPT Images 2.6、SenseNova Loop-9B-Preview把模型与内容生产接入交付链路 |
 | 63 | 前沿速览 | [63.md](./63.md) | AI Compass前沿速览：GPT-6 Cyber、GPT Images 2.6把 Agent 开发拉回安全边界，Gemini Omni 1.2 Flash、EvaOmni把模型与内容生产接入交付链路 |
 | 64 | 前沿速览 | [64.md](./64.md) | AI Compass前沿速览：DeepSeek 应用 API、Gemini 4 Hydrogen 把智能体接入开发流程，dots.tts.edit V1.1 与 LingBot-Touch 把语音和触觉模型推入应用验证 |
+| 65 | 前沿速览 | [65.md](./65.md) | AI Compass前沿速览：Gemini 4 Neon 与 Lev 把推理成本拉回具体任务，PhysCapBench 与 SpatialScout 把视觉评测从认出物体转向描述运动和三维定位 |
 
 ## 给 AI 的使用约定
 
