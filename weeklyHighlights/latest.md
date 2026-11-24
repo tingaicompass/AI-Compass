@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 65
-latest_file: ./65.md
-latest_title: AI Compass前沿速览：Gemini 4 Neon 与 Lev 把推理成本拉回具体任务，PhysCapBench 与 SpatialScout 把视觉评测从认出物体转向描述运动和三维定位
-published_at: 2026-11-20
-last_updated: 2026-11-20
+latest_issue: 66
+latest_file: ./66.md
+latest_title: AI Compass前沿速览：Reveric与OpenMotion把视频创作推入本地开源，GLM-5.4与Gemini 4 Neon把模型能力落到效率分层
+published_at: 2026-11-24
+last_updated: 2026-11-24
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：65
-- 发布时间：2026-11-20
-- 文件入口：[65.md](./65.md)
-- 标题：AI Compass前沿速览：Gemini 4 Neon 与 Lev 把推理成本拉回具体任务，PhysCapBench 与 SpatialScout 把视觉评测从认出物体转向描述运动和三维定位
+- 最新期数：66
+- 发布时间：2026-11-24
+- 文件入口：[66.md](./66.md)
+- 标题：AI Compass前沿速览：Reveric与OpenMotion把视频创作推入本地开源，GLM-5.4与Gemini 4 Neon把模型能力落到效率分层
 
 ## AI 使用建议
 

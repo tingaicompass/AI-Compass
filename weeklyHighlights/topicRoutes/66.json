@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "issue": 66,
+  "content_sha256": "2151c4aef9790d17e96c8ec4083f27c02714abe0d8553431dcd264bd6f7d1cab",
+  "items": [
+    {
+      "section_id": "item-7276b486bf",
+      "title": "GLM-5.4 – 智谱推出的首个Loop Transformer架构旗舰模型",
+      "weekly_anchor": "item-7276b486bf",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-66-item-7276b486bf"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c147fdeb99",
+      "title": "Gemini 4 Neon – 谷歌推出的最新旗舰模型",
+      "weekly_anchor": "item-c147fdeb99",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-66-item-c147fdeb99"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-b40df9aec1",
+      "title": "Wajo – AI 个人助理平台，主动执行个人日常任务代办",
+      "weekly_anchor": "item-b40df9aec1",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-66-item-b40df9aec1"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-f928640550",
+      "title": "Converge AI – 一体化 AI 平台，覆盖创作、协作和企业管控",
+      "weekly_anchor": "item-f928640550",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-66-item-f928640550"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3d9a7f7672",
+      "title": "Plum – AI 角色互动平台，可与虚拟角色持续互动剧情聊天",
+      "weekly_anchor": "item-3d9a7f7672",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-66-item-3d9a7f7672"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-66beb36dd1",
+      "title": "做个小工具 – 微信推出的桌面端 AI 应用生成 Agent",
+      "weekly_anchor": "item-66beb36dd1",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-66-item-66beb36dd1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a5fc4635be",
+      "title": "腾讯混元Hy4 Flash vs DeepSeek V4.1：速度、质量与价格全解析",
+      "weekly_anchor": "item-a5fc4635be",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-66-item-a5fc4635be"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-036321e717",
+      "title": "Baopix – AI设计智能体平台，自然语言生成整套设计",
+      "weekly_anchor": "item-036321e717",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-66-item-036321e717"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-6d48e79aac",
+      "title": "Anywear – Decart AI 推出的 AI 实时虚拟试穿平台",
+      "weekly_anchor": "item-6d48e79aac",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-66-item-6d48e79aac"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-9f28e1cd20",
+      "title": "Yoola – 快手游戏推出的 AI 互动玩法创作平台",
+      "weekly_anchor": "item-9f28e1cd20",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-66-item-9f28e1cd20"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-56c8256f08",
+      "title": "WorkflowArena – Navers Lab 推出的多智能体编排基准",
+      "weekly_anchor": "item-56c8256f08",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-66-item-56c8256f08"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-c6e34d659e",
+      "title": "Shotkit – WhyStrohm 团队开源的 AI 视频制作工具",
+      "weekly_anchor": "item-c6e34d659e",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-c6e34d659e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-5a3742b0b1",
+      "title": "LingSante – 蚂蚁百灵团队开源的医疗大模型系列",
+      "weekly_anchor": "item-5a3742b0b1",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-5a3742b0b1"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-4b43e09c9d",
+      "title": "AI开源项目周刊 – 腾讯混元 Hy4 开源、苹果 FastFrames 等热门项目精选",
+      "weekly_anchor": "item-4b43e09c9d",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-4b43e09c9d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-70d576254b",
+      "title": "矩媒 MatrixMedia – 开源的自媒体视频矩阵发布与分发工具",
+      "weekly_anchor": "item-70d576254b",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-70d576254b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-f6d7c8b9ba",
+      "title": "earshot – 开源的 AI 音频工具，让编程Agent 听懂声音",
+      "weekly_anchor": "item-f6d7c8b9ba",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-f6d7c8b9ba"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        },
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-77023e7a65",
+      "title": "PhysisServe – 逆矩阵联合智源开源的物理 AI 推理框架",
+      "weekly_anchor": "item-77023e7a65",
+      "primary": {
+        "topic_path": "2.2 LLM推理框架+部署/2.LLM训练推理加速框架+部署.md",
+        "anchor": "weekly-item-66-item-77023e7a65"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-7b88431e60",
+      "title": "Linger – 前 DeepSeek-VL 负责人开源的个人 AI Agent",
+      "weekly_anchor": "item-7b88431e60",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-7b88431e60"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-1464c9a2e9",
+      "title": "Reveric – 开源 AI 内容创作桌面工作台，小说到成片全流程",
+      "weekly_anchor": "item-1464c9a2e9",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-1464c9a2e9"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-228bb027c4",
+      "title": "cinecode – 开源 AI 电影制作技能包，一句话生成完整剧本",
+      "weekly_anchor": "item-228bb027c4",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-228bb027c4"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-cf620b15b5",
+      "title": "OpenMotion – 开源 AI 视频复刻工具，用品牌素材照着复刻",
+      "weekly_anchor": "item-cf620b15b5",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-cf620b15b5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-67b75856ff",
+      "title": "Hindsight – 开源的智能体长期记忆系统，能模拟人脑分层",
+      "weekly_anchor": "item-67b75856ff",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-66-item-67b75856ff"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-0b3f75fd50",
+      "title": "OiiOii 实操教程 – 低成本制作 2K 高清 AI 短片",
+      "weekly_anchor": "item-0b3f75fd50",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-66-item-0b3f75fd50"
+      },
+      "related_topics": [
+        {
+          "topic_path": "3.2 Agent/3.Agent.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-66-item-185915a5fb"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-66-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-c358c8f44a",
+      "title": "WeMM-Video – 腾讯开源的中英双语全模态大模型系列",
+      "weekly_anchor": "item-c358c8f44a",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-66-item-c358c8f44a"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-40c6486189",
+      "title": "悟界·PhysCapBench – 智源推出的跨领域评测视频物理基准",
+      "weekly_anchor": "item-40c6486189",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-66-item-40c6486189"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "4.AI 应用/4.AI应用.md",
+        "anchor": "weekly-item-66-item-9e4d52734f"
+      },
+      "related_topics": []
+    }
+  ]
+}
