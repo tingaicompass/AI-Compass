@@ -1,14 +1,14 @@
 # GitHub Issue 资源收录台账
 
-> 首批数据来源：`https://api.github.com/repos/tingaicompass/AI-Compass/issues?state=all`，抓取日期为 2026-11-06；本轮于 2026-11-16 单独读取公开 Issue #27、#31、#32，并核对项目官网及可用文档。
+> 首批数据来源：`https://api.github.com/repos/tingaicompass/AI-Compass/issues?state=all`，抓取日期为 2026-11-06；2026-11-16 补录 #27、#31、#32。2026-11-27 核对 GitHub 开放申请列表、#34–#46 的投稿正文及各项目的一手资料。
 >
-> 本文件记录来源、状态快照与收录结果；历史投稿原文保留在下文，本轮新增条目以核验摘要归档。产品能力、费用和效果应区分投稿方陈述与公开资料核验，不自动等同于 AI-Compass 的运行测试或背书。
+> 汇总表链接到投稿原文和收录专题。历史投稿原文及摘要保留在下文。本次根据公开网页、文档和代码仓库归档，产品实测情况以各专题说明为准。
 >
-> 首批 22 个 API 对象中排除 Pull Request #9、#22，收录 20 个实际 Issue；本轮新增 3 个，累计 23 个。旧条目状态仍为原抓取快照，本轮并未全量刷新；创建时间沿用 GitHub 的 UTC 记录。
+> 首批收录 20 条，2026-11-16 补录 3 条，2026-11-27 补录 13 条，累计 36 条。表中状态是各批次抓取时的快照，当前状态见对应 GitHub Issue。创建日期使用 UTC。
 
 ## 汇总
 
-| Issue | 状态 | 作者 | 创建时间 | 处理结果 |
+| Issue | 抓取时状态 | 作者 | 创建时间 | 处理结果 |
 |---:|---|---|---|---|
 | [4](https://github.com/tingaicompass/AI-Compass/issues/4) | closed | `onepaperbox` | 2026-06-06 | 已在 0.AI导航工具集/0.AI导航工具集.md |
 | [5](https://github.com/tingaicompass/AI-Compass/issues/5) | closed | `lingfan36` | 2026-06-20 | 已在 0.AI导航工具集/0.AI导航工具集.md |
@@ -33,6 +33,19 @@
 | [27](https://github.com/tingaicompass/AI-Compass/issues/27) | open | `u5196173364-svg` | 2026-11-06 | 1.1 Prompt工程/2.Prompt工程.md |
 | [31](https://github.com/tingaicompass/AI-Compass/issues/31) | open | `BlueSkyID666` | 2026-11-11 | 4.AI 应用/4.AI应用.md |
 | [32](https://github.com/tingaicompass/AI-Compass/issues/32) | open | `KKKKhazix` | 2026-11-13 | 0.AI导航工具集/0.AI导航工具集.md |
+| [34](https://github.com/tingaicompass/AI-Compass/issues/34) | open | `dennisw3255` | 2026-11-17 | [Sapien1 · LLM 评估框架](../2.3%20LLM%E8%AF%84%E4%BC%B0%E6%A1%86%E6%9E%B6/2.LLM%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0.md#github-issue-34) |
+| [35](https://github.com/tingaicompass/AI-Compass/issues/35) | open | `circlestarzero` | 2026-11-18 | [MoeRouter · AI 导航工具集](../0.AI%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7%E9%9B%86/0.AI%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7%E9%9B%86.md#github-issue-35) |
+| [36](https://github.com/tingaicompass/AI-Compass/issues/36) | open | `mheilimo` | 2026-11-20 | [DDScore · AI 产品](../5.AI%E4%BA%A7%E5%93%81/5.AI%E4%BA%A7%E5%93%81.md#github-issue-36) |
+| [37](https://github.com/tingaicompass/AI-Compass/issues/37) | open | `jiangxingfan1-coder` | 2026-11-20 | [Open Agent API · Agent](../3.2%20Agent/3.Agent.md#github-issue-37) |
+| [38](https://github.com/tingaicompass/AI-Compass/issues/38) | open | `yjin94606-art` | 2026-11-21 | [Deepmine 深矿 · AI 应用](../4.AI%20%E5%BA%94%E7%94%A8/4.AI%E5%BA%94%E7%94%A8.md#github-issue-38) |
+| [39](https://github.com/tingaicompass/AI-Compass/issues/39) | open | `JonathanOwenTJ` | 2026-11-21 | [资料星球 · 学习平台](../9.%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0/%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0.md#github-issue-39) |
+| [40](https://github.com/tingaicompass/AI-Compass/issues/40) | open | `cloudgpuapp` | 2026-11-23 | [CloudGPU · 云算力](../9.%E7%A4%BE%E5%8C%BA%E8%AE%BA%E5%9D%9B/%E4%BA%91%E7%AE%97%E5%8A%9B.md#github-issue-40) |
+| [41](https://github.com/tingaicompass/AI-Compass/issues/41) | open | `ppcvote` | 2026-11-23 | [UltraProbe · Prompt 工程](../1.1%20Prompt%E5%B7%A5%E7%A8%8B/2.Prompt%E5%B7%A5%E7%A8%8B.md#github-issue-41) |
+| [42](https://github.com/tingaicompass/AI-Compass/issues/42) | open | `suicuLsi` | 2026-11-23 | [Linger · MCP+A2A](../3.0%20MCP%2BA2A/3.MCP%2BA2A.md#github-issue-42) |
+| [43](https://github.com/tingaicompass/AI-Compass/issues/43) | open | `zty5678` | 2026-11-24 | [removebackground.me · AI 应用](../4.AI%20%E5%BA%94%E7%94%A8/4.AI%E5%BA%94%E7%94%A8.md#github-issue-43) |
+| [44](https://github.com/tingaicompass/AI-Compass/issues/44) | open | `zty5678` | 2026-11-24 | [BulkImgGenerator · AI 应用](../4.AI%20%E5%BA%94%E7%94%A8/4.AI%E5%BA%94%E7%94%A8.md#github-issue-44) |
+| [45](https://github.com/tingaicompass/AI-Compass/issues/45) | open | `lmo0317` | 2026-11-25 | [ModuMath · AI 应用](../4.AI%20%E5%BA%94%E7%94%A8/4.AI%E5%BA%94%E7%94%A8.md#github-issue-45) |
+| [46](https://github.com/tingaicompass/AI-Compass/issues/46) | open | `zty5678` | 2026-11-25 | [ImageToPrompts · Prompt 工程](../1.1%20Prompt%E5%B7%A5%E7%A8%8B/2.Prompt%E5%B7%A5%E7%A8%8B.md#github-issue-46) |
 
 ## 增量收录（2026-11-16）
 
