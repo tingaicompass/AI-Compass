@@ -2,7 +2,7 @@
 id: weekly-highlights-index
 type: catalog
 scope: weeklyHighlights
-last_updated: 2026-11-24
+last_updated: 2026-11-27
 ---
 
 # weeklyHighlights 索引
@@ -86,6 +86,7 @@ last_updated: 2026-11-24
 | 64 | 前沿速览 | [64.md](./64.md) | AI Compass前沿速览：DeepSeek 应用 API、Gemini 4 Hydrogen 把智能体接入开发流程，dots.tts.edit V1.1 与 LingBot-Touch 把语音和触觉模型推入应用验证 |
 | 65 | 前沿速览 | [65.md](./65.md) | AI Compass前沿速览：Gemini 4 Neon 与 Lev 把推理成本拉回具体任务，PhysCapBench 与 SpatialScout 把视觉评测从认出物体转向描述运动和三维定位 |
 | 66 | 前沿速览 | [66.md](./66.md) | AI Compass前沿速览：Reveric与OpenMotion把视频创作推入本地开源，GLM-5.4与Gemini 4 Neon把模型能力落到效率分层 |
+| 67 | 前沿速览 | [67.md](./67.md) | AI Compass前沿速览：gBench与ShellBench把评测覆盖到开放模型与真实终端，GLM-5.4与Claude Ship把代码工作流拉回可控交付 |
 
 ## 给 AI 的使用约定
 

@@ -1,19 +1,19 @@
 ---
 id: weekly-highlights-latest
 type: pointer
-latest_issue: 66
-latest_file: ./66.md
-latest_title: AI Compass前沿速览：Reveric与OpenMotion把视频创作推入本地开源，GLM-5.4与Gemini 4 Neon把模型能力落到效率分层
-published_at: 2026-11-24
-last_updated: 2026-11-24
+latest_issue: 67
+latest_file: ./67.md
+latest_title: AI Compass前沿速览：gBench与ShellBench把评测覆盖到开放模型与真实终端，GLM-5.4与Claude Ship把代码工作流拉回可控交付
+published_at: 2026-11-27
+last_updated: 2026-11-27
 ---
 
 # weeklyHighlights 最新一期
 
-- 最新期数：66
-- 发布时间：2026-11-24
-- 文件入口：[66.md](./66.md)
-- 标题：AI Compass前沿速览：Reveric与OpenMotion把视频创作推入本地开源，GLM-5.4与Gemini 4 Neon把模型能力落到效率分层
+- 最新期数：67
+- 发布时间：2026-11-27
+- 文件入口：[67.md](./67.md)
+- 标题：AI Compass前沿速览：gBench与ShellBench把评测覆盖到开放模型与真实终端，GLM-5.4与Claude Ship把代码工作流拉回可控交付
 
 ## AI 使用建议
 

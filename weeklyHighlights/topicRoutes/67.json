@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "issue": 67,
+  "content_sha256": "dfe9545cc6bfe1695da26641c7bf3a3c055964d5a3c3db5079d203f3c2c86c6b",
+  "items": [
+    {
+      "section_id": "item-b70ed10c1a",
+      "title": "Niji V8 – Midjourney 等推出的动漫图像生成模型",
+      "weekly_anchor": "item-b70ed10c1a",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-b70ed10c1a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-d85d43454d",
+      "title": "Hy3D 3.6 – 腾讯混元推出的新一代 3D 生成大模型",
+      "weekly_anchor": "item-d85d43454d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-d85d43454d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-2f749d7c1b",
+      "title": "Tripo H3.5 Preview – VAST 推出的高精度 AI 3D 基座模型",
+      "weekly_anchor": "item-2f749d7c1b",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-2f749d7c1b"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7276b486bf",
+      "title": "GLM-5.4 – 智谱推出的首个Loop Transformer架构旗舰模型",
+      "weekly_anchor": "item-7276b486bf",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-67-item-7276b486bf"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-82ae657801",
+      "title": "HungerG – Qoder 推出的匿名编程模型，用户免费试用",
+      "weekly_anchor": "item-82ae657801",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-67-item-82ae657801"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7e3f59e34e",
+      "title": "Motubrain 2.0 – 生数科技推出的 Agentic 物理世界通用模型",
+      "weekly_anchor": "item-7e3f59e34e",
+      "primary": {
+        "topic_path": "3.2 Agent/3.Agent.md",
+        "anchor": "weekly-item-67-item-7e3f59e34e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-f83dd94c06",
+      "title": "SketchUp 白模怎么用 AI 做设计？附教程案例",
+      "weekly_anchor": "item-f83dd94c06",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-67-item-f83dd94c06"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-459a5cb689",
+      "title": "MAGI-2实测 – 30秒视频不串脸，价格仅为Seedance十分之一",
+      "weekly_anchor": "item-459a5cb689",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-459a5cb689"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7147c45971",
+      "title": "小豆 – 豆包推出的主动式 AI 个人助理",
+      "weekly_anchor": "item-7147c45971",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-67-item-7147c45971"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-e41351cfcc",
+      "title": "Claude Ship – Anthropic 推出的 AI 开发工具",
+      "weekly_anchor": "item-e41351cfcc",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-67-item-e41351cfcc"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-e971399a25",
+      "title": "lumimax – 海马云推出的企业级可信知识库基础设施",
+      "weekly_anchor": "item-e971399a25",
+      "primary": {
+        "topic_path": "3.1 RAG+workflow/3.RAG+workflow.md",
+        "anchor": "weekly-item-67-item-e971399a25"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-a4513651a4",
+      "title": "Ming-Image-0.2-Design – 蚂蚁百灵开源的图像生成模型",
+      "weekly_anchor": "item-a4513651a4",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-a4513651a4"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-546ea9ebe0",
+      "title": "DFly2 – 腾讯混元开源的新一代草稿模型",
+      "weekly_anchor": "item-546ea9ebe0",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-67-item-546ea9ebe0"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-40857e206a",
+      "title": "智谱 GLM-5.4 实测 – Loop Transformer 架构深度体验与 ZCode 上手教程",
+      "weekly_anchor": "item-40857e206a",
+      "primary": {
+        "topic_path": "1.3 LLM合集-语言/1.LLM合集-语言.md",
+        "anchor": "weekly-item-67-item-40857e206a"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ee66756469",
+      "title": "GameWM – 腾讯光子推出的下一代游戏世界模型",
+      "weekly_anchor": "item-ee66756469",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-67-item-ee66756469"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        },
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-4b43e09c9d",
+      "title": "AI开源项目周刊 – 腾讯混元 Hy4 开源、苹果 FastFrames 等热门项目精选",
+      "weekly_anchor": "item-4b43e09c9d",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-67-item-4b43e09c9d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-3a50fe4320",
+      "title": "PoseWear – 开源的 AI 虚拟试衣工具，开箱即用",
+      "weekly_anchor": "item-3a50fe4320",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-67-item-3a50fe4320"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-622b87602e",
+      "title": "OpenGame – OpenDesign 团队开源的全栈 AI 游戏工作室",
+      "weekly_anchor": "item-622b87602e",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-67-item-622b87602e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-989a35c99c",
+      "title": "gBench – 谷歌开源的 AI 基准测试框架",
+      "weekly_anchor": "item-989a35c99c",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-67-item-989a35c99c"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-ba12864e51",
+      "title": "Sage-Interaction – 上海 AI Lab 开源的全双工多模态模型",
+      "weekly_anchor": "item-ba12864e51",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-67-item-ba12864e51"
+      },
+      "related_topics": [
+        {
+          "topic_path": "1.4 LLM合集-多模态/多模态.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-e9ab7fee4a",
+      "title": "3DCodeFactory – 小红书开源的全自动 3D 数据合成框架",
+      "weekly_anchor": "item-e9ab7fee4a",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-e9ab7fee4a"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-f4fda570c7",
+      "title": "Ling-3.2-air – 蚂蚁百灵开源的原生多模态大模型",
+      "weekly_anchor": "item-f4fda570c7",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-f4fda570c7"
+      },
+      "related_topics": [
+        {
+          "topic_path": "7.AI项目推荐/7.AI项目推荐.md"
+        }
+      ]
+    },
+    {
+      "section_id": "item-6f6177e81d",
+      "title": "ShellBench – OpenClaw 等机构推出的 Agent 基准",
+      "weekly_anchor": "item-6f6177e81d",
+      "primary": {
+        "topic_path": "2.3 LLM评估框架/2.LLM模型评估.md",
+        "anchor": "weekly-item-67-item-6f6177e81d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-bbdcf3eb5e",
+      "title": "Hy MT3 – 腾讯混元开源的第三代翻译模型",
+      "weekly_anchor": "item-bbdcf3eb5e",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-67-item-bbdcf3eb5e"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-185915a5fb",
+      "title": "剧火AI - 接入 Seedance 2.0 的 AI 短剧制作平台",
+      "weekly_anchor": "item-185915a5fb",
+      "primary": {
+        "topic_path": "5.AI产品/5.AI产品.md",
+        "anchor": "weekly-item-67-item-185915a5fb"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-eda5f8939d",
+      "title": "Zopia - 面向营销人与创作者的 AI 视频与图像 Agent",
+      "weekly_anchor": "item-eda5f8939d",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-eda5f8939d"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-1c725f16f0",
+      "title": "MAGI-2 视频模型上手体验 – 复杂指令精准执行，AI 视频生成成本降至 1/10",
+      "weekly_anchor": "item-1c725f16f0",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-1c725f16f0"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-7dfd531bd5",
+      "title": "SenseNova U1.6 – 商汤科技推出的图像生成与理解模型",
+      "weekly_anchor": "item-7dfd531bd5",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-7dfd531bd5"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-2c2cb97ed6",
+      "title": "Uni3Sim – 无问芯穹联合清华开源的系统级仿真平台",
+      "weekly_anchor": "item-2c2cb97ed6",
+      "primary": {
+        "topic_path": "7.AI项目推荐/7.AI项目推荐.md",
+        "anchor": "weekly-item-67-item-2c2cb97ed6"
+      },
+      "related_topics": []
+    },
+    {
+      "section_id": "item-9e4d52734f",
+      "title": "AniShort - AI Short Drama Collaboration Platform",
+      "weekly_anchor": "item-9e4d52734f",
+      "primary": {
+        "topic_path": "1.4 LLM合集-多模态/多模态.md",
+        "anchor": "weekly-item-67-item-9e4d52734f"
+      },
+      "related_topics": [
+        {
+          "topic_path": "4.AI 应用/4.AI应用.md"
+        }
+      ]
+    }
+  ]
+}
